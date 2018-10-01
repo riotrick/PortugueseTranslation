@@ -554,16 +554,16 @@ QUEST_LV_0200_20150317_000553	Each sanctum is under the management of the Priest
 QUEST_LV_0200_20150317_000554	(The notice is half broken. Can't read all the writings.)	(반쯤 부서진 알림판이라 정확한 글씨가 보이지 않는다)				
 QUEST_LV_0200_20150317_000555	Altar Notice	성소의 알림판				
 QUEST_LV_0200_20150317_000556	You can receive blessings by offering money. {nl}Amount of offerings that can be received from each pilgrim differs.	이 곳의 성소는 헌금을 하여 축복을 받을 수 있습니다. {nl}순례자마다 축복을 받을 수 있는 헌금의 회수가 다르오니 이 점 양해 바랍니다. 				
-QUEST_LV_0200_20150317_000557	{nl}{nl}May the grace of the goddess be with you. {nl}-- Manager : [Pardoner Master] Maistes Goldmund	{nl}{nl}오늘도 여신의 은총이 함께 하시길.{nl}-- 성소 관리 : [파드너 마스터] 마이스테스 골드문트				
+QUEST_LV_0200_20150317_000557	{nl}{nl}May the grace of the goddess be with you. {nl}-- Manager : [Pardoner Master] Maistes Goldmunt	{nl}{nl}오늘도 여신의 은총이 함께 하시길.{nl}-- 성소 관리 : [파드너 마스터] 마이스테스 골드문트				
 QUEST_LV_0200_20150317_000558	You can receive blessings by offering goods. {nl}Lure fresh goods from the monsters nearby.	이 성소의 경배 방법은 제물을 바치는 것 입니다. {nl}주변의 몬스터로부터 신선한 제물을 유인하여 바치면 축복을 받을 수 있습니다.				
-QUEST_LV_0200_20150317_000559	{nl}The grace of the goddess be with you, always. {nl}--Manager : [Priest Master] Boruble	{nl}여신의 은총은 늘 당신과 함께.{nl}-- 성소 관리 : [프리스트 마스터] 보러블				
+QUEST_LV_0200_20150317_000559	{nl}The grace of the goddess be with you, always. {nl}--Manager : [Priest Master] Vorable	{nl}여신의 은총은 늘 당신과 함께.{nl}-- 성소 관리 : [프리스트 마스터] 보러블				
 QUEST_LV_0200_20150317_000560	Worship the Sanctum here. {nl}Blessings will be with you.	이 곳의 성소에 경배를 드리십시오. {nl}축복이 함께 할 것입니다.				
 QUEST_LV_0200_20150317_000561	{nl}May the grace of the goddess be with you.{nl}-- Manager : [Cleric Master] Rozalija	{nl}언제나 여신의 은총이 함께 하기를.{nl} -- 성소 관리 : [클레릭 마스터] 로잘리야				
 QUEST_LV_0200_20150317_000562	The cover of scripture on the altar smells like blood. Did the monsters eat all other pages?	제단에 올려진 경전 표지에서 피냄새가 난다. 다른 낱장들은 몬스터들이 찢어서 먹어 버린 걸까?				
 QUEST_LV_0200_20150317_000563	You can receive blessings by offering clear water. {nl}Fetch clean water from the stream.{nl}	이 곳의 성소에는 맑은 물을 바쳐 축복을 받을 수 있습니다. {nl}개울에 가서 맑은 물을 떠 오세요.{nl}				
-QUEST_LV_0200_20150317_000564	The blessings of the goddess will purify your soul like the clear water. {nl}-- Manager : [Oracle Master] Apolonija Barbora	여신의 축복이 물처럼 맑게 당신의 영혼을 정화 해 줄 것입니다.{nl}-- 성소 관리 : [오라클 마스터] 아폴로니야 바르보라				
+QUEST_LV_0200_20150317_000564	The blessings of the goddess will purify your soul like the clear water. {nl}-- Manager : [Oracle Master] Apolonia Barbora	여신의 축복이 물처럼 맑게 당신의 영혼을 정화 해 줄 것입니다.{nl}-- 성소 관리 : [오라클 마스터] 아폴로니야 바르보라				
 QUEST_LV_0200_20150317_000565	You will receive blessings if you offer reed flowers. {nl}Offer the reed flowers that can be found near the Purple Tree Fault Forest's Farewell Bridge. {nl}The grace of the goddess be with you, always. {nl}-- Manager : [Druid Master] Gina Greene	이 곳 성소에 갈대꽃을 바치면 축복이 함께 할 것입니다.{nl}적갈나무 단층숲의 이별의 다리 근처에 지천으로 피어 있는 갈대꽃을 바치세요.{nl}여신의 은총은 늘 당신과 함께.{nl}-- 성소 관리 : [드루이드 마스터] 지나 그린				
-QUEST_LV_0200_20150317_000566	You must offer money to the Sanctum. {nl}The blessings of the goddess will be with you. {nl}May you receive the grace of the goddess. {nl}-- Manager : [Pardoner Master] Maistes Goldmund	이 곳 성소에는 헌금을 해야 합니다.{nl}여신의 축복이 함께 할 것입니다.{nl}당신에게 여신의 은총을.{nl}-- 성소 관리 : [파드너 마스터] 마이스테스 골드문트				
+QUEST_LV_0200_20150317_000566	You must offer money to the Sanctum. {nl}The blessings of the goddess will be with you. {nl}May you receive the grace of the goddess. {nl}-- Manager : [Pardoner Master] Maistes Goldmunt	이 곳 성소에는 헌금을 해야 합니다.{nl}여신의 축복이 함께 할 것입니다.{nl}당신에게 여신의 은총을.{nl}-- 성소 관리 : [파드너 마스터] 마이스테스 골드문트				
 QUEST_LV_0200_20150317_000567	Pay worship to this Sanctum. {nl}The blessings of the goddess will be with those who lay themselves low. {nl}May the grace of the goddess be with you in your ordeals. {nl}--Manager : [Krivis Master] Hercus	이 성소에 경배 하세요.{nl}자세를 낮추는 자에게 여신의 축복이 함께 합니다. {nl}당신의 시련에 여신의 은총이 깃들기를.{nl}-- 성소 관리 : [크리비 마스터] 헤르쿠스				
 QUEST_LV_0200_20150317_000568	Sanctum	성소				
 QUEST_LV_0200_20150317_000569	Will you offer money and receive blessings?	헌금을 하여 축복을 받으시겠습니까?				
@@ -1013,9 +1013,9 @@ QUEST_LV_0200_20150317_001012	How could he do that to me when I was so good to h
 QUEST_LV_0200_20150317_001013	Is Mikolas not ready yet?	미콜라스 형이랑은 아직이야?				
 QUEST_LV_0200_20150317_001014	How could he do this to me?{nl}Mikolas...	세상에. 어쩜 내게 그럴 수 있는 거지?{nl}미콜라스 정말..				
 QUEST_LV_0200_20150317_001015	What? That doesn't make sense.{nl}I really left it at my brother's workplace.{nl}	뭐라고? 말도 안돼.{nl}난 정말 형의 작업장 앞에 두고 왔다고.{nl}				
-QUEST_LV_0200_20150317_001016	Ah, probably.. it may have been done by Elite Chupaluka.{nl}I saw it licking the brewing device. {nl}Can I ask one more time? What do you think?	아, 어쩌면.. 엘리트 츄카루카의 짓일지도 모르겠어.{nl}양조기구를 마구 핥아대는 걸 본 적이 있거든. {nl}한 번만 더 부탁하면 안될까. 응?				
-QUEST_LV_0200_20150317_001017	Thank you so much!{nl}I saw an Elite Chupaluka in the Dvuikoji Rest Area.{nl}If you find the brewing device by any chance, please let Mikolas know.	정말 고마워!{nl}엘리트 츄파루카는 드뷕코지 쉼터에서 봤어.{nl}혹시라도 양조기구를 찾게 된다면 미콜라스 형에게 꼭 전해 줘.				
-QUEST_LV_0200_20150317_001018	It could be an Elite Chupaluka that took the brewing device.{nl}If not… I can't let Mikolas down again.	제발 엘리트 츄파루카가 가져간 게 맞아야 할 텐데.{nl}그게 아니라면.. 형의 실망하는 얼굴은 상상조차 하기 싫군.				
+QUEST_LV_0200_20150317_001016	Ah, probably.. it may have been done by Elite Chukaruka.{nl}I saw it licking the brewing device. {nl}Can I ask one more time? What do you think?	아, 어쩌면.. 엘리트 츄카루카의 짓일지도 모르겠어.{nl}양조기구를 마구 핥아대는 걸 본 적이 있거든. {nl}한 번만 더 부탁하면 안될까. 응?				
+QUEST_LV_0200_20150317_001017	Thank you so much!{nl}I saw an Elite Chukaruka Dvikcoji Rest Area.{nl}If you find the brewing device by any chance, please let Mikolas know.	정말 고마워!{nl}엘리트 츄파루카는 드뷕코지 쉼터에서 봤어.{nl}혹시라도 양조기구를 찾게 된다면 미콜라스 형에게 꼭 전해 줘.				
+QUEST_LV_0200_20150317_001018	I hope the Elite Chukaruka took it.{nl}If not.. I don't wanna see his disappointed face.	제발 엘리트 츄파루카가 가져간 게 맞아야 할 텐데.{nl}그게 아니라면.. 형의 실망하는 얼굴은 상상조차 하기 싫군.				
 QUEST_LV_0200_20150317_001019	Oh, Isn't that my brewing device?{nl}Where did you get it?	아니 그건, 제 양조기구 아닙니까?{nl}어디서 나셨지요?				
 QUEST_LV_0200_20150317_001020	Oh my god. I owe you a lot.{nl}And my Cleopas.. I can't lift up my face.{nl}	이럴 수가. 당신에겐 정말 폐가 이만저만이 아니네요.{nl}그리고 나의 클레오파스.. 정말 얼굴을 들 수가 없네요.{nl}				
 QUEST_LV_0200_20150317_001021	I have a favor to ask you.{nl}Please obtain some royal jelly and hand it over to Cleopas.{nl}Cleopas really likes it.	당신께 부탁이 있어요.{nl}로열 젤리를 조금만 구해서 클레오파스에게 전해주실 수 있을까요?{nl}클레오파스가 정말 맛있게 먹거든요.				
@@ -3811,12 +3811,12 @@ QUEST_LV_0200_20150323_003810	I see. This spell spreads a poison that's pasted o
 QUEST_LV_0200_20150323_003811	You will find the answer to the question when you ask the Bokor Master.{nl}I am sorry that I can't help you anymore.	보코르 마스터님이라면 분명 네가 찾는 답을 얻을 수 있을 거야.{nl}난 여기까지밖에 도움이 되질 못해서 왠지 미안하네.				파이로맨서 마스터
 QUEST_LV_0200_20150323_003812	However, I don't know what this poison is.{nl}But this dagger... How about you go meet the Ranger Master?	하지만 저는 이게 무슨 독인지는 잘 모릅니다.{nl}하지만 단검이라면.. 레인저 마스터께 가 보시는건 어떨런지요.				보코르 마스터
 QUEST_LV_0200_20150323_003813	This dagger. Where is this from?{nl} You better tell me quick, before I lose my patience.	이 단검. 어디서 난 거지?{nl}내 화를 돋구기 전에 빨리 입을 여는 게 좋을 거야.				레인저 마스터
-QUEST_LV_0200_20150323_003814	The Ranger Master studied daggers for some time in the past.{nl}That was due to Evoniphon... She will give you the answer.	한 때 레인저 마스터께선 단검에 심취해 계신 적이 있으셨지요.{nl}다 에보니폰 때문에.. 어쨌든 분명 답을 줄 것입니다.				보코르 마스터
+QUEST_LV_0200_20150323_003814	The Ranger Master studied daggers for some time in the past.{nl}That was due to Ebonypawn... She will give you the answer.	한 때 레인저 마스터께선 단검에 심취해 계신 적이 있으셨지요.{nl}다 에보니폰 때문에.. 어쨌든 분명 답을 줄 것입니다.				보코르 마스터
 QUEST_LV_0200_20150323_003815	It was cast with a spell to spread poison on that land?{nl}Hmm. I've received help from an unexpected place.{nl}	개척지에서 독을 퍼뜨리는 주술에 걸려 있었다고?{nl}흠. 생각치도 못한 데서 도움을 얻었네.{nl}				레인저 마스터
-QUEST_LV_0200_20150323_003816	Anyhow, this dagger belongs to Evoniphon.{nl}You can tell by looking at the shape of the blade and the symbol. {nl}I can't detoxify it, but we've got some clues.	어쨌든 이 단검은 에보니폰의 것이야. 날의 모양과 문양을 보면 알 수 있지.{nl}하지만 해독같은건 나도 잘 몰라. 어쨌든 덕분에 실마리가 잡혔어.				레인저 마스터
-QUEST_LV_0200_20150323_003817	Don't worry about that. The Hunter Master knows a lot about poison.{nl}Like me, she is also after Evoniphon, so she will definitely welcome you.	그건 걱정 마. 헌터 마스터가 독에 대해서 잘 아니까.{nl}나와 함께 에보니폰을 쫓고 있으니 분명 잘 반겨 줄 거야.				레인저 마스터
+QUEST_LV_0200_20150323_003816	Anyhow, this dagger belongs to Ebonypawn.{nl}You can tell by looking at the shape of the blade and the symbol. {nl}I can't detoxify it, but we've got some clues.	어쨌든 이 단검은 에보니폰의 것이야. 날의 모양과 문양을 보면 알 수 있지.{nl}하지만 해독같은건 나도 잘 몰라. 어쨌든 덕분에 실마리가 잡혔어.				레인저 마스터
+QUEST_LV_0200_20150323_003817	Don't worry about that. The Hunter Master knows a lot about poison.{nl}Like me, she is also after Ebonypawn, so she will definitely welcome you.	그건 걱정 마. 헌터 마스터가 독에 대해서 잘 아니까.{nl}나와 함께 에보니폰을 쫓고 있으니 분명 잘 반겨 줄 거야.				레인저 마스터
 QUEST_LV_0200_20150323_003818	Can I help you with anything?{nl}So you want to know how to detoxify this poison...	제겐 무슨 볼일이시죠?{nl}이 독을 해독하는 방법이 궁금하시다고요.				헌터 마스터
-QUEST_LV_0200_20150323_003819	He would dare come to Klaipeda...{nl}Evoniphon. I won't let you slip away this time.	겁도 없이 클라페다 근처에..{nl}에보니폰. 이번에야 말로 놓치지 않겠어.				레인저 마스터
+QUEST_LV_0200_20150323_003819	He would dare come to Klaipeda...{nl}Ebonypawn. I won't let you slip away this time.	겁도 없이 클라페다 근처에..{nl}에보니폰. 이번에야 말로 놓치지 않겠어.				레인저 마스터
 QUEST_LV_0200_20150323_003820	What happened to the Pyromancer's task?	파이로맨서의 일은 어떻게 됐습니까?				기티스
 QUEST_LV_0200_20150323_003821	So should I just report about the task to the Pyromancer Master?	파이로맨서 마스터에게 일을 보고만 하면 되는 겁니까?				기티스
 QUEST_LV_0200_20150323_003822	Thanks for helping me.	제 일을 도와주셔서 감사합니다.				기티스
@@ -5690,7 +5690,7 @@ QUEST_LV_0200_20150401_005692	{nl}The monsters fall into the eternal sleep due t
 QUEST_LV_0200_20150401_005693	The amount of the crops after harvesting reduced a lot from some point of time in the past.{nl}Even if we care a lot, the crops wither easily.{nl}I think it may be due to the magic circle that the barons created on this land.{nl}Could you help me out?	이 곳의 농지는 어느 순간부터 작물 수확량이 너무 줄었어.{nl}아무리 건사를 잘 해도 작물이 늘 시들거려.{nl}그래서 그 원인이 역시, 그 곳의 남작일당이 만들어 놓은 마법진 때문이 아닐까 하고 생각중이야.{nl}날 좀 도와주겠어?				
 QUEST_LV_0200_20150401_005694	{nl}That's why the amount of the crops was reduced.{nl}I am trying to find the reason for it.	{nl}그래서 수확량이 확 줄었던 거지.{nl}그 원인을 파악 중이야.				
 QUEST_LV_0200_20150401_005695	This magic circle has some kind of protective barrier so it's not easy to break it.{nl}So I am trying to light it up.{nl}To break the shield, I should maintain the flame.	이 마법진은 보호막 같은 게 있어서.. 그냥 깨기가 쉽지가 않아.{nl}그래서 불이라도 붙여 보는 게 어떨까 싶어.{nl}실드를 깨려면 충분히 그 불을 유지해야 할 거고.				
-QUEST_LV_0200_20150401_005696	{nl}Should we kill those orange Dandels and throw kindlings on them?{nl}Try it.	{nl}우리들이 뭘 해도 방해하러 오는 주황 단델놈들을 죽여서 불쏘시개라도 구해 던져 볼까?{nl}한 번 그렇게 해 봐 줘.				
+QUEST_LV_0200_20150401_005696	{nl}Should we kill those orange Dandells and throw kindlings on them?{nl}Try it.	{nl}우리들이 뭘 해도 방해하러 오는 주황 단델놈들을 죽여서 불쏘시개라도 구해 던져 볼까?{nl}한 번 그렇게 해 봐 줘.				
 QUEST_LV_0200_20150401_005697	The barons are pludering a lot these days and the magic circles like that have been created a lot across this region. Some of them are less shiny.{nl}Anyways, you get hurt from the ones that shine more so it's hard to eliminate them.	어느 때 부터인가 남작놈들의 수탈이 심해지고 이 일대 모두에 저런 마법진들이 마구 생겨났지. 어떤 것들은 무슨 이유인지 좀 덜 번쩍인다던가 하고 말이야.{nl}암튼 유난히 번쩍이는 것들은 다가가면 다치거나 하니까 없애는 일이 쉽지 않아.				
 QUEST_LV_0200_20150401_005698	You came at the right time. I connected the pieces with some sticky stuff.{nl}...As I expected. This is a Goddess Statue.{nl}I could only glue them like this with my skill... It will break again if I don't do it well.{nl}I am sorry that I just glued them like this...	마침 잘 왔어. 끈적거리는 걸로 조각들을 이어 붙였어.{nl}.. 역시 예상대로야. 이건 여신상이야.{nl}내 실력으로는 이렇게 밖에 붙일 수 없어서.. 잘못하면 다시 부서질거야.{nl}몬스터한테서 나온 걸로 이렇게 조각을 붙여버려서.. 정말 송구스럽다..				
 QUEST_LV_0200_20150401_005699	{nl}Hey, take it.	{nl}자, 가져 가.				
@@ -7047,7 +7047,7 @@ QUEST_LV_0200_20150714_007050	You are aware that we are the unit sent out to tak
 QUEST_LV_0200_20150714_007051	If we get rid of Gaigalas, we can smooth things out with them.{nl}Please make your way to the Worrying Owl.	가이갈라스를 없애면 그들을 달랠 수 있어요.{nl}걱정하는 부엉이에게 가세요.	QUEST_LV_0100_20150317_000103	We can calm them if we defeat Gaigalas.{nl}Please go see the Worrying Owl.	가이갈라스를 처치하면 그들을 달랠 수 있어요.{nl}걱정하는 부엉이에게 가세요.	오래된 부엉이 조각상
 QUEST_LV_0200_20150714_007052	Hunter Tracker Capt. Mintz	헌터 추적대장 민츠				
 QUEST_LV_0200_20150714_007053	What a pain in the ass.{nl} How do we convince those monks...	이것 참 머리 아프군.{nl}저 수도사들을 어떻게 설득한다..				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007054	Hey you, have you ever seen the one called Evoniphon?	자네. 혹시 에보니폰이라는 자를 본 적이 있나?				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007054	Hey you, have you ever seen the one called Ebonypawn?	자네. 혹시 에보니폰이라는 자를 본 적이 있나?				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007055	I hope this that was the end of it.{nl}It seems that we Hunters have a bad reputation around these parts.	이걸로 일이 잘 풀렸으면 좋겠군.{nl}우리 헌터들은 아무래도 단단히 찍힌 모양이거든.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007056	Are things going smoothly?{nl}I'm hoping to hear good things in the near future.	잘 되어가고 있소?{nl}좋은 소식을 들고 올 거라고 믿고 있소.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007057	Please help our Natasha.{nl}She's a good girl, if a bit inexperienced...	우리 나타샤를 잘 도와주시오.{nl}다 좋은데 요령이 없는 아이라..				헌터 추적대장 민츠
@@ -7055,12 +7055,12 @@ QUEST_LV_0200_20150714_007058	Hopefully this can be resolved without causing a c
 QUEST_LV_0200_20150714_007059	For the most part, do try and appease the monk's demands.{nl}We'll assist you wherever we can.	수도사들이 원하는 건 왠만하면 다 들어주시오.{nl}우리도 할 수 있는 한 힘껏 지원하리다.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007060	I'm glad to hear that Natasha is doing well.{nl} I wish you the best at Raoki Swamps.	나타샤가 잘 해내고 있다니 다행이군.{nl}라우키메 저습지에서도 잘 부탁하오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007061	Good. So finally the time to retrieve the monastery.{nl}We will be using our power in a such a long time.	좋아. 드디어 수도원 수복인건가.{nl}간만에 힘 좀 쓰겠어.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007062	We've reached this far with your help, Revelator.{nl}Now we just to have to hope that Evoniphon gets taken care of well. Let's go.	여기까지 온 것은 다 계시자 덕분이오.{nl}이제 에보니폰만 잘 해결되길 바래야지. 갑시다.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007062	We've reached this far with your help, Revelator.{nl}Now we just to have to hope that Ebonypawn gets taken care of well. Let's go.	여기까지 온 것은 다 계시자 덕분이오.{nl}이제 에보니폰만 잘 해결되길 바래야지. 갑시다.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007063	Senior Monk Potos	선임 수도사 포토스				
 QUEST_LV_0200_20150714_007064	What brought you here?{nl}With the circumstances not heading to the way they used to be, we will try our best to help you.	무슨 일로 찾아오셨습니까?{nl}사정은 여의치 않지만 도울 수 있는 건 힘껏 돕겠습니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007065	I am sorry if you've come here to visit the monastery.{nl}We are like this since the monsters rushed in.	수도원을 찾아 오신 거라면 죄송합니다.{nl}몬스터가 쳐들어오는 바람에 저희도 이 모양입니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007066	The goddesses have taught us to greet everyone with warmth.{nl}Due to the difficulty we are having at the moment, we weren't able to greet the Hunters warmly. I regret this..	여신께선 모든 이를 따뜻하게 맞이하라 가르치셨건만.{nl}당장 눈 앞의 어려움에 헌터들을 박대하고 말았습니다. 후회스럽군요.				선임 수도사 포토스
-QUEST_LV_0200_20150714_007067	If that trap was set up by Evoniphon, I will stand by the Hunters' side.{nl}Whatever excuses you make, they cannot be compared with the pain of our brothers.	그 함정이 에보니폰의 소행이라면 저는 헌터의 편에 설 겁니다.{nl}어떤 변명을 해도 우리 형제들과의 고통과는 맞바꿀 수 없지 않겠습니까.				선임 수도사 포토스
+QUEST_LV_0200_20150714_007067	If that trap was set up by Ebonypawn, I will stand by the Hunters' side.{nl}Whatever excuses you make, they cannot be compared with the pain of our brothers.	그 함정이 에보니폰의 소행이라면 저는 헌터의 편에 설 겁니다.{nl}어떤 변명을 해도 우리 형제들과의 고통과는 맞바꿀 수 없지 않겠습니까.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007068	Brother Marko is at Viltis Forest and Goss is at Laukyme Swamp.{nl}Without their support, it is impossible to persuade the abbot.	빌티스 숲에는 마르코 형제가, 라우키메 저습지에는 거스님이 계십니다.{nl}그들의 협조 없이는 원장님을 설득하기 힘들 겁니다.{nl}				선임 수도사 포토스
 QUEST_LV_0200_20150714_007069	I support the Hunters, but I don't know what the other senior monks are thinking.{nl}However, I don't think it would be a problem if we get hard evidence.	저는 헌터님들을 지지합니다만, 다른 선임 수도사들은 어떨런지 잘 모르겠군요.{nl}하지만 확실한 증거만 있다면 문제 없을 거라 봅니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007070	Monk Wiley	수도사 와일리				
@@ -7068,16 +7068,16 @@ QUEST_LV_0200_20150714_007071	My heart aches to see my brothers suffer in pain.{
 QUEST_LV_0200_20150714_007072	For me, my brothers come first instead of the Hunters or the monastery.{nl}I am praying to the goddesses, so that they can recover as soon as possible.{nl}	저에겐 헌터들이나 수도원보다도 형제들이 우선이에요.{nl}하루 빨리 완쾌하도록 여신께 기도드릴 뿐입니다.{nl}				수도사 와일리
 QUEST_LV_0200_20150714_007073	Hunter Reina	헌터 레이나				
 QUEST_LV_0200_20150714_007074	You should be careful when you are crossing this forest.{nl}There are traps everywhere.	이 숲을 지날 거라면 조심하는 게 좋아요.{nl}사방이 함정이거든요.				헌터 레이나
-QUEST_LV_0200_20150714_007075	You don't seem like a monk... Do you know anything about Evoniphon?{nl}I heard they created a mess near the farm in Klaipeda.	수도사는 아니신 것 같고.. 혹시 에보니폰에 대해 아시는 것 있나요?{nl}클라페다 인근의 농장에서도 한바탕 했다던데.				헌터 레이나
+QUEST_LV_0200_20150714_007075	You don't seem like a monk... Do you know anything about Ebonypawn?{nl}I heard they created a mess near the farm in Klaipeda.	수도사는 아니신 것 같고.. 혹시 에보니폰에 대해 아시는 것 있나요?{nl}클라페다 인근의 농장에서도 한바탕 했다던데.				헌터 레이나
 QUEST_LV_0200_20150714_007076	Even after taking this antidote, the paralysis doesn't fade away.{nl}But, as a Hunter, I cannot go back until I finish my task.	해독제를 먹어도 마비가 잘 안풀리네요.{nl}하지만 헌터 체면에 임무를 마치기 전엔 돌아갈 수 없죠.				헌터 레이나
-QUEST_LV_0200_20150714_007077	I don't know how many people are suffering because of Evoniphon.{nl}To put this in other words, Evoniphon is 'so great'.	에보니폰 한 명 때문에 도대체 몇 명이 고생하는지 모르겠어요.{nl}다른 의미로 참 대단하군요.				헌터 레이나
+QUEST_LV_0200_20150714_007077	I don't know how many people are suffering because of Ebonypawn.{nl}To put this in other words, Ebonypawn is 'so great'.	에보니폰 한 명 때문에 도대체 몇 명이 고생하는지 모르겠어요.{nl}다른 의미로 참 대단하군요.				헌터 레이나
 QUEST_LV_0200_20150714_007078	Senior Monk Marko	선임 수도사 마르코				
-QUEST_LV_0200_20150714_007079	The abbot is trapped in the monastery, where it is full of monsters, but mentioning Evoniphon..{nl}They shouldn't be that rude. Don't you think so?	지금 몬스터가 가득한 수도원에 원장님이 갖혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?				선임 수도사 마르코
+QUEST_LV_0200_20150714_007079	The abbot is trapped in the monastery, where it is full of monsters, but mentioning Ebonypawn..{nl}They shouldn't be that rude. Don't you think so?	지금 몬스터가 가득한 수도원에 원장님이 갖혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?				선임 수도사 마르코
 QUEST_LV_0200_20150714_007080	If you are going to talk about the Hunters, I refuse to listen.{nl}They are rude people.	헌터들의 이야기라면 사절하겠습니다.{nl}정말 무례한 사람들입니다.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007081	He barely walked here and then fainted.{nl}I think he is breathing for now...	여기까지 비틀대며 걸어오더니 그대로 정신을 잃고 말았습니다.{nl}일단 숨은 쉬고 있는 것 같긴 한데..				선임 수도사 마르코
 QUEST_LV_0200_20150714_007082	Boros! Wake up, Boros!	보로스! 정신 차리세요, 보로스!				선임 수도사 마르코
 QUEST_LV_0200_20150714_007083	I regret that I was being so harsh to the Hunters until now.{nl}I hope my decision helps the Hunters.	그 동안 헌터들에게 매몰차게 대한 걸 후회하고 있습니다.{nl}제 결정이 헌터들이게 도움이 된다면 좋겠군요.				선임 수도사 마르코
-QUEST_LV_0200_20150714_007084	You should persuade Goss at Laukyme Swamp.{nl}But, since you don't have the decisive proof about Evoniphon... I can't guarantee the withdrawl of the protection.	라우키메 저습지에 계신 거스님까지 꼭 설득하셔야 합니다.{nl}하지만 에보니폰에 대한 확실한 증거가 없으시다니.. 보호 철회는 장담할 수 없군요.				선임 수도사 마르코
+QUEST_LV_0200_20150714_007084	You should persuade Goss at Laukyme Swamp.{nl}But, since you don't have the decisive proof about Ebonypawn... I can't guarantee the withdrawl of the protection.	라우키메 저습지에 계신 거스님까지 꼭 설득하셔야 합니다.{nl}하지만 에보니폰에 대한 확실한 증거가 없으시다니.. 보호 철회는 장담할 수 없군요.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007085	Hunter Natasha	헌터 나타샤				
 QUEST_LV_0200_20150714_007086	Persuading someone is so hard.{nl}I hope someone helps me...	설득이란건 참 어렵군요.{nl}누군가 도움을 주셨으면 참 좋겠습니다만.				헌터 나타샤
 QUEST_LV_0200_20150714_007087	I wonder how Captain Mintz would react if he was in my situation..	이럴 때 민츠 대장님은 어떻게 하셨을까..				헌터 나타샤
@@ -7090,14 +7090,14 @@ QUEST_LV_0200_20150714_007093	Are you heading to Tyla Monastery?{nl}The monsters
 QUEST_LV_0200_20150714_007094	Careless, careless.{nl}I was so careless...	방심했군, 방심했어.{nl}이 내가 방심하다니 정말 방심했어.				헌터 바스틸
 QUEST_LV_0200_20150714_007095	Monk Chad	수도사 채드				
 QUEST_LV_0200_20150714_007096	Please do not get close to those Hunters.{nl}They are incredibly rude people.	저 헌터들과 친해지지 마세요.{nl}아주 무례하고 경우가 없는 사람들입니다.				수도사 채드
-QUEST_LV_0200_20150714_007097	I don't like the Hunters at all.{nl}I hope they wouldn't change their minds because we are protecting Evoniphon.	전 저 헌터들이 싫어요.{nl}설마 우리가 에보니폰을 보호한다고 갑자기 돌변하거나 그러진 않겠지요?				수도사 채드
+QUEST_LV_0200_20150714_007097	I don't like the Hunters at all.{nl}I hope they wouldn't change their minds because we are protecting Ebonypawn.	전 저 헌터들이 싫어요.{nl}설마 우리가 에보니폰을 보호한다고 갑자기 돌변하거나 그러진 않겠지요?				수도사 채드
 QUEST_LV_0200_20150714_007098	Senior Monk Goss	선임 수도사 거스				
 QUEST_LV_0200_20150714_007099	If you are the pilgrim who came to see Tyla Monastery, I am so sorry.{nl}We lost the place to the monsters...	혹시 틸라 수도원을 찾아 오신 순례객이시라면 정말 죄송하게 되었습니다.{nl}여신의 신성한 전당을 그만 몬스터들에게 빼앗기고 말았습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007100	I don't know what the goddesses would say if she sees this...{nl}Gloomy...	여신께서 이 광경을 보신다면 무슨 말씀을 하실지..{nl}참 암담합니다.				선임 수도사 거스
-QUEST_LV_0200_20150714_007101	This is all I know about Evoniphon.{nl}I think there weren't anything special besides that.	에보니폰에 대해 제가 알고 있는 것은 여기까지입니다.{nl}그 외에 별 다른 점은 없었던 걸로 기억하는군요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007102	If you need to more about Evoniphon, please ask me anytime.{nl}I will answer everything I know about Evoniphon.	에보니폰에 대해 더 궁금한 것이 있다면 언제든지 물어보세요.{nl}대답해드릴 수 있는 한 전부 대답해 드리지요.				선임 수도사 거스
+QUEST_LV_0200_20150714_007101	This is all I know about Ebonypawn.{nl}I think there weren't anything special besides that.	에보니폰에 대해 제가 알고 있는 것은 여기까지입니다.{nl}그 외에 별 다른 점은 없었던 걸로 기억하는군요.				선임 수도사 거스
+QUEST_LV_0200_20150714_007102	If you need to more about Ebonypawn, please ask me anytime.{nl}I will answer everything I know about Ebonypawn.	에보니폰에 대해 더 궁금한 것이 있다면 언제든지 물어보세요.{nl}대답해드릴 수 있는 한 전부 대답해 드리지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007103	Finally, we are near Tyla Monastery.{nl}We want to attack, but we should also think about the monks.	드디어 틸라 수도원 근처까지 왔군요.{nl}당장이라도 돌격하고 싶습니다만, 수도사들의 체면도 중요합니다.				헌터 나타샤
-QUEST_LV_0200_20150714_007104	To defeat Evoniphon, we will do anything.{nl}To the ones who are from the tower of the stars, Evoniphon is a such creature.	에보니폰을 잡기 위해서라면 어떤 굴욕이나 부탁도 감내할 수 있습니다.{nl}별의 탑 출신들에게 에보니폰이란 바로 그런 존재입니다.				헌터 나타샤
+QUEST_LV_0200_20150714_007104	To defeat Ebonypawn, we will do anything.{nl}To the ones who are from the tower of the stars, Ebonypawn is a such creature.	에보니폰을 잡기 위해서라면 어떤 굴욕이나 부탁도 감내할 수 있습니다.{nl}별의 탑 출신들에게 에보니폰이란 바로 그런 존재입니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007105	Monk Jones	수도사 욘스				
 QUEST_LV_0200_20150714_007106	The moment now seems like a short nightmare.{nl}We were studying scriptures and drawing water at the monastery not long ago.	지금 이 순간이 짧은 악몽 같습니다.{nl}얼마 전만 하더라도 수도원에서 물을 긷고, 조용히 경전 공부를 하고 있었으니까요.				수도사 욘스
 QUEST_LV_0200_20150714_007107	I know that I am pathetic since I was forced out by the monsters...{nl}But, I am worried more about the abbot who is praying at the prayer room without knowing anything.	몬스터에게 쫓겨 나온 제 신세도 처량하지만..{nl}아무것도 모르신 채 기도실에서 폐관기도중이신 수도원장님이 더 걱정됩니다.				수도사 욘스
@@ -7106,7 +7106,7 @@ QUEST_LV_0200_20150714_007109	A long time ago, this forest used to be completely
 QUEST_LV_0200_20150714_007110	I just want to know where all these monsters came from.{nl}After the purification, the only monsters were the ones that lost their ways.	도대체 이 많은 몬스터들이 어디서 왔는지 궁금합니다.{nl}분명 정화작업을 마칠 때는 몬스터라곤 길 잃은 것 정도 뿐이였죠.				수도사 제프리
 QUEST_LV_0200_20150714_007111	Hey! Wake up!{nl}Can you hear my voice?	이봐! 정신차려!{nl}내 목소리 들리나?				헌터
 QUEST_LV_0200_20150714_007112	He is fainted, but fortunately he is breathing.{nl}But, the fracture is serious.	기절했지만 다행히 숨은 쉬고 있습니다.{nl}하지만 골절이 심각합니다.				헌터
-QUEST_LV_0200_20150714_007113	Evoniphon, you cheap...	에보니폰, 저 치사한 녀석..				헌터
+QUEST_LV_0200_20150714_007113	Ebonypawn, you cheap...	에보니폰, 저 치사한 녀석..				헌터
 QUEST_LV_0200_20150714_007114	Fortunatly, his inner organs seem alright.{nl}But, I can't cure him by transporting him to other places.	다행히 내장은 다치지 않은 것 같습니다만.{nl}옮겨서 치료하는건 불가능합니다.				헌터
 QUEST_LV_0200_20150714_007115	I am going to take care of the outer edge of the monastery.{nl}In the name of the goddesses, I wish you the good luck.	전 수도원 외곽 쪽을 맡을 겁니다.{nl}부디 여신의 이름으로 무운을 빕니다.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007116	We are all ready here.{nl}Although I can't participate in saving the abbot, I will do my best here.	이쪽은 준비 만반입니다.{nl}원장님을 구하는 덴 참가하지 못하겠지만 제 소임을 다할 겁니다.				선임 수도사 마르코
@@ -7119,7 +7119,7 @@ QUEST_LV_0200_20150714_007122	You can't open it outside without the crystal sphe
 QUEST_LV_0200_20150714_007123	It's so good to hear that you are okay.{nl}While you are getting the crystal sphere, we should get ready to rescue the abbot.	무사하시니 정말 다행입니다.{nl}당신이 수정구를 가져오실 동안 원장님을 구출할 준비를 해야지요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007124	I would've bled a lot if it weren't you.{nl}The goddesses must have helped me.	당신이 아니었으면 정말 많은 피를 흘릴 뻔 했습니다.{nl}여신께서 도우신 게지요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007125	Fortunately, the abbot seems to know nothing.{nl}I guess that's better. Anyways, the issues have been resolved.	원장님께선 다행히 아무것도 모르시는 듯한 눈치입니다.{nl}차라리 그게 낫지요. 어쨌든 상황은 해결되었으니까요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007126	I am less worried to find out the abbot is okay.{nl}Now what should we do about Evoniphon...	원장님께서 무사하시니 한시름 놓았습니다.{nl}이제 에보니폰을 어찌해야할지.. 입장을 정리해야겠습니다.				선임 수도사 거스
+QUEST_LV_0200_20150714_007126	I am less worried to find out the abbot is okay.{nl}Now what should we do about Ebonypawn...	원장님께서 무사하시니 한시름 놓았습니다.{nl}이제 에보니폰을 어찌해야할지.. 입장을 정리해야겠습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007127	I am discussing with the abbot.{nl}Please wait beside Mintz for a while.	원장님과 논의중입니다.{nl}잠시 민츠님 곁에서 기다려 주시지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007128	We haven't finished discussing yet.{nl}Please wait little more.	아직 이야기가 끝나지 않았습니다.{nl}조금만 더 기다려 주시지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007129	You will leave soon. May the goddesses bless you.{nl}Come to Tyla Monastery sometimes.	이제 떠나시겠군요. 여신의 가호를 빌겠습니다.{nl}생각나시면, 가끔 틸라 수도원에 들러 주시지요.				선임 수도사 거스
@@ -7127,16 +7127,16 @@ QUEST_LV_0200_20150714_007130	I regret a bit since we should have allied togethe
 QUEST_LV_0200_20150714_007131	It is so fortunate that the abbot is okay.{nl}I... feel like crying.	원장님께서 무사하시니 얼마나 다행인지 모릅니다.{nl}정말.. 눈물이 나는군요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007132	I kinda expected that he would be alright since he was in the prayer room...{nl}But seeing him okay with my own eyes comforts me more.	기도실에 계시니 안전할거라고 생각했지만..{nl}그래도 온전하신 모습을 보니 얼마나 다행인지 모르겠습니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007133	Please wait beside Mintz for a while.{nl}I should explain everything so it may take little time.	잠시만 민츠님 곁에서 기다려 주세요.{nl}모든 걸 설명해야 하니 시간이 오래 걸릴 듯 합니다.				선임 수도사 포토스
-QUEST_LV_0200_20150714_007134	I've heard about Evoniphon's letter from Goss.{nl}Please wait little more since everything fits the situation.	거스님께 에보니폰의 편지 이야기를 들었습니다.{nl}정황은 확실하니 걱정 마시고 조금만 더 기다려 주세요.				선임 수도사 포토스
+QUEST_LV_0200_20150714_007134	I've heard about Ebonypawn's letter from Goss.{nl}Please wait little more since everything fits the situation.	거스님께 에보니폰의 편지 이야기를 들었습니다.{nl}정황은 확실하니 걱정 마시고 조금만 더 기다려 주세요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007135	We've retrieved the monastery and the Hunters fulfilled what they wanted...{nl}These are all blessings of the goddesses.	수도원도 되찾았고 헌터들이 원하던 것도 이루었으니.. {nl}이 모든게 여신께서 이끄심이 아닌가 생각됩니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007136	Without your help, I am sure that it would've not gone so easy.{nl}I've heard the stories of many Revelators before, but you are the only one I saw in person.	당신의 도움 없이는 이렇게 일이 잘 풀리지 않았겠지요.{nl}수 많은 계시자의 이야기를 들었습니다만, 제가 본 것은 당신 한 사람입니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007137	Monk Moheim	수도사 모하임				
 QUEST_LV_0200_20150714_007138	It's so good that we've retrieved the monastery...{nl}But it's a mess.	수도원을 되찾은 건 정말 잘 된 일인데..{nl}난장판이군요.				수도사 모하임
 QUEST_LV_0200_20150714_007139	Should we get rid of the monsters first or clean this place first...{nl}That's the problem we are facing at the moment.	몬스터가 먼저냐, 정리가 먼저냐..{nl}그것이 문제로군요.				수도사 모하임
-QUEST_LV_0200_20150714_007140	Now is the best chance to get Evoniphon.{nl}We are surrounding the monastery so I guess even he would not be able to sneak out.	지금이 바로 에보니폰을 잡을 절호의 기회요.{nl}수도원 주변은 전부 포위하고 있으니 아무리 녀석이라도 빠져나갈 수 없겠지.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007141	You saw Evoniphon?{nl}He is not here. We better go down a bit more.	에보니폰을 보았소?{nl}일단 이쪽은 없소. 좀 더 내려가는 게 좋겠군.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007142	Please pray so that we could get Evoniphon.{nl}I wish you the good luck.	우리가 에보니폰을 잡을 수 있길 빌어주시오.{nl}나도 자네의 무운을 빌리다.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007143	Don't worry Revelator. Just go on your way. The people here are just fainted temporarily.{nl}I hope to see you next time for something better instead of Evoniphon.	계시자께서는 걱정 말고 가시오. 이 친구들은 잠시 기절한 것 뿐이니까.{nl}다음에 또 보게 된다면 에보니폰 말고 좋은 일로 만나게 되길 바라오.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007140	Now is the best chance to get Ebonypawn.{nl}We are surrounding the monastery so I guess even he would not be able to sneak out.	지금이 바로 에보니폰을 잡을 절호의 기회요.{nl}수도원 주변은 전부 포위하고 있으니 아무리 녀석이라도 빠져나갈 수 없겠지.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007141	You saw Ebonypawn?{nl}He is not here. We better go down a bit more.	에보니폰을 보았소?{nl}일단 이쪽은 없소. 좀 더 내려가는 게 좋겠군.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007142	Please pray so that we could get Ebonypawn.{nl}I wish you the good luck.	우리가 에보니폰을 잡을 수 있길 빌어주시오.{nl}나도 자네의 무운을 빌리다.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007143	Don't worry Revelator. Just go on your way. The people here are just fainted temporarily.{nl}I hope to see you next time for something better instead of Ebonypawn.	계시자께서는 걱정 말고 가시오. 이 친구들은 잠시 기절한 것 뿐이니까.{nl}다음에 또 보게 된다면 에보니폰 말고 좋은 일로 만나게 되길 바라오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007144	I lost many colleagues from Petrifying Frost here.{nl}I don't understand why I am here to support a newbie Chronomancer here.	얼마 전 많은 동료들을 석화서리에 잃었습니다.{nl}그런 일이 있었는데도 샌님 크로노맨서 한 명 지원하자고 이런 곳에 배치되다니요. {nl}	QUEST_LV_0200_20150317_000163	I lost many colleagues through the Petrifying Frost.{nl}I don't understand why I am here to support a newbie Chronomancer... so inefficient.{nl}On top of that, we don't know when those violent monsters would attack here.	얼마 전 많은 동료들을 석화서리에 잃었습니다.{nl}그럼에도 골방에서 갓 나온 크로노맨서 한 명 지원하자고 이런 곳에 있다니.. 이런 비효율이 어딨습니까?{nl}게다가 사나운 몬스터들은 언제 돌변해서 여길 공격할지 모를 일입니다.	경비병 라일
 QUEST_LV_0200_20150714_007145	On top of that, we don't know when those violent monsters would attack here.{nl}I don't care what you do, I just hope those monsters get taken care of.	게다가 사나운 몬스터들은 언제 돌변해서 여길 공격할지 모를 일입니다.{nl}어떻게 하시든 상관 없으니 그 몬스터들만 없었으면 좋겠군요.	QUEST_LV_0200_20150317_000164	If you are okay, can you get rid of the monsters while we are protecting here?	당신이 괜찮다면 우리가 이곳을 지킬 동안 주변 몬스터들을 처치해주실 수 있겠습니까?	경비병 라일
 QUEST_LV_0200_20150714_007146	We are still sad that we lost our colleagues.{nl}It is very unfortunate that we should take care of that woman in this time.	동료들을 잃은 슬픔이 아직 가시지 않았습니다.{nl}그런 와중에 저런 막무가내 여자를 돌봐줘야 한다는 건 참 불행한 일입니다.	QUEST_LV_0200_20150317_000165	It is very unfortunate that we should take care of that woman this time.	이런 시대에 저런 막무가내 여자를 돌봐줘야 한다는 건 불행한 일입니다.	경비병 라일
@@ -7671,15 +7671,15 @@ QUEST_LV_0200_20150714_007674	We have a big problem!{nl}The spoiled grape vines 
 QUEST_LV_0200_20150714_007675	Investigate the bushes near the grape vines, hidden monsters may suddenly appear.{nl}I am counting on you.	덤불을 조사해 보시면 숨어있던 몬스터들이 뛰쳐나올지도 몰라요.{nl}꼭 부탁드릴게요.	QUEST_LV_0200_20150323_004093	If you go near the bushes, the hidden monsters may suddenly appear.{nl}I am counting on you.	덤불 근처로 가시면 숨어있던 몬스터들이 뛰쳐나올지도 몰라요.{nl}꼭 부탁드릴게요.	소작인 샬롯
 QUEST_LV_0200_20150714_007676	Sometimes, more monsters will appear when you shake the bushes.	덤불을 흔들어 보시면 몬스터들이 튀어 나올거예요.	QUEST_LV_0200_20150414_006778	The monsters appear near the bush.{nl}More monsters appear by shaking it.	덤불 근처에 가면 몬스터들이 튀어 나올거거예요.{nl}덤불을 흔들어 보면 더 많이 튀어 나오겠지요.	소작인 샬롯
 QUEST_LV_0200_20150714_007677	I paid a lot for this at the black market in Fedimian.{nl}Perhaps, this will be much more helpful than you or that shameless druid.{nl}	이건 페디미안의 암시장에서 거금을 주고 산 물건이지.{nl}아마 자네나 뻔뻔한 드루이드보다는 훨씬 도움이 될 테니까.{nl}	QUEST_LV_0200_20150323_004135	I paid a lot for this from the black market in Fedimian. {nl}It will be much more helpful than the Revelator like you or those shameless druids.{nl}	이건 페디미안의 암시장에서 거금을 주고 산 물건이지.{nl}아마 자네같은 계시자나 뻔뻔한 드루이드보다는 훨씬 도움이 될 테니까.{nl}	고르드 샤튼
-QUEST_LV_0200_20150714_007678	This is sturdy. You've been suffered by the trap of Evoniphon.{nl}But, what have brought you here?{nl}	거 참 튼튼하구먼. 댁이 당한 건 에보니폰의 함정이오. {nl}그런데 여기까지 무슨 일이오?{nl}				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007678	This is sturdy. You've been suffered by the trap of Ebonypawn.{nl}But, what have brought you here?{nl}	거 참 튼튼하구먼. 댁이 당한 건 에보니폰의 함정이오. {nl}그런데 여기까지 무슨 일이오?{nl}				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007679	You are the Revelator? It's so nice to meet you.{nl}Thanks for saving me... I have another request for you.	댁이 계시자였소? 이렇게 반가울데가 있나.{nl}그게.. 구해준 것도 인연인데 부탁할 것이 있어서 말이오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007680	We are doing an important mission at the moment.	우리는 중요한 임무 수행중이오.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007681	This is a little complicated.{nl}We are chasing after Evoniphon who is the suspect of the murder case at the Astral Tower.{nl}But, he is being protected by these religious rules at the monastery nearby.{nl}	좀 복잡한 일이오. 우린 별의 탑 살인사건의 용의자인 에보니폰을 쫓고 있소.{nl}그런데 이 녀석은 근처 수도원에서 성역규칙으로 보호받고 있어서 곤란하단 말이지.{nl}				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007682	So, please help us to get Evoniphon.{nl}We should somehow first persuade the monks.. Though, that's going to be tricky.	그러니 에보니폰의 신병 확보를 도와주시오.{nl}먼저 수도사들부터 어떻게 설득을 해야겠는데.. 참 답답할 노릇이오.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007681	This is a little complicated.{nl}We are chasing after Ebonypawn who is the suspect of the murder case at the Astral Tower.{nl}But, he is being protected by these religious rules at the monastery nearby.{nl}	좀 복잡한 일이오. 우린 별의 탑 살인사건의 용의자인 에보니폰을 쫓고 있소.{nl}그런데 이 녀석은 근처 수도원에서 성역규칙으로 보호받고 있어서 곤란하단 말이지.{nl}				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007682	So, please help us to get Ebonypawn.{nl}We should somehow first persuade the monks.. Though, that's going to be tricky.	그러니 에보니폰의 신병 확보를 도와주시오.{nl}먼저 수도사들부터 어떻게 설득을 해야겠는데.. 참 답답할 노릇이오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007683	I am so sorry. {nl}Please first persuade Potos at Diliti Court.	정말 미안하게 되었소. {nl}우선 딜리티 안뜰에 있는 포토스라는 자를 설득해 주시오.{nl}				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007684	The monks shake their heads in denial when we mention Evoniphon...	수도사들은 에보니폰의 이름만 꺼내면 고개만 절레절레 흔드니 이거 원.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007684	The monks shake their heads in denial when we mention Ebonypawn...	수도사들은 에보니폰의 이름만 꺼내면 고개만 절레절레 흔드니 이거 원.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007685	Do you know of the Astral Tower?{nl}Starting with Lydia Schaffen, the greatest archers are all originated from that place.{nl}	별의 탑이라는 곳을 아시오?{nl}리디아 샤펜님을 시작으로 당대의 내노라는 궁수들은 다 그 곳 출신이지.{nl}				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007686	The head of the Astral Tower was killed by Evoniphon.{nl}I've chased him up till here, but I'm having trouble of doing anything further,{nl}because of the religious rules of the sanctuary{nl}	그 별의 탑의 전 단장이 에보니폰에게 살해당했소.{nl}간신히 여기까지 쫓아왔건만 하필 성역규칙 때문에 내가 이 고생을 하고 있지 않겠소.{nl}				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007686	The head of the Astral Tower was killed by Ebonypawn.{nl}I've chased him up till here, but I'm having trouble of doing anything further,{nl}because of the religious rules of the sanctuary{nl}	그 별의 탑의 전 단장이 에보니폰에게 살해당했소.{nl}간신히 여기까지 쫓아왔건만 하필 성역규칙 때문에 내가 이 고생을 하고 있지 않겠소.{nl}				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007687	The monastery protect the ones who are falsely charged.{nl}I thought that the law was ineffective after Medzio Diena.. I want to resolve this without creating a conflict.	그게 뭐냐면 억울한 누명을 쓴 자를 수도원같은 성역에서 보호하는 법이오.{nl}신수의 날 이후 유명무실해진 법이라 생각했는데.. 그래도 충돌없이 해결하고 싶소.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007688	Hello. Traveler.{nl}What has brought you here?	안녕하십니까. 여행자여.{nl}이런 험한 곳에는 어쩐 일이신지요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007689	If you are here to discuss about the Hunters, I am sorry, but I'll pass.{nl}	헌터들의 이야기라면 죄송하지만 사양하겠습니다.{nl}				선임 수도사 포토스
@@ -7688,12 +7688,12 @@ QUEST_LV_0200_20150714_007691	The Hunters... They must know how to detoxify.{nl}
 QUEST_LV_0200_20150714_007692	If our brothers help, I am willing to help you as well.{nl}I have a lot on my mind.	형제들만 도와주신다면 저는 적극 도울 마음이 있습니다.{nl}저도 뭔가 걸리는 게 조금 있거든요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007693	This... All right. It's pretty obvious who did this.{nl}Well, first give them this antidote. Fortunately, the poison is not that severe.	이건.. 그렇군. 누구 짓일지는 뻔하지.{nl}일단 이 해독제를 먹이시오. 다행히 간단한 독이니까.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007694	I am embarrassed to see the faces of the Hunters... I am sorry.{nl}We also have to consider our position of the monastery.	헌터님들을 뵐 낯이 참.. 부끄럽습니다.{nl}하지만 저희 수도원의 입장도 있는 터라.{nl}				선임 수도사 포토스
-QUEST_LV_0200_20150714_007695	But, if the poison is really from Evoniphon, then the story will be different.{nl}I am sorry, but I want to see the trap myself.	그치만 말씀하신대로 그 독이 에보니폰의 소행이라면 이야기는 달라집니다.{nl}죄송하지만 제가 직접 그 함정을 보았으면 좋겠군요.				선임 수도사 포토스
+QUEST_LV_0200_20150714_007695	But, if the poison is really from Ebonypawn, then the story will be different.{nl}I am sorry, but I want to see the trap myself.	그치만 말씀하신대로 그 독이 에보니폰의 소행이라면 이야기는 달라집니다.{nl}죄송하지만 제가 직접 그 함정을 보았으면 좋겠군요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007696	Recently, monsters have rushed into the monastery.{nl}It was very quick and the monsters went crazy in the monastery as if they were possessed by something.{nl}	얼마 전, 수도원에 몬스터들이 들이닥쳤지요.{nl}정말 순식간이었습니다. 몬스터들은 마치 무엇에 홀린 듯이 수도원을 마구 헤집었죠.{nl}				선임 수도사 포토스
 QUEST_LV_0200_20150714_007697	We had no other choice but to run away.{nl}The problem was abbot. He was praying in the Prayer Room.{nl}	저희들은 정신없이 도망칠 수 밖에 없었습니다.{nl}문제는 원장님이시지요. 기도실에서 폐관기도를 올리고 계시거든요.{nl}				선임 수도사 포토스
 QUEST_LV_0200_20150714_007698	Fortunately, the Prayer Room is the safest place in the monastery.{nl}We know that even monsters can't do anything there, but we couldn't just do nothing.	다행히 기도실은 수도원 내에서도 가장 안전한 곳입니다.{nl}몬스터들이 감히 어쩌질 못하는 건 확실하지만 그렇다고 오래 방치할 수도 없는 일이지요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007699	So, there is not enough evidence, huh?{nl}	요컨대 증거가 부족하다 이 말이구먼.{nl}				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007700	Reina, a subordinate of mine, is looking for the traces of Evoniphon down there.{nl}Recently, she found something, but it seems she's having difficulty.	안그래도 내 부하인 레이나가 아래쪽에서 에보니폰의 흔적을 찾고 있소. {nl}얼마 전 무언가를 발견했다고 하던데 좀 문제가 생긴 것 같더군.				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007700	Reina, a subordinate of mine, is looking for the traces of Ebonypawn down there.{nl}Recently, she found something, but it seems she's having difficulty.	안그래도 내 부하인 레이나가 아래쪽에서 에보니폰의 흔적을 찾고 있소. {nl}얼마 전 무언가를 발견했다고 하던데 좀 문제가 생긴 것 같더군.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007701	It looks like your task is going smoothly.{nl}You know, I've received rewards that are bigger than my life in value.	일이 갑자기 잘 풀리는 것 같소.{nl}목숨 값보다 더한 보답을 받았군.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007702	Hey, don't walk around recklessly, it's dangerous here.{nl}I recommend you to move out from this forest while you can.	위험하니까 함부로 돌아다니지 마세요.{nl}웬만하면 이 숲을 나가는 걸 추천드리고 싶군요.				헌터 레이나
 QUEST_LV_0200_20150714_007703	Hello. Traveler.{nl}What has brought you here?	안녕하세요. 여행자여.{nl}당신도 중요한 임무를 띄고 이 곳에 오셨나요?				헌터 레이나
@@ -7704,7 +7704,7 @@ QUEST_LV_0200_20150714_007707	I guess I am not competent enough yet.{nl}I wanted
 QUEST_LV_0200_20150714_007708	Let's take a look at this... This has been made with some skill that I have seen often. {nl}The captain is looking for a working trap, right? Please bring him this.	어디 볼까요.. 역시 많이 보던 솜씨네요. {nl}대장님이 온전한 함정을 찾으신댔죠? 이걸로 가져다 드리세요.				헌터 레이나
 QUEST_LV_0200_20150714_007709	As your competence increases, people won't know who made these traps.{nl}On the contrary, people may find out who made these traps so easily.{nl}	실력이 좋을수록 함정을 만들때 누가 만들었는지 알기 어렵게 만들 수 있어요.{nl}반대로 누가 만들었는지 특징을 잘 잡을 수도 있고요.{nl}				헌터 레이나
 QUEST_LV_0200_20150714_007710	Besides, the difficulty lowers by a lot if there's only one suspect like in this case.{nl}We just have to find his characteristics.	게다가 이번 건처럼 한 사람만을 용의선상에 올렸다면 난이도는 더 낮아지지요.{nl}그 사람의 특징을 잡아내기만 하면 되니까요.				헌터 레이나
-QUEST_LV_0200_20150714_007711	As I expected, that is indeed from Evoniphon. {nl}I can hardly find any trace of him.{nl}	역시 에보니폰이로군. {nl}그의 흔적이라곤 거의 찾을 수 없어.{nl}				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007711	As I expected, that is indeed from Ebonypawn. {nl}I can hardly find any trace of him.{nl}	역시 에보니폰이로군. {nl}그의 흔적이라곤 거의 찾을 수 없어.{nl}				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007712	But, the traps are easily made with the materials nearby. {nl}We just have to hope that the monk notices it. First, take it and show it to him.	하지만 함정은 주변의 재료로 만드는 경우가 많소. {nl}그 수도사가 눈치를 채 줄거라 믿는 수밖에. 일단은 가져가서 보여 주시오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007713	After you have persuaded the monk, please meet Natasha at Viltis Forest.{nl}I've gotten word that she's at a loss.	그 수도사의 설득이 끝나면 빌티스 숲에서 나타샤를 만나 주시오.{nl}분명 그녀도 난감해하고 있을 거요.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007714	Look at this. This is the silk that was used in this trap... I believe I've seen it before.{nl}If someone got his hands on the supplies of the monastery, we can think of only one person.{nl}	여길 보세요. 이 함정에 쓰인 명주실.. 낯이 익어요.{nl}누군가 수도원 비품에 손을 댔다고 생각하면 답은 한 사람밖엔 없겠죠.{nl}				선임 수도사 포토스
@@ -7736,15 +7736,15 @@ QUEST_LV_0200_20150714_007739	We should retrieve the monastery.{nl}If we don't m
 QUEST_LV_0200_20150714_007740	The abbot here is called Marko and he leads the monastery here.{nl}But, he is too stubborn. He is too difficult.{nl}	이 곳의 수도사를 이끌고 있는 사람은 선임 수도사 마르코라는 분입니다.{nl}하지만 워낙 완고해서 일단 저희 입장을 밝히긴 했는데 참 어렵습니다.{nl}				헌터 나타샤
 QUEST_LV_0200_20150714_007741	I will support here with all I could so I hope you pass my position.	할 수 있는 한에서 전부 지원할테니 당신이 다시 저희 입장을 전해 주십시오.				헌터 나타샤
 QUEST_LV_0200_20150714_007742	I should've persuaded him slowly, but I think we were in a rush.{nl}But, it was that important...	천천히 설득했어야하는데 저희가 너무 성급하지 않았나 하는 생각도 듭니다.{nl}하지만 그 만큼 중한 일이었기에.. 참 답답합니다.				헌터 나타샤
-QUEST_LV_0200_20150714_007743	You are a different person. Even so, no is no.{nl}They are very rude. They know the circumstances well, and Evoniphon...{nl}	이번엔 다른 얼굴이로군. 그래도 안되는건 안됩니다.{nl}그들은 무례한 사람들입니다. 상황을 뻔히 알면서도 다짜고짜 에보니폰..{nl}				선임 수도사 마르코
+QUEST_LV_0200_20150714_007743	You are a different person. Even so, no is no.{nl}They are very rude. They know the circumstances well, and Ebonypawn...{nl}	이번엔 다른 얼굴이로군. 그래도 안되는건 안됩니다.{nl}그들은 무례한 사람들입니다. 상황을 뻔히 알면서도 다짜고짜 에보니폰..{nl}				선임 수도사 마르코
 QUEST_LV_0200_20150714_007744	And the abbot is locked in the monastery.{nl}Unless we retrieve the monastery, do not mention about the deportation.	게다가 원장님은 수도원에 갖혀 계신단 말입니다.{nl}수도원을 되찾는다면 모를까, 그 전엔 추방건에 대해선 더 이상 언급하지 마십시오.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007745	If retrieving monastery is more important, that's good.{nl}If they approve, we will support with everything we can.{nl}	수도원을 되찾는 것이 먼저라고 한다면 좋습니다. {nl}그들만 허락한다면 저희도 총력을 다해 지원하도록 하지요.{nl}				헌터 나타샤
 QUEST_LV_0200_20150714_007746	You should first help those monks.{nl}They should have more than one person in trouble. You should do favors for them first.	일단 당신은 저 수도사들을 도와주십시오.{nl}분명 난처한 일이 한 두개가 아닐 겁니다. 미리 호의를 보이는 게 좋겠지요.				헌터 나타샤
 QUEST_LV_0200_20150714_007747	Hunters will step up first. They should have done that in the first place.{nl}Then, I have something to request to you.{nl}	헌터들이 나서준다고요. 처음부터 그랬으면 좋았을 것을.{nl}그렇다면 저도 부탁드릴 것이 있습니다.{nl}				선임 수도사 마르코
 QUEST_LV_0200_20150714_007748	We were preparing to retrieve the monastery ourselves.{nl}Please let our brothers down there know that Hunters are helping.{nl}	저희들끼리라도 어떻게든 수도원을 되찾아보려 준비중이었거든요.{nl}아래쪽에 있는 형제들에게 헌터들이 돕는다는 소식을 전해 주셨으면 합니다.{nl}				선임 수도사 마르코
 QUEST_LV_0200_20150714_007749	I shall wait for Boros. I am counting on you.	전 보로스를 기다려야해서. 그럼 부탁드리겠습니다.				선임 수도사 마르코
-QUEST_LV_0200_20150714_007750	Do not think bad about us.{nl}We should first retrieve the monastery, but they are only talking about Evoniphon so we don't feel comfortable.	저희의 입장에 대해 나쁘게만 생각하지 말아 주세요.{nl}수도원 수복이 먼저인데 에보니폰 얘기만 꺼내고 있으니 답답하지 않겠습니까.				선임 수도사 마르코
-QUEST_LV_0200_20150714_007751	We have a problem. {nl}One of the monks have been suffering to the poison of Evoniphon.{nl}	문제가 생겼습니다. {nl}수도사 한 명이 에보니폰의 독에 당해버렸어요.{nl}				헌터 나타샤
+QUEST_LV_0200_20150714_007750	Do not think bad about us.{nl}We should first retrieve the monastery, but they are only talking about Ebonypawn so we don't feel comfortable.	저희의 입장에 대해 나쁘게만 생각하지 말아 주세요.{nl}수도원 수복이 먼저인데 에보니폰 얘기만 꺼내고 있으니 답답하지 않겠습니까.				선임 수도사 마르코
+QUEST_LV_0200_20150714_007751	We have a problem. {nl}One of the monks have been suffering to the poison of Ebonypawn.{nl}	문제가 생겼습니다. {nl}수도사 한 명이 에보니폰의 독에 당해버렸어요.{nl}				헌터 나타샤
 QUEST_LV_0200_20150714_007752	He is breathing, but he is becoming stiff.{nl}What should we do about this...	간신히 숨은 쉬는데, 점점 차갑게 굳어가고 있어요.{nl}이를 어찌해야 할지..				선임 수도사 마르코
 QUEST_LV_0200_20150714_007753	This place is dangerous.{nl}Be cautious at all times.	이곳은 위험합니다.{nl}각별히 주의하세요.				헌터 나타샤
 QUEST_LV_0200_20150714_007754	We've passed the dangerous situation with an emergency procedure, but...{nl}If we don't detoxify it completely, there will be more crises.{nl}	일단 응급조치로 위험한 상황은 넘겼습니다만.{nl}완전히 해독하지 않으면 고비는 계속 찾아올 겁니다.{nl}				헌터 나타샤
@@ -7759,15 +7759,15 @@ QUEST_LV_0200_20150714_007762	I'll absorb the poison with this.{nl}I am going to
 QUEST_LV_0200_20150714_007763	You won't understand how embarassed and painful I am.{nl}My brother almost died due to the poison and I received help from the Hunters that I kicked out...{nl}	지금 제 심정이 얼마나 부끄럽고 괴로운지 모르실 겁니다.{nl}형제가 독으로 죽을 뻔 했고, 쫓아냈던 헌터들에게 도움을 받았으니..{nl}				선임 수도사 마르코
 QUEST_LV_0200_20150714_007764	Good. You would have to persuade Goss at Laukyme Swamp.{nl}Please tell Marko that I've decided to go with Hunters.	좋습니다. 라우키메 저습지에 계신 거스님만 설득하시면 될 겁니다.{nl}저 마르코는 헌터들과 함께하기로 결정했다고 꼭 전해 주세요.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007765	Fortunately, it turned out alright.{nl}Please meet Captain Mintz on your way to Laukyme Swamp and tell him that everything went alright.	결과적으로 일이 잘 풀려서 다행입니다.{nl}라우키메 저습지로 가시는 길에 민츠 대장님께도 들러서 일이 잘 풀렸다고 전해 주십시오.				헌터 나타샤
-QUEST_LV_0200_20150714_007766	Senior monk Goss is leading the brothers at Laukyme Swamp.{nl}If Evoniphon did all of these, the goddesses would also understand my rage.	선임수도사 거스님은 라우키메 저습지에서 형제들을 이끌고 계십니다.{nl}이 모든 게 에보니폰의 소행이라면 여신께서도 저의 분노를 이해해 주시겠지요.				선임 수도사 마르코
+QUEST_LV_0200_20150714_007766	Senior monk Goss is leading the brothers at Laukyme Swamp.{nl}If Ebonypawn did all of these, the goddesses would also understand my rage.	선임수도사 거스님은 라우키메 저습지에서 형제들을 이끌고 계십니다.{nl}이 모든 게 에보니폰의 소행이라면 여신께서도 저의 분노를 이해해 주시겠지요.				선임 수도사 마르코
 QUEST_LV_0200_20150714_007767	It's so nice seeing you.{nl}So how did the task at Viltis Forest go?	반가운 얼굴이군.{nl}그래, 빌티스 숲에서의 일은 어찌 되었소?				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007768	Go first.{nl}I will follow you to Laukyme Swamp if he gets there alright.	먼저 가십시오.{nl}이 분이 어느 정도 추스러지는 대로 저도 라우키메 저습지로 따라 가겠습니다.				헌터 나타샤
-QUEST_LV_0200_20150714_007769	So that's it. We now have to persuade one of the monks and retrieve the monastery...{nl}After that, we would be able to contact with the abbot who would decide what to do with Evoniphon.	그렇군. 남은 건 수도사 한 명의 설득과 수도원 수복..{nl}그래야 에보니폰의 처분을 결정 할 수 있는 원장과 접촉할 수 있겠지.{nl}				헌터 추적대장 민츠
+QUEST_LV_0200_20150714_007769	So that's it. We now have to persuade one of the monks and retrieve the monastery...{nl}After that, we would be able to contact with the abbot who would decide what to do with Ebonypawn.	그렇군. 남은 건 수도사 한 명의 설득과 수도원 수복..{nl}그래야 에보니폰의 처분을 결정 할 수 있는 원장과 접촉할 수 있겠지.{nl}				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007770	I will gather the Hunters.{nl}Please continue to help Natasha at Laukyme Swamp.	나는 헌터들을 집합시키겠소.{nl}댁은 라우키메 저습지에서 우리 나타샤를 계속 도와 주길 바라오.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007771	When you go up the Ershike Path, you will reach Laukyme Swamp.{nl}If you fail to persuade them, then we would have to retrieve the monastery ourselves.	에르쉬케 오솔길을 따라 쭉 올라가면 라우키메 저습지요.{nl}만약 설득에 실패한다면 우리끼리라도 수복에 나서야겠지..				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007772	You've come a long way.{nl}So I heard a monk named Goss is taking the place of the abbot.	먼 길 오시느라 수고하셨습니다.{nl}저 거스라는 분이 수도원장의 대리를 맡고 계신 수도사라는군요.				헌터 나타샤
 QUEST_LV_0200_20150714_007773	Strange... a traveler in this place.	별일이군... 이런곳에 여행자라니.				헌터 바스틸
-QUEST_LV_0200_20150714_007774	It's so shameful as a hunter...{nl}After finding the traces of Evoniphon, I was really delighted, but I found out that was a trap...{nl}	헌터로서 체면이 없군. {nl}에보니폰의 흔적을 찾았다고 좋아했는게 그게 함정이었지 뭐야.{nl}				헌터 바스틸
+QUEST_LV_0200_20150714_007774	It's so shameful as a hunter...{nl}After finding the traces of Ebonypawn, I was really delighted, but I found out that was a trap...{nl}	헌터로서 체면이 없군. {nl}에보니폰의 흔적을 찾았다고 좋아했는게 그게 함정이었지 뭐야.{nl}				헌터 바스틸
 QUEST_LV_0200_20150714_007775	I am sorry, but can you look for the grass that he is looking for?{nl}I can only move one of my arms and my neck.	미안한데 이 친구가 찾아주는 풀 좀 찾아주지 않겠어?{nl}지금 팔 하나, 목 위만 간신히 움직이고 있다고.				헌터 바스틸
 QUEST_LV_0200_20150714_007776	It's so fortunate that you came before the monsters.{nl}I am counting on you.	몬스터가 오기 전에 자네가 먼저 와서 다행이야.{nl}미안하지만 좀 빨리 부탁할게.				헌터 바스틸
 QUEST_LV_0200_20150714_007777	Good. Good. {nl}We should first survive before feeling embarassed. Thanks!	다행이군. 다행이야.{nl}부끄러운 것 보다도 일단은 살아야지. 고마워!				헌터 바스틸
@@ -7783,39 +7783,39 @@ QUEST_LV_0200_20150714_007786	Stranger...{nl}If you don't have any task here, pl
 QUEST_LV_0200_20150714_007787	The monastery is locked with the barriers of the monks so it won't be possible without the persuasion from Goss.{nl}But, I... it's too difficult.	수도원은 수도사들의 결계로 막혀 있기에 거스님의 설득 없이는 불가능합니다.{nl}하지만 역시.. 전 어렵습니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007788	Hunters... they just won't give up.{nl}I've heard Marko and Potos are with the Hunters.{nl}	헌터란 자들은 참으로 끈질기군요.{nl}마르코님과 포토스님이 헌터들과 함께 한다는 이야기는 저도 들었습니다.{nl}				선임 수도사 거스
 QUEST_LV_0200_20150714_007789	But, you should be cautious.{nl}We just can't listen to one side.	하지만 신중해야 합니다. {nl}어느 한 쪽 이야기만 들을 수 없는 일 아니겠습니까.				선임 수도사 거스
-QUEST_LV_0200_20150714_007790	After persuading him, we can immediately start to retrieve the monastery.{nl}We can expect to expel Evoniphon then.	이 분만 설득하면 당장 수도원 수복에 나설 수 있습니다.{nl}에보니폰의 추방선언은 그 때 기대할 수 있겠지요.				헌터 나타샤
+QUEST_LV_0200_20150714_007790	After persuading him, we can immediately start to retrieve the monastery.{nl}We can expect to expel Ebonypawn then.	이 분만 설득하면 당장 수도원 수복에 나설 수 있습니다.{nl}에보니폰의 추방선언은 그 때 기대할 수 있겠지요.				헌터 나타샤
 QUEST_LV_0200_20150714_007791	Without Goss, we won't be able to recover the monastery.{nl}I hope you succeed in persuading him.	거스님 없이는 수도원을 수복할 수 없습니다.{nl}꼭 설득을 성공하길 바라겠습니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007792	But, I think we can resume the talk after retrieving the monastery.{nl}Please show me the competence which I could rely on so I can cooperate with you.	하지만 수도원을 되찾고 나서 이야기해도 될 일인 것 같습니다.{nl}제가 믿을 만한 실력을 보여 주십시오. 그래야 협력할 수 있겠습니다.				선임 수도사 거스
-QUEST_LV_0200_20150714_007793	Good.{nl}The Liverworts and Stonacorns around here would be enough. Please also bring the proofs.	좋습니다.{nl}이 주변의 우산이끼와 스토내콘이라면 충분하겠지요. 증거도 꼭 챙겨 오시고요.				선임 수도사 거스
+QUEST_LV_0200_20150714_007793	Good.{nl}The Liverworts and Stonacons around here would be enough. Please also bring the proofs.	좋습니다.{nl}이 주변의 우산이끼와 스토내콘이라면 충분하겠지요. 증거도 꼭 챙겨 오시고요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007794	You can give up if you feel that's too much for you.{nl}We were gonna finish it ourselves.	벅차다면 포기하셔도 좋습니다.{nl}원랜 저희들만으로 해결할 생각이었으니까요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007795	You definitely possess the competence. We also have the same objective.{nl}There is no reason to insist anymore.	확실히 능력은 갖추신 것 같군요. 목표도 같고요.{nl}더 이상 저희가 고집을 부릴 이유는 없는 것 같습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007796	The senior monk here is very picky.	이 곳의 선임 수도사님은 까다로우시군요.				헌터 나타샤
 QUEST_LV_0200_20150714_007797	I will gather the monks in front of the entrance of the monastery, so tell the Hunters to gather as well.{nl}After they are here, we will unleash the seals to block any monsters from following us.{nl}	수도원 입구로 수도사들을 모을테니 헌터들도 모이라고 전해주세요.{nl}전부 모이면 몬스터가 뒤쫓지 못하도록 막아놓은 봉인을 풀 것입니다.{nl}				선임 수도사 거스
-QUEST_LV_0200_20150714_007798	But, although we retrieved the monastery, don't expect us to expel Evoniphon.{nl}The abbot will decide everything after he comes out from the Prayer Room.	하지만 수도원을 되찾았다고 해서 반드시 에보니폰을 추방할 거라곤 기대 마세요.{nl}모든 것은 원장님께서 기도실에서 나오신 뒤에 그 분이 결정하실 일입니다.				선임 수도사 거스
+QUEST_LV_0200_20150714_007798	But, although we retrieved the monastery, don't expect us to expel Ebonypawn.{nl}The abbot will decide everything after he comes out from the Prayer Room.	하지만 수도원을 되찾았다고 해서 반드시 에보니폰을 추방할 거라곤 기대 마세요.{nl}모든 것은 원장님께서 기도실에서 나오신 뒤에 그 분이 결정하실 일입니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007799	Please understand that we could only do this.{nl}We've only listened to your story.	이렇게밖에 할 수 없는 점을 이해해 주셨으면 합니다.{nl}저희는 아직 당신들의 입장밖에 듣지 못했으니까요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007800	What Goss said also makes sense.{nl}As they gather in front of the monastery, we should have some {nl}decisive evidence that would withdraw Evoniphon's declaration.	거스님의 말씀도 일리는 있습니다.{nl}수도원 입구로 집결하는 동안 에보니폰의 보호 선언을 철회할 확실한 증거를 갖춰 놓아야겠어요.{nl}				헌터 나타샤
-QUEST_LV_0200_20150714_007801	I think we would have enough time.{nl}I am sorry, but please go back to Goss and ask him {nl}what happened when Evoniphon was coming.	시간은 충분하리라고 봅니다.{nl}죄송하지만, 다시 한번 거스님께 돌아가 에보니폰의 오던 때의 정황을 여쭈어 주십시오.				헌터 나타샤
+QUEST_LV_0200_20150714_007800	What Goss said also makes sense.{nl}As they gather in front of the monastery, we should have some {nl}decisive evidence that would withdraw Ebonypawn's declaration.	거스님의 말씀도 일리는 있습니다.{nl}수도원 입구로 집결하는 동안 에보니폰의 보호 선언을 철회할 확실한 증거를 갖춰 놓아야겠어요.{nl}				헌터 나타샤
+QUEST_LV_0200_20150714_007801	I think we would have enough time.{nl}I am sorry, but please go back to Goss and ask him {nl}what happened when Ebonypawn was coming.	시간은 충분하리라고 봅니다.{nl}죄송하지만, 다시 한번 거스님께 돌아가 에보니폰의 오던 때의 정황을 여쭈어 주십시오.				헌터 나타샤
 QUEST_LV_0200_20150714_007802	You can't prove that he was a cruel assassin.{nl}We can't release the ones that are being protected in the sanctuary by just guessing.{nl}	그가 잔인한 암살자라는 확실한 증거는 아직 당신들도 보여주지 못하고 있지 않습니까.{nl}단지 심증만으로 성역에서 보호하고 있는 자를 풀어줄 수는 없는 일입니다.{nl}				선임 수도사 거스
-QUEST_LV_0200_20150714_007803	What they said about the traps and the monsters {nl}that conquered the monastery are also the same.{nl}It's only a one-sided story that this was done by Evoniphon.{nl}	함정도, 수도원을 점령한 몬스터들도 마찬가지지요.{nl}그게 모두 에보니폰의 소행이라는 것은 한 쪽의 일방적인 주장일 뿐입니다.{nl}				선임 수도사 거스
-QUEST_LV_0200_20150714_007804	We are the people who pray for the generosity of the goddesses.{nl}So to withdraw the protection of Evoniphon, you should show them some decisive evidence.	답답하시겠지만, 저희는 여신의 이름 아래 자비를 구하는 사람들입니다.{nl}그러니 에보니폰의 보호를 철회하려면 확실한 증거를 보여주셔야 합니다.				선임 수도사 거스
-QUEST_LV_0200_20150714_007805	Hmm. I remember that clearly.{nl}One day, someone named Evoniphon knocked on the door of the monastery. {nl}With his wounded body...{nl}	흠. 그 때의 일은 똑똑히 기억하고 있습니다.{nl}어느 날, 에보니폰이라는 자가 수도원의 문을 두들겼지요. 커다란 상처를 입고요.{nl}				선임 수도사 거스
+QUEST_LV_0200_20150714_007803	What they said about the traps and the monsters {nl}that conquered the monastery are also the same.{nl}It's only a one-sided story that this was done by Ebonypawn.{nl}	함정도, 수도원을 점령한 몬스터들도 마찬가지지요.{nl}그게 모두 에보니폰의 소행이라는 것은 한 쪽의 일방적인 주장일 뿐입니다.{nl}				선임 수도사 거스
+QUEST_LV_0200_20150714_007804	We are the people who pray for the generosity of the goddesses.{nl}So to withdraw the protection of Ebonypawn, you should show them some decisive evidence.	답답하시겠지만, 저희는 여신의 이름 아래 자비를 구하는 사람들입니다.{nl}그러니 에보니폰의 보호를 철회하려면 확실한 증거를 보여주셔야 합니다.				선임 수도사 거스
+QUEST_LV_0200_20150714_007805	Hmm. I remember that clearly.{nl}One day, someone named Ebonypawn knocked on the door of the monastery. {nl}With his wounded body...{nl}	흠. 그 때의 일은 똑똑히 기억하고 있습니다.{nl}어느 날, 에보니폰이라는 자가 수도원의 문을 두들겼지요. 커다란 상처를 입고요.{nl}				선임 수도사 거스
 QUEST_LV_0200_20150714_007806	After bringing him inside, I began to cure him.{nl}He also requested to protect the sanctuary at our monastery.	일단 그를 안으로 들여보내고 치료를 시작했습니다.{nl}성역보호를 요청한 것도 그때였지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007807	That's right. Before he came on that day, one man {nl}who seemed to be affected by the poison also came.{nl}He was very ill, and eventually passed away before I could even ask him a question.{nl}	그렇지. 그가 오기 며칠 전에 독에 중독된 듯한 한 남자가 찾아온 적도 있었습니다.{nl}워낙에 위중한 상태였기에 뭘 물어볼 새도 없이 숨을 거두고 말았지요.{nl}				선임 수도사 거스
-QUEST_LV_0200_20150714_007808	His grave is in Priekis Rest Area. With his keepsakes.{nl}Ah, Evoniphon also asked me whether there was someone who came before him.	그의 무덤은 파사로 쉼터에 있습니다. 유품과 함께요.{nl}그러고보니 에보니폰이 앞서 찾아온 자가 없었는지 묻기는 했었군요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007809	The man affected by the poison... I am sure he ran away from Evoniphon.{nl}But why did he run away from Evoniphon...	독에 중독된 남자.. 분명 에보니폰에게 도망쳤을 거라고 생각합니다.{nl}도대체 무엇 때문이였을까요.				헌터 나타샤
+QUEST_LV_0200_20150714_007808	His grave is in Priekis Rest Area. With his keepsakes.{nl}Ah, Ebonypawn also asked me whether there was someone who came before him.	그의 무덤은 파사로 쉼터에 있습니다. 유품과 함께요.{nl}그러고보니 에보니폰이 앞서 찾아온 자가 없었는지 묻기는 했었군요.				선임 수도사 거스
+QUEST_LV_0200_20150714_007809	The man affected by the poison... I am sure he ran away from Ebonypawn.{nl}But why did he run away from Ebonypawn...	독에 중독된 남자.. 분명 에보니폰에게 도망쳤을 거라고 생각합니다.{nl}도대체 무엇 때문이였을까요.				헌터 나타샤
 QUEST_LV_0200_20150714_007810	There weren't any other things besides that.{nl}Did this help you?	그 외엔 별 다른 일은 없었습니다.{nl}도움이 되셨는지요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007811	It's not good for the deceased, but I think I should look for his keepsakes from his grave.{nl}I need to find out why Evoniphon was chasing after him. Please, you have to help me.	고인에겐 안된 일이지만 무덤의 유품을 찾아봐야겠습니다.{nl}에보니폰이 왜 그를 노렸는지요. 부탁드립니다.				헌터 나타샤
+QUEST_LV_0200_20150714_007811	It's not good for the deceased, but I think I should look for his keepsakes from his grave.{nl}I need to find out why Ebonypawn was chasing after him. Please, you have to help me.	고인에겐 안된 일이지만 무덤의 유품을 찾아봐야겠습니다.{nl}에보니폰이 왜 그를 노렸는지요. 부탁드립니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007812	Did you find anything?	별 다른 소득은 없었나요?				헌터 나타샤
 QUEST_LV_0200_20150714_007813	This is the directory of the Schaffenstar.{nl}There's a letter in the middle of it... This is the seal of the Schaffenstar. Let's rip it off.	이건 샤펜스타의 인명록이로군요.{nl}사이에 편지가 껴 있는데.. 역시 샤펜스타의 인장입니다. 뜯어보도록 하지요.				헌터 나타샤
-QUEST_LV_0200_20150714_007814	This is the request letter for murder and the confirmation of the receipt. {nl}The receiver is Evoniphon...{nl}I think Evoniphon thought this letter would be at the monastery.{nl}	전 단장의 살해 의뢰서와 수령 확인서군요. 수취인은 에보니폰..{nl}에보니폰은 이 편지가 수도원에 있을 거라고 생각한 것 같습니다.{nl}				헌터 나타샤
-QUEST_LV_0200_20150714_007815	I am sure that Evoniphon caused the mess of the monsters to look for this. {nl}It was easy for him to do this. This is decisive evidence. Let's show it to Goss.	몬스터 소동도 이걸 찾기 위해 그가 일으킨 것이겠죠. 그에겐 쉬운 일이니까요.{nl}이건 확실한 증거입니다. 일단 거스님께 보여드리세요.				헌터 나타샤
+QUEST_LV_0200_20150714_007814	This is the request letter for murder and the confirmation of the receipt. {nl}The receiver is Ebonypawn...{nl}I think Ebonypawn thought this letter would be at the monastery.{nl}	전 단장의 살해 의뢰서와 수령 확인서군요. 수취인은 에보니폰..{nl}에보니폰은 이 편지가 수도원에 있을 거라고 생각한 것 같습니다.{nl}				헌터 나타샤
+QUEST_LV_0200_20150714_007815	I am sure that Ebonypawn caused the mess of the monsters to look for this. {nl}It was easy for him to do this. This is decisive evidence. Let's show it to Goss.	몬스터 소동도 이걸 찾기 위해 그가 일으킨 것이겠죠. 그에겐 쉬운 일이니까요.{nl}이건 확실한 증거입니다. 일단 거스님께 보여드리세요.				헌터 나타샤
 QUEST_LV_0200_20150714_007816	A murder request... This is the evidence we need.{nl}The abbot would think differently of him when he sees this.{nl}	암살 의뢰서.. 이건 발뺌할 수 없는 증거로군요.{nl}원장님께서도 이걸 보시면 생각을 달리하실 겁니다.{nl}				선임 수도사 거스
 QUEST_LV_0200_20150714_007817	All the other monks are ready and went in front of the monastery.{nl}Let's go. I will see you in front of the monastery.	다른 수도사들은 이미 준비를 마치고 수도원 입구에 가 있습니다.{nl}우리도 바로 출발하도록 하죠. 수도원 정문에서 뵙겠습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007818	Everything is clear now.{nl}I will go to the entrance of the monastery first. Let's join there together.	모든 정황은 확실해졌습니다.{nl}저는 먼저 수도원 입구로 가겠습니다. 그 곳에서 합류하도록 하죠.				헌터 나타샤
 QUEST_LV_0200_20150714_007819	You've came?{nl}We are ready to enter the monastery.	오셨습니까.{nl}이 쪽은 수도원으로 진입할 준비를 마쳤습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007820	Everyone seems to be gathering in front of the monastery.{nl}Let's hurry.	모두 수도원으로 모이는 분위기군요.{nl}우리도 서두르죠.				헌터 나타샤
 QUEST_LV_0200_20150714_007821	I thought it was a manner not to touch it since it was his last keepsake.{nl}How would anyone have thought it would turn out like this.	마지막 유품이니 손 대지 않는 것이 예의라고 생각했었습니다.{nl}그게 이렇게 큰일이 될 거라고 누가 생각이나 했겠습니까.				선임 수도사 거스
-QUEST_LV_0200_20150714_007822	Everyone knows that the Hunter Master and the Ranger Master are chasing after Evoniphon.{nl}But, the reason why no one could step forward is because they didn't have any decisive evidence.{nl}	헌터 마스터님과 레인져 마스터님이 에보니폰을 추적하고 있는 건 유명합니다.{nl}하지만 누구도 전면적으로 나서지 못한 건 심증은 있으나 증거가 없었기 때문입니다.{nl}				헌터 나타샤
+QUEST_LV_0200_20150714_007822	Everyone knows that the Hunter Master and the Ranger Master are chasing after Ebonypawn.{nl}But, the reason why no one could step forward is because they didn't have any decisive evidence.{nl}	헌터 마스터님과 레인져 마스터님이 에보니폰을 추적하고 있는 건 유명합니다.{nl}하지만 누구도 전면적으로 나서지 못한 건 심증은 있으나 증거가 없었기 때문입니다.{nl}				헌터 나타샤
 QUEST_LV_0200_20150714_007823	Now, this is different. This letter is evidence.{nl}Since we have the seal of the Schaffenstar, we don't have to worry about it.	지금은 다르지요. 이 편지가 그 증거이니까요.{nl}샤펜스타의 인장도 있으니 신빙성도 의심할 여지가 없습니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007824	This place is dangerous... I miss the monastery.	이근처는 위험하군요... 수도원이 그립습니다.				수도사 욘스
 QUEST_LV_0200_20150714_007825	I want to be safe until I go back to the monastery.{nl}But the monsters near here are very threatening.	다시 수도원으로 돌아갈때까지만이라도 안전하게 있고 싶어요.{nl}하지만 이 주변의 몬스터는 너무 위협적이네요..				수도사 욘스
@@ -7853,13 +7853,13 @@ QUEST_LV_0200_20150714_007856	So you've come. Soon, the abbot would come out.{nl
 QUEST_LV_0200_20150714_007857	Why is the monastery like this and why are you all gathered here?{nl}And you... you seem to have some business with me.	수도원은 왜 이 모양이고 자네들은 왜 다들 모여있는겐가?{nl}그리고 당신은.. 아무래도 제게 용건이 있으신 것 같군요.				수도원장
 QUEST_LV_0200_20150714_007858	He is the abbot of the Tyla Monastery.	이 분이 우리 틸라 수도원의 원장님이십니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007859	We barely managed to come this far so I am hoping for good results.	간신히 여기까지 왔으니 좋은 결과를 바랄 뿐이오.				헌터 추적대장 민츠
-QUEST_LV_0200_20150714_007860	So you are asking me to withdraw my declaration to protect Evoniphon.{nl}You came this far to do that...	에보니폰에 대한 보호선언을 철회해 달라는 말씀이로군요.{nl}그걸 위해 이렇게까지.. {nl}				수도원장
+QUEST_LV_0200_20150714_007860	So you are asking me to withdraw my declaration to protect Ebonypawn.{nl}You came this far to do that...	에보니폰에 대한 보호선언을 철회해 달라는 말씀이로군요.{nl}그걸 위해 이렇게까지.. {nl}				수도원장
 QUEST_LV_0200_20150714_007861	Okay. I will discuss this with the senior monks.{nl}Can you wait until then?	알겠습니다. 일단 선임 수도사님들과 논의해 보겠습니다.{nl}그때까지 잠시 기다려 주실 수 있겠습니까?				수도원장
 QUEST_LV_0200_20150714_007862	I will wait for their decision here first.{nl}If their declaration doesn't get withdrawn, then I should think about what to do at then.	일단 여기서 그들의 결정을 기다리는 게 좋겠소.{nl}만약 보호가 철회되지 않으면 그 때는 어찌해야할지도 고민해야겠군.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007863	So it seems that their discussion is over.{nl}Let's go there and listen to their conclusion.	논의가 끝난 듯이 보이는 군요.{nl}가서 결론을 들어 봅시다.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007864	We haven't finished our discussion.{nl}Please wait with the Hunters.	아직 논의가 끝나지 않았습니다.{nl}헌터분들과 함께 기다려 주시지요.				수도원장
-QUEST_LV_0200_20150714_007865	After we've discussed with the senior monks...{nl}We've decided to withdraw our declaration to protect Evoniphon.	선임 수도사들과 논의한 결과.. {nl}에보니폰에게 내렸던 보호 선언을 철회하기로 했습니다.{nl}				수도원장
-QUEST_LV_0200_20150714_007866	From this point on, Evoniphon won't be protected by Tyla Monastery and we request Evoniphon to leave at once.{nl}Also, we are not going to be involved with others' decision to punish him.	이후, 에보니폰은 틸라 수도원의 보호를 받을 수 없으며 즉시 떠날 것을 요구합니다.{nl}그리고 다른 이들이 그에게 죄를 묻는 것에 관여치 않을 것입니다.				수도원장
+QUEST_LV_0200_20150714_007865	After we've discussed with the senior monks...{nl}We've decided to withdraw our declaration to protect Ebonypawn.	선임 수도사들과 논의한 결과.. {nl}에보니폰에게 내렸던 보호 선언을 철회하기로 했습니다.{nl}				수도원장
+QUEST_LV_0200_20150714_007866	From this point on, Ebonypawn won't be protected by Tyla Monastery and we request Ebonypawn to leave at once.{nl}Also, we are not going to be involved with others' decision to punish him.	이후, 에보니폰은 틸라 수도원의 보호를 받을 수 없으며 즉시 떠날 것을 요구합니다.{nl}그리고 다른 이들이 그에게 죄를 묻는 것에 관여치 않을 것입니다.				수도원장
 QUEST_LV_0200_20150714_007867	I hope the goddessess will be with you on your rest of journey.	앞으로의 여정에 여신께서 함께 하길 빌겠소.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007868	Besides from the expulsion, we can't forgive his actions that ruined the monastery.{nl}We should find him since he should be here somewhere.	허나 추방과는 별개로, 수도원을 어지럽힌 그 자의 행위는 용서할 수 없습니다.{nl}아직 수도원 어딘가에 숨어있을 것이니 그를 찾아야 합니다.				수도원장
 QUEST_LV_0200_20150714_007869	He made the monastery like this due to that letter. {nl}Please be careful.	그 편지 하나 때문에 수도원을 이 지경까지 어지럽힌 자입니다. {nl}부디 조심하십시오.				수도원장
@@ -7867,7 +7867,7 @@ QUEST_LV_0200_20150714_007870	He is so cunning..{nl}The Hunters are surrounding 
 QUEST_LV_0200_20150714_007871	We would have had hard time without your help.{nl}Thank you so much for your efforts. I pray that the goddesses be with you on your journey.	계시자께서 도왔기에 망정이지 아마 이렇게까지 따라잡긴 힘들었을 거요.{nl}정말 고생 많으셨소. 앞으로의 여정에 여신께서 함께 하길 빌겠소.				헌터 추적대장 민츠
 QUEST_LV_0200_20150714_007872	If it wasn't for your help, the circumstances would have not been like this.	계시자님이 아니었다면 상황이 호전되지 못했을겁니다.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007873	I've read it from the book before. {nl}Some smell has the power to pull the monsters.{nl}	예전에 책에서 읽은 적이 있습니다. {nl}어떤 냄새는 몬스터들을 끌어당기는 힘을 가지고 있다고요.{nl}				선임 수도사 포토스
-QUEST_LV_0200_20150714_007874	I should've noticed when Evoniphon brought that lump... I didn't expect that would be enlarged this big...{nl}We are eliminating them as we see them, but I want you to help us as well.{nl}	에보니폰이 그 덩어리를 들여왔을 때 알아챘어야 했는데 그게 그렇게 크게..{nl}저희도 보이는 족족 없애는 중입니다만, 계시자님께서도 힘을 보태주셨으면 합니다.{nl}				선임 수도사 포토스
+QUEST_LV_0200_20150714_007874	I should've noticed when Ebonypawn brought that lump... I didn't expect that would be enlarged this big...{nl}We are eliminating them as we see them, but I want you to help us as well.{nl}	에보니폰이 그 덩어리를 들여왔을 때 알아챘어야 했는데 그게 그렇게 크게..{nl}저희도 보이는 족족 없애는 중입니다만, 계시자님께서도 힘을 보태주셨으면 합니다.{nl}				선임 수도사 포토스
 QUEST_LV_0200_20150714_007875	We are luring the monsters with the smell so it won't be effective if you just destroy them.{nl}Please destroy the lumps using this liquid medicine.	냄새로 몬스터를 유인하는 것이니 그저 부수기만 해선 소용이 없을 겁니다.{nl}이 물약으로 덩어리를 없애 주세요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007876	When I saw it, it was about the size of my palm so I don't understand how it got that big.{nl}This is all my fault...	제가 본 것은 손바닥만했는데 언제 그렇게 크게 만들었는지 모르겠습니다.{nl}다 제 불찰이지요..				선임 수도사 포토스
 QUEST_LV_0200_20150714_007877	I don't know how long it would take to drive those monsters out...{nl}But now is the time to start.	이 몬스터들을 전부 몰아내는데 얼마나 오래 걸릴지..{nl}지금부터 시작이군요.				선임 수도사 포토스
@@ -8114,7 +8114,7 @@ QUEST_LV_0200_20150714_008117	An Unlucky Day	운수 나쁜 날
 QUEST_LV_0200_20150714_008118	Trouble at the Tyla Monastery	틸라 수도원의 고난				
 QUEST_LV_0200_20150714_008119	Tell him that you would help	도울 수 있는 데까지 돕겠다고 한다				
 QUEST_LV_0200_20150714_008120	Tell him that you are not completely healed yet	아직 몸이 다 낫지 않았다고 한다				
-QUEST_LV_0200_20150714_008121	About Evoniphon	에보니폰에 대해				
+QUEST_LV_0200_20150714_008121	About Ebonypawn	에보니폰에 대해				
 QUEST_LV_0200_20150714_008122	Relief Assistance	구호활동 보조				
 QUEST_LV_0200_20150714_008123	Tell him that you will ask the Hunters	헌터들에게 물어보겠다고 한다				
 QUEST_LV_0200_20150714_008124	Tell him that you don't know how to do it	안타깝지만 방법을 모르겠다고 한다				
@@ -8162,14 +8162,14 @@ QUEST_LV_0200_20150714_008165	Fastidious Ointment (2)	까칠한 수도사
 QUEST_LV_0200_20150714_008166	Tell him that you would persuade Goss	거스를 설득해 보겠다고 한다				
 QUEST_LV_0200_20150714_008167	Proof of Strength	힘의 증명				
 QUEST_LV_0200_20150714_008168	A Suspicious Stranger	석연치 않은 이방인				
-QUEST_LV_0200_20150714_008169	About the protection of Evoniphon	에보니폰의 보호에 대해				
+QUEST_LV_0200_20150714_008169	About the protection of Ebonypawn	에보니폰의 보호에 대해				
 QUEST_LV_0200_20150714_008170	The Murdered Traveler	살해당한 여행자				
 QUEST_LV_0200_20150714_008171	Ask him if there were any other strange things	다른 이상한 것은 없었는지 묻는다				
 QUEST_LV_0200_20150714_008172	True Colors Revealed	드러난 마각				
 QUEST_LV_0200_20150714_008173	Reject since you don't feel good about it	왠지 꺼림칙하니 거절한다				
 QUEST_LV_0200_20150714_008174	Meeting the Abbot	수도원장을 만나기 위해				
 QUEST_LV_0200_20150714_008175	Tell him that you need some time to think	잠시 생각할 시간을 달라고 한다				
-QUEST_LV_0200_20150714_008176	About the chase of Evoniphon	에보니폰의 추적에 대해				
+QUEST_LV_0200_20150714_008176	About the chase of Ebonypawn	에보니폰의 추적에 대해				
 QUEST_LV_0200_20150714_008177	Creating a Quiet Environment	조용한 환경 만들기				
 QUEST_LV_0200_20150714_008178	I will defeat the monsters so don't worry	몬스터를 처치해 줄 테니 걱정 말라고 한다				
 QUEST_LV_0200_20150714_008179	It looks safe	충분히 안전해 보인다고 한다				
@@ -8196,7 +8196,7 @@ QUEST_LV_0200_20150714_008199	Declare Withdrawal of Protection	보호 철회 선
 QUEST_LV_0200_20150714_008200	I will wait.	기다리겠다고 말한다				
 QUEST_LV_0200_20150714_008201	Push the discussions to later.	잠시 논의를 미뤄 달라고 한다				
 QUEST_LV_0200_20150714_008202	Start of a New Chase	새로운 추격의 시작				
-QUEST_LV_0200_20150714_008203	I will chase Evoniphon	에보니폰을 쫓겠다고 한다				
+QUEST_LV_0200_20150714_008203	I will chase Ebonypawn	에보니폰을 쫓겠다고 한다				
 QUEST_LV_0200_20150714_008204	Lessen the Head Count	머릿수 줄이기				
 QUEST_LV_0200_20150714_008205	I will help too	자신도 돕겠다고 한다				
 QUEST_LV_0200_20150714_008206	Clean Inside	실내 청소				
@@ -8561,10 +8561,10 @@ QUEST_LV_0200_20150714_008564	Talk to Hunter Reina	헌터 레이나와 대화
 QUEST_LV_0200_20150714_008565	Mintz said that Hunter Reina would be able to find an adequate evidence. Go look for Hunter Reina at Rykdimo Gate Route.	민츠는 헌터 레이나가 적당한 증거를 찾아줄 수 있을 것이라 합니다. 리크디모 관문 밑에 있는 헌터 레이나를 찾아가세요.				
 QUEST_LV_0200_20150714_008566	Hunter Reina looks ill. Talk to her first.	헌터 레이나의 상태가 조금 이상해 보입니다. 일단 그녀와 대화해 보세요.				
 QUEST_LV_0200_20150714_008567	Search for the trap using Jareth	쟈레쓰를 이용해 함정 수색				
-QUEST_LV_0200_20150714_008568	Hunter Reina lent you her companion, Jareth since she can't move. Use Jareth to look for Evoniphon's trap.	헌터 레이나는 움직이지 못하는 자신 대신 컴패니언인 쟈레쓰를 빌려 주었습니다. 쟈레쓰를 이용해 에보니폰의 함정을 찾으세요.				
-QUEST_LV_0200_20150714_008569	You found Evoniphon's trap. Return to Hunter Reina with Jareth.	간신히 에보니폰의 함정을 찾을 수 있었습니다. 쟈레쓰와 함께 레이나에게 돌아가세요.				
+QUEST_LV_0200_20150714_008568	Hunter Reina lent you her companion, Jareth since she can't move. Use Jareth to look for Ebonypawn's trap.	헌터 레이나는 움직이지 못하는 자신 대신 컴패니언인 쟈레쓰를 빌려 주었습니다. 쟈레쓰를 이용해 에보니폰의 함정을 찾으세요.				
+QUEST_LV_0200_20150714_008569	You found Ebonypawn's trap. Return to Hunter Reina with Jareth.	간신히 에보니폰의 함정을 찾을 수 있었습니다. 쟈레쓰와 함께 레이나에게 돌아가세요.				
 QUEST_LV_0200_20150714_008570	You have found a trap that could possibly be evidence. Hand it over to Mintz.	증거가 될만한 함정을 찾아냈습니다. 민츠에게 전해 주세요.				
-QUEST_LV_0200_20150714_008571	Show Evoniphon's trap to Potos. If Potos has good eyes, he may able to find evidence of Evoniphon.	온전한 에보니폰의 함정을 포토스에게 보여주세요. 포토스의 눈썰미가 좋다면 에보니폰의 증거를 찾을 수 있을지도 모릅니다.				
+QUEST_LV_0200_20150714_008571	Show Ebonypawn's trap to Potos. If Potos has good eyes, he may able to find evidence of Ebonypawn.	온전한 에보니폰의 함정을 포토스에게 보여주세요. 포토스의 눈썰미가 좋다면 에보니폰의 증거를 찾을 수 있을지도 모릅니다.				
 QUEST_LV_0200_20150714_008572	Talk to Hunter Natasha	헌터 나타샤와 대화				
 QUEST_LV_0200_20150714_008573	Mintz said after finish persuading Potos, you should help Natasha. Meet Natasha in Viltis Forest.	민츠는 포토스의 설득을 마치면 헌터 나타샤를 도와달라고 합니다. 빌티스 숲에 있는 나타샤를 찾아가세요.				
 QUEST_LV_0200_20150714_008574	Talk to Monk Wiley	수도사 와일리와 대화				
@@ -8635,29 +8635,29 @@ QUEST_LV_0200_20150714_008638	Hunter Natasha is trying to persuade Senior Monk G
 QUEST_LV_0200_20150714_008639	Talk to Senior Monk Goss	선임 수도사 거스와 대화				
 QUEST_LV_0200_20150714_008640	Natasha asked you to persuade Goss. Talk to Senior Monk Goss.	나타샤는 거스를 설득해달라고 합니다. 선임 수도사 거스와 대화해 보세요.				
 QUEST_LV_0200_20150714_008641	Senior Monk Goss is being too uptight. Try persuading Goss again.	선임 수도사 거스는 신중한 태도를 보이고 있습니다. 다시 거스를 설득해 보세요.				
-QUEST_LV_0200_20150714_008642	Defeat Liverworts and Stonacorns and collect evidence	우산이끼와 스토내콘을 처치하고 증거 수집				
-QUEST_LV_0200_20150714_008643	Goss asked you to show him the skill that is needed to retrieve the Monastery. Defeat Liverworts and Stonacorns around here and bring the evidence.	거스는 수도원을 되찾을 만한 실력을 증명해 보이라고 합니다. 주변의 우산이끼와 스토내콘을 처치하고 증거물을 가져오세요.				
+QUEST_LV_0200_20150714_008642	Defeat Liverworts and Stonacons and collect evidence	우산이끼와 스토내콘을 처치하고 증거 수집				
+QUEST_LV_0200_20150714_008643	Goss asked you to show him the skill that is needed to retrieve the Monastery. Defeat Liverworts and Stonacons around here and bring the evidence.	거스는 수도원을 되찾을 만한 실력을 증명해 보이라고 합니다. 주변의 우산이끼와 스토내콘을 처치하고 증거물을 가져오세요.				
 QUEST_LV_0200_20150714_008644	Hand them over to Senior Monk Goss	선임 수도사 거스에게 전달				
 QUEST_LV_0200_20150714_008645	Goss should approve of this. Bring the evidence to Goss.	이 정도면 거스도 인정할 수 있을 것 같습니다. 거스에게 증거물을 가져다 주세요.				
 QUEST_LV_0200_20150714_008646	It seems that Goss has acknowledged you. Talk to him again.	선임 수도사 거스는 당신을 인정한 것 같습니다. 그와 다시 대화해 보세요.				
 QUEST_LV_0200_20150714_008647	Goss requested you to pass the message to gather the Hunters in front of the entrance of the Monastery. Pass the words of Goss to Natasha.	거스는 수도원의 입구로 헌터들을 모아 달라는 전언을 부탁했습니다. 나타샤에게 거스의 전언을 들려 주세요.				
-QUEST_LV_0200_20150714_008648	Hunter Natasha is looking for crucial evidence on Evoniphon while the monks and the Hunters gather in front of the entrance of the Monastery. Ask Senior Monk Goss about the details.	헌터 나타샤는 수도사들과 헌터들이 수도원 입구에 모일 동안 에보니폰에 대한 확실한 증거를 찾으려고 합니다. 선임 수도사 거스에게 자세한 정황을 물어 보세요.				
-QUEST_LV_0200_20150714_008649	You've heard from Goss about a case of a dead man that might be linked to Evoniphon. Tell this to Natasha.	거스로부터 에보니폰과 관련되어 있을 듯한 죽은 남자에 대한 이야기를 들었습니다. 나타샤에게 이 이야기를 전해 주세요.				
-QUEST_LV_0200_20150714_008650	Hunter Natasha wants to find out what Evoniphon was looking for from the dead man. Talk to Natasha again.	헌터 나타샤는 에보니폰이 죽은 남자에게서 무엇을 찾고 있었는지를 궁금해 합니다. 나타샤와 다시 대화해 보세요.				
+QUEST_LV_0200_20150714_008648	Hunter Natasha is looking for crucial evidence on Ebonypawn while the monks and the Hunters gather in front of the entrance of the Monastery. Ask Senior Monk Goss about the details.	헌터 나타샤는 수도사들과 헌터들이 수도원 입구에 모일 동안 에보니폰에 대한 확실한 증거를 찾으려고 합니다. 선임 수도사 거스에게 자세한 정황을 물어 보세요.				
+QUEST_LV_0200_20150714_008649	You've heard from Goss about a case of a dead man that might be linked to Ebonypawn. Tell this to Natasha.	거스로부터 에보니폰과 관련되어 있을 듯한 죽은 남자에 대한 이야기를 들었습니다. 나타샤에게 이 이야기를 전해 주세요.				
+QUEST_LV_0200_20150714_008650	Hunter Natasha wants to find out what Ebonypawn was looking for from the dead man. Talk to Natasha again.	헌터 나타샤는 에보니폰이 죽은 남자에게서 무엇을 찾고 있었는지를 궁금해 합니다. 나타샤와 다시 대화해 보세요.				
 QUEST_LV_0200_20150714_008651	Investigate the grave at Priekis Rest Area	파사로 쉼터의 무덤 조사				
-QUEST_LV_0200_20150714_008652	Find the grave of the dead man who was killed by Evoniphon's poison and look for some clues on Evoniphon.	에보니폰의 독에 죽은 남자의 무덤을 찾아 에보니폰과 관련된 실마리를 찾아야 합니다.				
+QUEST_LV_0200_20150714_008652	Find the grave of the dead man who was killed by Ebonypawn's poison and look for some clues on Ebonypawn.	에보니폰의 독에 죽은 남자의 무덤을 찾아 에보니폰과 관련된 실마리를 찾아야 합니다.				
 QUEST_LV_0200_20150714_008653	You found a book with some writing in it. Show the book to Hunter Natasha.	문장이 새겨진 책을 찾았습니다. 헌터 나타샤에게 책을 보여주세요.				
-QUEST_LV_0200_20150714_008654	The details of what Evoniphon did is written on the traveler's old book. Show the letter to Goss and talk to him.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.				
-QUEST_LV_0200_20150714_008655	It seems as if Goss has also found out about Evoniphon's identity. Talk to Hunter Natasha and prepare to charge to Tyla Monastery.	거스 역시 에보니폰의 정체를 알아챈 것 같습니다. 헌터 나타샤와 이야기하고 틸라 수도원으로 돌격할 준비를 하세요.	QUEST_LV_0200_20150714_008654	The details of what Evoniphon did is written on the traveler's old book. Show the letter to Goss and talk to him.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.	
+QUEST_LV_0200_20150714_008654	The details of what Ebonypawn did is written on the traveler's old book. Show the letter to Goss and talk to him.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.				
+QUEST_LV_0200_20150714_008655	It seems as if Goss has also found out about Ebonypawn's identity. Talk to Hunter Natasha and prepare to charge to Tyla Monastery.	거스 역시 에보니폰의 정체를 알아챈 것 같습니다. 헌터 나타샤와 이야기하고 틸라 수도원으로 돌격할 준비를 하세요.	QUEST_LV_0200_20150714_008654	The details of what Ebonypawn did is written on the traveler's old book. Show the letter to Goss and talk to him.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.	
 QUEST_LV_0200_20150714_008656	Enter Tyla Monastery	틸라 수도원 안으로 진입				
 QUEST_LV_0200_20150714_008657	There are many monks and Hunters gathered at Tyla Monastery. Go to the entrance of Tyla Monastery.	틸라 수도원에는 이미 수도사들과 헌터들이 모여있는 것 같습니다. 틸라 수도원 정문으로 가세요.				
 QUEST_LV_0200_20150714_008658	Talk to Monk Jones	수도사 욘스와 대화				
 QUEST_LV_0200_20150714_008659	Monk Jones seems anxious. Ask him what his worry is.	수도사 욘수가 안절부절해 하고 있습니다. 그의 고민이 무언지 물어보세요.				
-QUEST_LV_0200_20150714_008660	Defeat Liverworts and Stonacorns	우산이끼와 스토내콘 처치				
-QUEST_LV_0200_20150714_008661	Monk Jones seems to be unease by the monsters around his fellow monks. Defeat Liverworts and Stonacorns.	수도사 욘스는 수도사들 근처의 몬스터 때문에 불안해 하고 있습니다. 우산이끼와 스토내콘을 처치하세요.				
+QUEST_LV_0200_20150714_008660	Defeat Liverworts and Stonacons	우산이끼와 스토내콘 처치				
+QUEST_LV_0200_20150714_008661	Monk Jones seems to be unease by the monsters around his fellow monks. Defeat Liverworts and Stonacons.	수도사 욘스는 수도사들 근처의 몬스터 때문에 불안해 하고 있습니다. 우산이끼와 스토내콘을 처치하세요.				
 QUEST_LV_0200_20150714_008662	It seems that the number of monsters has been reduced a bit. Return to the Monk Jones and assure to him that they're safe now.	주변 몬스터의 수가 어느정도 줄어든 것 같습니다. 수도사 욘스에게 돌아가 그를 안심시키세요.				
 QUEST_LV_0200_20150714_008663	Defeat Liverworts	우산이끼 처치				
-QUEST_LV_0200_20150714_008664	Defeat Stonacorns	스토내콘 처치				
+QUEST_LV_0200_20150714_008664	Defeat Stonacons	스토내콘 처치				
 QUEST_LV_0200_20150714_008665	Monk Jones needs someone's help. Talk to him.	수도사 욘스가 누군가의 도움을 필요로 하고 있습니다. 그와 대화해 보세요.				
 QUEST_LV_0200_20150714_008666	Collect Acylado Hydrophyte	아실라도 수초 채집				
 QUEST_LV_0200_20150714_008667	Jones says that he requires Acylado Hydrophyte for the Essence of Water. Collect Acylado Hydrophyte from Difference Marsh or Minia Flooding Area.	욘스는 물의 정수를 위해 아실라도 수초가 필요하다고 합니다. 다름 습지나 미니아 침수구역에서 아실라도 수초를 모으세요.				
@@ -8703,13 +8703,13 @@ QUEST_LV_0200_20150714_008706	Call out the abbot.	수도원장을 부르기
 QUEST_LV_0200_20150714_008707	To call out abbot, Goss is trying to manipulate the device in the Prayer Room. Wait until the device gets activated.	거스는 수도원장을 부르기 위해 기도실 장치를 조작하려 합니다. 장치가 작동할 때까지 기다리세요.				
 QUEST_LV_0200_20150714_008708	Talk to the abbot	수도원장과 대화				
 QUEST_LV_0200_20150714_008709	The abbot moved out from the room. Tell him what has happened so far.	폐관기도중이였던 수도원장이 기도실 밖으로 나왔습니다. 그에게 자초지종을 이야기 하세요.				
-QUEST_LV_0200_20150714_008710	The abbot moved out from the room. Ask him to withdraw the decision to protect Evoniphon.	수도원장이 기도실 밖으로 모습을 드러냈습니다. 그에게 에보니폰 보호선언을 철회해 줄 것을 요청하세요.				
+QUEST_LV_0200_20150714_008710	The abbot moved out from the room. Ask him to withdraw the decision to protect Ebonypawn.	수도원장이 기도실 밖으로 모습을 드러냈습니다. 그에게 에보니폰 보호선언을 철회해 줄 것을 요청하세요.				
 QUEST_LV_0200_20150714_008711	The abbot won't decide quickly. While he discusses with senior monks, go meet Hunter Tracker Capt. Mintz.	수도원장은 섣불리 결정하지 않으려고 합니다. 그가 선임 수도사들과 논의하는 동안 헌터 추적대장 민츠에게 가 보세요.				
-QUEST_LV_0200_20150714_008712	After listening from the senior monks, the abbot finally realized Evoniphon's true motives. Talk to him.	수도원장은 선임 수도사들의 증언을 듣고 비로소 에보니폰에 대한 실체를 판단한 것 같습니다. 그와 대화해 보세요.				
-QUEST_LV_0200_20150714_008713	It seems that the decision about what to do with Evoniphon has been confirmed. Talk to the abbot.	에보니폰의 처우에 대해 결정이 난 것 같습니다. 수도원장과 대화해 보세요.				
-QUEST_LV_0200_20150714_008714	Search for Evoniphon, the Assassin.	암살자 에보니폰을 수색				
-QUEST_LV_0200_20150714_008715	The abbot requested you to kick out Evoniphon from the Monastery. Look for Evoniphon first in the Monastery.	수도원장은 에보니폰을 수도원에서 색출해 줄 것을 요청해왔습니다. 우선 에보니폰이 어디에 있는지 수도원 안을 수색하세요.				
-QUEST_LV_0200_20150714_008716	Unfortunately, Evoniphon ran away and Hunter Tracker Capt. Mintz got injured. Talk to him.	안타깝게도 에보니폰은 도주했고 헌터 추적대장 민츠는 부상을 입었습니다. 민츠와 대화해 보세요.				
+QUEST_LV_0200_20150714_008712	After listening from the senior monks, the abbot finally realized Ebonypawn's true motives. Talk to him.	수도원장은 선임 수도사들의 증언을 듣고 비로소 에보니폰에 대한 실체를 판단한 것 같습니다. 그와 대화해 보세요.				
+QUEST_LV_0200_20150714_008713	It seems that the decision about what to do with Ebonypawn has been confirmed. Talk to the abbot.	에보니폰의 처우에 대해 결정이 난 것 같습니다. 수도원장과 대화해 보세요.				
+QUEST_LV_0200_20150714_008714	Search for Ebonypawn, the Assassin.	암살자 에보니폰을 수색				
+QUEST_LV_0200_20150714_008715	The abbot requested you to kick out Ebonypawn from the Monastery. Look for Ebonypawn first in the Monastery.	수도원장은 에보니폰을 수도원에서 색출해 줄 것을 요청해왔습니다. 우선 에보니폰이 어디에 있는지 수도원 안을 수색하세요.				
+QUEST_LV_0200_20150714_008716	Unfortunately, Ebonypawn ran away and Hunter Tracker Capt. Mintz got injured. Talk to him.	안타깝게도 에보니폰은 도주했고 헌터 추적대장 민츠는 부상을 입었습니다. 민츠와 대화해 보세요.				
 QUEST_LV_0200_20150714_008717	Senior Monk Potos thinks that the strange lumps that are scattered across the Monastery are luring monsters. Talk to him.	선임 수도사 포토스는 수도원 곳곳에 있는 이상한 덩어리가 몬스터를 유인한다고 생각하는 것 같습니다. 그와 대화해보세요.				
 QUEST_LV_0200_20150714_008718	Remove the Smelly Lump	냄새나는 덩어리 제거				
 QUEST_LV_0200_20150714_008719	Potos requested you to eliminate the lump that is spreading the odor that is luring the monsters. Use the liquid medicine to eliminate them so they can't get near anymore.	포토스는 몬스터를 유인하는 냄새를 풍기는 덩어리를 제거해 달라고 요청했습니다. 몬스터가 더 이상 꼬이지 않도록 물약을 이용해 확실히 제거하세요.				
@@ -9645,8 +9645,8 @@ QUEST_LV_0200_20151001_009648	You've arrived at the camping ground safely after 
 QUEST_LV_0200_20151001_009649	Defeat the monsters on the way	길목의 몬스터 처치				
 QUEST_LV_0200_20151001_009650	Talk with Supply Officer Ronda	보급병 론다와 대화				
 QUEST_LV_0200_20151001_009651	Supply Officer Ronda is worried about the food at the squad. Talk to her.	보급병 론다는 분대의 식량 상황을 걱정하는 것 같습니다. 그와 대화를 나눠 보세요.				
-QUEST_LV_0200_20151001_009652	Collect Beadbird Meat	청옥조 고기 수집				
-QUEST_LV_0200_20151001_009653	Ronda wants to end the food shortage by hunting monsters for meat. Hunt down the Beadbirds near the camping grounds and collect their meat.	보급병 론다는 부족한 식량 상황을 몬스터 고기로 해결하고 싶다고 합니다. 야영지 근처에서 청옥조를 사냥하고 그 고기를 모으세요.				
+QUEST_LV_0200_20151001_009652	Collect Blue Bird Meat	청옥조 고기 수집				
+QUEST_LV_0200_20151001_009653	Ronda wants to resolve the problem of lack of food with the meat from the monsters. Hunt for Blue Birds near the camping ground and collect the meat.	보급병 론다는 부족한 식량 상황을 몬스터 고기로 해결하고 싶다고 합니다. 야영지 근처에서 청옥조를 사냥하고 그 고기를 모으세요.				
 QUEST_LV_0200_20151001_009654	Acquired the meat. Hand them over to Ronda.	부탁받은 양의 고기를 모았습니다. 서둘러 보급병 론다에게 전달하세요.				
 QUEST_LV_0200_20151001_009655	Ronda is looking for someone who can help with the lack of food. Talk with Ronda and ask her if there's anything you can do.	보급병 론다는 부족한 식량 상황을 해결해 줄 누군가의 도움을 찾고 있습니다. 보급병 론다와 대화하여 도울 일이 있는지 물어보세요.				
 QUEST_LV_0200_20151001_009656	Collect Plateau Potatoes	고원 감자 채집				
@@ -10251,7 +10251,7 @@ QUEST_LV_0200_20160224_010254	Collect Rune Stone materials from Tyla Monastery	�
 QUEST_LV_0200_20160224_010255	The Rune Caster Master says that you must collect the materials for the Rune Stone required to cast Rune Magic. Collect Malstatue's Evil Energy Fragment, Velaphid's Cold Blood and Pumpleflap's Robust Horn from Tyla Monastery.	룬캐스터 마스터는 룬캐스터의 마법에 필요한 룬 스톤을 만들 재료를 모아야 한다고 합니다. 틸라 수도원에서 멀스태츄의 마력 파편, 벨라피드의 차가운 피, 펌플랍의 단단한 뿔을 모아오세요.				
 QUEST_LV_0200_20160224_010256	Report to the Rune Caster Master	룬캐스터 마스터에게 보고				
 QUEST_LV_0200_20160224_010257	You have collected all required materials. Return to the Rune Caster Master and hand them over.	필요한 재료를 모두 모았습니다. 룬캐스터 마스터에게 돌아가 전해주세요.				
-QUEST_LV_0200_20160310_010258	I have a request for you.{nl}The soldiers are suffering too much from Ravinelarvae.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바 때문에 고생하는 게 너무 안타까워요.	QUEST_LV_0200_20150317_000074	I have something to ask from you.{nl}I'm worried about the soldiers who are being hurt by the Ravinelarvae.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바때문에 고생하는 게 너무 안타까워요.	정착한 부엉이 조각상
+QUEST_LV_0200_20160310_010258	I have a request for you.{nl}The soldiers are suffering too much from Luvine Rubbas.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바 때문에 고생하는 게 너무 안타까워요.	QUEST_LV_0200_20150317_000074	I have something to ask from you.{nl}I'm worried about the soldiers who are being hurt by the Ravinelarvae.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바때문에 고생하는 게 너무 안타까워요.	정착한 부엉이 조각상
 QUEST_LV_0200_20160310_010259	Even when the Dico thieves went crazy, I didn't say anything {nl}so I didn't know they would slap me from behind.{nl}The Dico thieves stole our supplies.{nl}	도굴꾼들이 난리를 쳐도 오냐오냐 해줬더니만 기어코 뒤통수를 치는군요.{nl}디코 도굴단 녀석들에게 우리 보급품을 도둑맞았거든요.{nl}	QUEST_LV_0200_20150714_007152	We didn't treat them badly, but they betrayed us.{nl}Dico Thieves stole the supplies from us.{nl}	도굴꾼들이 설쳐대도 오냐오냐 해줬더니만 기어코 뒤통수를 치는군요.{nl}디코 도굴단 녀석들에게 우리 보급품을 도둑맞았거든요.{nl}	경비병 노마비스
 QUEST_LV_0200_20160310_010260	Now, I just hope Sabina stays calm.{nl}We don't want to become like those people due to the Petrifying Frost here.	이제 사비나님만 얌전히 계셔 주셨으면 좋겠는데요.{nl}저희도 이런 곳에서 석화서리 때문에 저 친구들처럼 되긴 싫단 말입니다.	QUEST_LV_0200_20150714_007159	Now, I just hope Sabina stays calm.{nl}We don't want to be like them here because of the Petrifying Frost.	이제 사비나님만 얌전히 계셔 주셨으면 좋겠는데요.{nl}저희도 이런 곳에서 석화서리때문에 저 친구들처럼 되긴 싫단 말입니다.	경비병 노마비스
 QUEST_LV_0200_20160310_010261	Many skilled scholars and wizards in the kingdom didn't solve the curse of the Petrifying Frost...{nl}I don't understand what he can do as a Kaliss Knight.	왕국 소속의 저명한 학자나 마법사들도 석화서리의 저주를 풀지 못했는데..{nl}칼리스 기사단 주제에 뭘 하겠다고 저렇게 나서대는지 모르겠습니다.	QUEST_LV_0200_20150714_007457	Many of the kingdom's famous scholars and magicians weren't able to lift the curse of petrification...{nl}I don't understand how a Knight of Kaliss could lift the curse.	왕국 소속의 저명한 학자나 마법사들도 석화서리의 저주를 풀지 못했는데..{nl}칼리스 기사단 주제에 뭘 하겠다고 설쳐대는지 모르겠습니다.	왕국군 경비병
@@ -10452,7 +10452,7 @@ QUEST_LV_0200_20160310_010455	Acquired relics from the monsters that seems belon
 QUEST_LV_0200_20160310_010456	Hand over the goods to Necromancer Lemija	네크로맨서 레미야에게 유품 전달				
 QUEST_LV_0200_20160310_010457	Acquired the relics from monsters that seem belonging to the soldiers in Vedas Plateau. Hand them over to Necromancer Lemija.	몬스터로부터 이곳 베다 고원의 병사들의 것으로 보이는 유품을 얻었습니다. 네크로맨서 레미야에게 전달하세요.				
 QUEST_LV_0200_20160310_010458	Hand over %s to Necromancer Lemija	%s를 네크로맨서 레미야에게 전달				
-QUEST_LV_0200_20160323_010459	The abbot is locked in a monastery filled with monsters, but Evoniphon...{nl}There's a limit to how someone acts. Don't you agree?	지금 몬스터가 가득한 수도원에 원장님이 갇혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?	QUEST_LV_0200_20150714_007079	The abbot is trapped in the monastery, where it is full of monsters, but mentioning Evoniphon..{nl}They shouldn't be that rude. Don't you think so?	지금 몬스터가 가득한 수도원에 원장님이 갖혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?	선임 수도사 마르코
+QUEST_LV_0200_20160323_010459	The abbot is locked in a monastery filled with monsters, but Ebonypawn...{nl}There's a limit to how someone acts. Don't you agree?	지금 몬스터가 가득한 수도원에 원장님이 갇혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?	QUEST_LV_0200_20150714_007079	The abbot is trapped in the monastery, where it is full of monsters, but mentioning Ebonypawn..{nl}They shouldn't be that rude. Don't you think so?	지금 몬스터가 가득한 수도원에 원장님이 갖혀계시는데 에보니폰 운운..{nl}무례하게 구는 것도 정도가 있지. 그렇지 않습니까?	선임 수도사 마르코
 QUEST_LV_0200_20160323_010460	It wasn't just the bees that changed.{nl}These monsters I had never seen in my life started to come over to Siauliai Woods.	변해버린건 벌들 뿐만이 아니에요.{nl}생전 처음 보는 몬스터가 샤울레이 숲에서 마구 넘어오더라고요.	QUEST_LV_0200_20150323_003326	The bees are not the only ones that changed.{nl}The monsters that I saw for the first time in my life had overrun Siauliai Woods back then.	변해버린건 벌들 뿐만이 아니에요.{nl}생전 처음 보는 몬스터가 샤울레이 숲에서 마구 넘어오더라구요.	키리나
 QUEST_LV_0200_20160323_010461	I know this doesn't concern you on a personal level.{nl}But whatever the reason, as a cleric I cannot help the work of the demons.	계시자님의 개인적인 일에는 관여하지 않겠습니다만.{nl}어떤 이유이건, 성직자로서 마족의 일에 도움을 드릴 순 없습니다.	QUEST_LV_0300_20151001_000251	I am not going to be involved in your personal matter.{nl}No matter what the reasons are, I can't help a demons' matters as a priest.	계시자님의 개인적인 일애는 관여하지 않겠습니다만.{nl}어떤 이유이건, 성직자로서 마족의 일에 도움을 드릴 순 없습니다.	클레릭 마스터
 QUEST_LV_0200_20160323_010462	Really? Thank you!{nl}All you need to do is plant these seeds at the Radanza Farm. Thank you once again!	정말인가요? 고맙습니다!{nl}라단자 농원에 이 씨앗을 뿌려주시기만 하면 돼요. 그럼 부탁드릴게요!	QUEST_LV_0200_20150317_001060	Really? Thank you!{nl}Please sow these seeds at Radanza Farm. Okay, I am counting on you!	정말인가요? 고맙습니다!{nl}라단자 농원에 이 씨앗을 뿌려주시기만 하면 되요. 그럼 부탁드릴게요!	리스
@@ -10538,35 +10538,35 @@ QUEST_LV_0200_20161005_010541	Not bad. Not bad at all.{nl}Welcome to Doppelsoeld
 QUEST_LV_0200_20161005_010542	Whew, this is really endless. {nl}I don't know how much longer I can take it.	후, 정말 끝도 없군요.{nl}언제까지 버틸 수 있을는지 모르겠네요.	QUEST_LV_0200_20150317_000932	Whew, this is really endless. {nl}I don't know how much longer I can take it.	후, 정말 끝도 없군요.{nl}언제까지 버틸 수 있을런지 모르겠네요.	퍼리 오드
 QUEST_LV_0200_20161005_010543	What a rare meat delicacy. Must have been hard to obtain it.{nl}Be a good Falconer.{nl}	꽤 귀한 고기로군. 구하기 힘들었겠어.{nl}응사로서 앞으로 잘 부탁한다.{nl}	QUEST_JOBSTEP_20150428_002588	This is a rare meat. You must had hard time getting it.{nl}As a Falconer, I am counting on you from now on.{nl}	꽤 귀한 고기로군. 구하기 힘들었겠어.{nl}응사로써 앞으로 잘 부탁한다.{nl}	응사 마스터
 QUEST_LV_0200_20161005_010544	Vincentas	빈센타스				
-QUEST_LV_0200_20161005_010545	I don't know who you are but...{nl}Assassub Evoniphon is lurking around.	자네가 누구인지는 몰라도..{nl}이 곳 어딘가엔 지금 암살자 에보니폰이 있네.				빈센타스
+QUEST_LV_0200_20161005_010545	I don't know who you are but...{nl}Assassub Ebonypawn is lurking around.	자네가 누구인지는 몰라도..{nl}이 곳 어딘가엔 지금 암살자 에보니폰이 있네.				빈센타스
 QUEST_LV_0200_20161005_010546	{nl}As you can see, all my best soldiers...{nl}It didn't spare me neither...	{nl}내 부대원들도 전부 그에게 당했고..{nl}보다시피 나도 이렇게..				빈센타스
 QUEST_LV_0200_20161005_010547	{nl}It's far too dangerous for you as well. Run!{nl}	{nl}위험하니 자네도 어서 도망치게.{nl}				빈센타스
-QUEST_LV_0200_20161005_010548	{nl}You are the Revelator. The Revelator who made the name in the Western part of the Kingdom?{nl}If you are the Revelator, perhaps you can face Evoniphon.	{nl}자네가 왕국 남부에서 활약하고 있다는 그 계시자란 말인가?{nl}계시자라면.. 에보니폰을 상대할 수 있을지도 모르겠군.				빈센타스
-QUEST_LV_0200_20161005_010549	{nl}Could I ask you to help me?{nl}In order to face Evoniphon, there are some items we need...	{nl}그렇다면.. 자네, 나를 좀 도와 줄 텐가?{nl}에보니폰을 상대하려면 필요한 물품들이 좀 있는데..				빈센타스
+QUEST_LV_0200_20161005_010548	{nl}You are the Revelator. The Revelator who made the name in the Western part of the Kingdom?{nl}If you are the Revelator, perhaps you can face Ebonypawn.	{nl}자네가 왕국 남부에서 활약하고 있다는 그 계시자란 말인가?{nl}계시자라면.. 에보니폰을 상대할 수 있을지도 모르겠군.				빈센타스
+QUEST_LV_0200_20161005_010549	{nl}Could I ask you to help me?{nl}In order to face Ebonypawn, there are some items we need...	{nl}그렇다면.. 자네, 나를 좀 도와 줄 텐가?{nl}에보니폰을 상대하려면 필요한 물품들이 좀 있는데..				빈센타스
 QUEST_LV_0200_20161005_010550	{nl}We need them quick.{nl}They will be among the supplies we have lost during the escape.	{nl}일단 그것들을 좀 가져와야 돼.{nl}에보니폰에게서 도망치다 잃어버린 보급품들 중에 섞여 있을 게야.				빈센타스
 QUEST_LV_0200_20161005_010551	This old life perhaps be useful for the Kindom...{nl}	어쩌면 이 늙은 목숨을 왕실에..{nl}				빈센타스
 QUEST_LV_0200_20161005_010552	Nevermind that..{nl}It was a mere rambling of an old man.	음. 아무것도 아닐세.{nl}그냥 늙은이의 혼잣말이었네.				빈센타스
 QUEST_LV_0200_20161005_010553	Have you retrieve them?{nl}Let's see...{nl}	찾아왔는가?{nl}어디 보자..{nl}				빈센타스
 QUEST_LV_0200_20161005_010554	Oh thank heavens, they are in good shape.{nl}I will look for something that might be of some use for you.	오. 다행히 물건들은 멀쩡하군.{nl}자네에게 도움이 될만한 것들이 있나 살펴보겠네.				빈센타스
 QUEST_LV_0200_20161005_010555	Yes, yes. Take this military bomb and antidoe with you.{nl}	그래, 이 군용 폭탄과 해독제.{nl}이걸 가지고 가도록 하게.{nl}				빈센타스
-QUEST_LV_0200_20161005_010556	Evoniphon is hiding somewhere here.{nl}Watch out for the traps set by Evoniphon.{nl}	에보니폰은 이곳 어딘가에 숨어 있어.{nl}곳곳에 에보니폰의 함정이 설치되어 있거든.{nl}				빈센타스
+QUEST_LV_0200_20161005_010556	Ebonypawn is hiding somewhere here.{nl}Watch out for the traps set by Ebonypawn.{nl}	에보니폰은 이곳 어딘가에 숨어 있어.{nl}곳곳에 에보니폰의 함정이 설치되어 있거든.{nl}				빈센타스
 QUEST_LV_0200_20161005_010557	Our squad fell into those traps...{nl}So please be careful.	우리 부대도 그의 함정에 당했고..{nl}그러니 부디 조심하게.				빈센타스
 QUEST_LV_0200_20161005_010558	{nl}Get you to the armory and on your way there, search for that coward.	{nl}일단 병기고에서부터 길을 따라 차례로 수색 해 보면 될 걸세.				빈센타스
-QUEST_LV_0200_20161005_010559	We weren't taking the assault lying down. We did manage to hurt Evoniphon.{nl}Not certain on the severity though.{nl}	당하긴 했지만, 우리 부대원들도 에보니폰에게 상처는 입혔다네.{nl}얼마나 큰 부상인지는 모르겠으나..{nl}				빈센타스
+QUEST_LV_0200_20161005_010559	We weren't taking the assault lying down. We did manage to hurt Ebonypawn.{nl}Not certain on the severity though.{nl}	당하긴 했지만, 우리 부대원들도 에보니폰에게 상처는 입혔다네.{nl}얼마나 큰 부상인지는 모르겠으나..{nl}				빈센타스
 QUEST_LV_0200_20161005_010560	The state of his wounds will keep him away from attacking the Revelator hastily.{nl}Even so, best to not let our guard down.	그 몸으로는 계시자를 상대로 함부로 공격해오지는 못할 것이야.{nl}그래도 조심해서 찾아보도록 하게.				빈센타스
 QUEST_LV_0200_20161005_010561	Sorry for being so useless. If I weren't injured...	이런 몸이라 별로 도움이 되지 못해 미안하네..				빈센타스
 QUEST_LV_0200_20161005_010562	These are from my men.{nl}At least, their keepsakes have been retrieved.	우리 부대원들의 물품이군.{nl}이렇게 유품이라도 찾아줘서 정말 고맙네.				빈센타스
 QUEST_LV_0200_20161005_010563	{nl}To be perfectly honest, I had my doubts about you.{nl}But after seeing what you have done for me... I have something to tell you.	{nl}솔직이 처음에는 자네를 반신반의하고 있었네.{nl}하지만 이렇게까지 해 주었으니.. 말 해 줄 것이 있네.				빈센타스
 QUEST_LV_0200_20161005_010564	{nl}I am Vincentas of the Royal Bodyguards.{nl}My duty is to protect the Royal family from threats ever since Medzio Diena.	{nl}나는 왕실 친위대 소속 빈센타스라고 하네.{nl}신수의 날 이후 왕실을 제거하려는 세력으로부터 왕실을 지키는 일을 하고 있었지.				빈센타스
 QUEST_LV_0200_20161005_010565	{nl}I was on a mission to escort them to safety.{nl}The surviving members of the royalty is working towards rebuilding the Kingdom and the preparation is almost complete.	{nl}그래서 그 분들을 모시고 피신해 있었네.{nl}남은 왕실 분들은 왕국을 재건하기 위해 노력하셨고 어느 정도 준비를 마쳤다네.				빈센타스
-QUEST_LV_0200_20161005_010566	{nl}The Chancellor was on the way to seek co-operation from Southern cities. It was then when Evoniphon struck.{nl}Sent by those who want to eliminate the royal family.	{nl}그래서 재상께서 직접 남쪽 도시들에 협력을 구하러 가던 중에 에보니폰에게 당했어.{nl}아마도 왕실을 제거하려는 세력이 개입한 거겠지.				빈센타스
-QUEST_LV_0200_20161005_010567	{nl}To rebuild the kingdom, Evoniphon must be eliminated.{nl}At my current state, all I could do is ask for your help.{nl}I am so ashamed.	{nl}왕국의 재건을 위해서라도 에보니폰은 제거해야 하네.{nl}지금 이런 몸인 나로서는.. 자네에게 부탁하는 수밖에 없겠군.{nl}부끄럽네.				빈센타스
-QUEST_LV_0200_20161005_010568	The battle we have had caused great harm to both sides.{nl}Evoniphon at his most weakest is our best chance to strike.	어쨌든 에보니폰은 우리 부대와의 전투에서 생각보다 큰 부상을 입은 것 같군.{nl}에보니폰이 제대로 싸울 수 없는 지금이 기회일세.				빈센타스
-QUEST_LV_0200_20161005_010569	{nl}The training field that we have not yet searched, he must be there.{nl}Punish Evoniphon.	{nl}아직 가 보지 않은 훈련장에 에보니폰이 있는 것이 틀림없겠어.{nl}부디 에보니폰을 처치해주게.				빈센타스
+QUEST_LV_0200_20161005_010566	{nl}The Chancellor was on the way to seek co-operation from Southern cities. It was then when Ebonypawn struck.{nl}Sent by those who want to eliminate the royal family.	{nl}그래서 재상께서 직접 남쪽 도시들에 협력을 구하러 가던 중에 에보니폰에게 당했어.{nl}아마도 왕실을 제거하려는 세력이 개입한 거겠지.				빈센타스
+QUEST_LV_0200_20161005_010567	{nl}To rebuild the kingdom, Ebonypawn must be eliminated.{nl}At my current state, all I could do is ask for your help.{nl}I am so ashamed.	{nl}왕국의 재건을 위해서라도 에보니폰은 제거해야 하네.{nl}지금 이런 몸인 나로서는.. 자네에게 부탁하는 수밖에 없겠군.{nl}부끄럽네.				빈센타스
+QUEST_LV_0200_20161005_010568	The battle we have had caused great harm to both sides.{nl}Ebonypawn at his most weakest is our best chance to strike.	어쨌든 에보니폰은 우리 부대와의 전투에서 생각보다 큰 부상을 입은 것 같군.{nl}에보니폰이 제대로 싸울 수 없는 지금이 기회일세.				빈센타스
+QUEST_LV_0200_20161005_010569	{nl}The training field that we have not yet searched, he must be there.{nl}Punish Ebonypawn.	{nl}아직 가 보지 않은 훈련장에 에보니폰이 있는 것이 틀림없겠어.{nl}부디 에보니폰을 처치해주게.				빈센타스
 QUEST_LV_0200_20161005_010570	I want to join the fight...but I will only drag you down.{nl}However, I will patch myself up and join you right away just in case.{nl}	나도 함께 싸우고 싶지만.. 방해만 될 것 같군.{nl}하지만 혹시 모르니 몸을 좀 추스르고 자네를 뒤따라가겠네.{nl}				빈센타스
 QUEST_LV_0200_20161005_010571	At my current state, getting there would be a challenge. So, if possible, could you sweep up some of the monsters on your way to the inner training ground.{nl}I will join you as soon as possible.	이런 몸으로는 몬스터들조차도 상대하기 어려우니 내부 훈련장으로 가는 길을 좀 정리해주게.{nl}금방 따라가도록 하겠네.				빈센타스
 QUEST_LV_0200_20161005_010572	I am beginning to think that Goddess has not foresake the Kingdom.{nl}She has brought you here, after all.	여신께서 왕국을 버리지 않으셨다는 생각이 드는군.{nl}자네를 이곳까지 인도하신걸 보면 말일세.				빈센타스
-QUEST_LV_0200_20161005_010573	So, Evoniphon has finally fallen.{nl}	결국 에보니폰을 처치했는가.{nl}				빈센타스
+QUEST_LV_0200_20161005_010573	So, Ebonypawn has finally fallen.{nl}	결국 에보니폰을 처치했는가.{nl}				빈센타스
 QUEST_LV_0200_20161005_010574	You exceed your own reputation.{nl}	정말 대단한 사람이군.{nl}소문으로 듣던 그 이상이야.{nl}				빈센타스
 QUEST_LV_0200_20161005_010575	I am not ready to fight yet but i can move.{nl}I have to inform the royalty.{nl}	나는 아직 싸울 정도는 아니지만 움직일 수는 있으니 돌아가보겠네.{nl}왕실 사람들에게 말해야 할게 많으니 말일세.{nl}				빈센타스
 QUEST_LV_0200_20161005_010576	I will tell them of your triumph.{nl}Let us meet again in the future.	그분들에게 자네의 이야기를 꼭 말해야겠군.{nl}언젠가 꼭 다시 보길 바라겠네.				빈센타스
@@ -10589,7 +10589,7 @@ QUEST_LV_0200_20161005_010592	There are so many soldiers here than we expected.{
 QUEST_LV_0200_20161005_010593	Have you ever seen the Great Cathedral or the Mage Tower before?{nl}How about a gigantic goddess statue like the one in Fedimian.{nl}	자네 혹시 대성당이나 마법사의 탑을 본 적이 있나?{nl}아니면 페디미안의 거대 여신상 같은 것 말이다.{nl}	QUEST_LV_0300_20151022_000556	Have you ever seen the Great Cathedral or the Mage Tower before?{nl}How about a gigantic goddess statue like the one in Fedimian.{nl}	자네 혹시 대성당이라던가 마법사의 탑을 본 적이 있나?{nl}아니면 페디미안의 거대 여신상 같은 것 말이다.{nl}	레오폴다스
 QUEST_LV_0200_20161005_010594	Is there anything else you want to ask?	혹시 더 궁금한 게 있는가?				빈센타스
 QUEST_LV_0200_20161005_010595	The kingdom fought hard against Medzio Diena.{nl}Two of the four heroes are from the royal family.	신수의 날에 왕실은 나름대로 재앙을 막기 위한 노력을 했다네.{nl}재앙을 막는 데 큰 공을 세운 4대 영웅 중 두 사람이 왕실 소속이거든.				빈센타스
-QUEST_LV_0200_20161005_010596	{nl}The kingdom must stand proud and tall for the world to stand straight. That makes assassins like Evoniphon the number one target to be taken of with extreme prejudice.{nl}Godspeed.	{nl}이 왕실이 재건 되어야.. 세상이 바로 설 것이고, 그러자면 에보니폰 같은 암살자는 꼭 처치 해야 하네.{nl}부탁하네.				빈센타스
+QUEST_LV_0200_20161005_010596	{nl}The kingdom must stand proud and tall for the world to stand straight. That makes assassins like Ebonypawn the number one target to be taken of with extreme prejudice.{nl}Godspeed.	{nl}이 왕실이 재건 되어야.. 세상이 바로 설 것이고, 그러자면 에보니폰 같은 암살자는 꼭 처치 해야 하네.{nl}부탁하네.				빈센타스
 QUEST_LV_0200_20161005_010597	Hmm, even if it's not the Church's order, shouldn't the Great Cathedral be restored first... {nl}Wouldn't we be able to find the answer to the curse more easily then?	흠, 아무리 교단의 명령이라지만 대성당을 수복하는 게 먼저가 아닐는지..{nl}그럼 저주에 대한 답도 쉽게 찾을 수 있지 않을까요?	QUEST_LV_0200_20150511_007014	Hmm, even if it's not the Church's order, shouldn't the Great Cathedral be restored first... {nl}Wouldn't we be able to find the answer to the curse more easily then?	흠, 아무리 교단의 명령이라지만 대성당을 수복하는 게 먼저가 아닐런지..{nl}그럼 저주에 대한 답도 쉽게 찾을 수 있지 않을까요?	사제 루오델
 QUEST_LV_0200_20161005_010598	I don't know if we will be able to find a way to release the curse if things continue like this.{nl}If I only had the power, I would have driven all demons out from the Great Cathedral.	이래가지고는 언제 저주를 풀 수 있는 방법을 찾을 수 있을는지 모르겠어요.{nl}제가 힘만 있다면 대성당의 마족들을 전부 몰아냈을 텐데.	QUEST_LV_0200_20150323_003595	I don't know if we will be able to find a way to release the curse if things continue like this.{nl}If I only had the power, I would have driven all demons out from the Great Cathedral.	이래가지고는 언제 저주를 풀 수 있는 방법을 찾을 수 있을런지 모르겠어요.{nl}제가 힘만 있다면 대성당의 마족들을 전부 몰아냈을 텐데.	사제 루오델
 QUEST_LV_0200_20161005_010599	The current state of absent goddesses, we had to take matters into our own hands.	여신들이 부재하신 작금에는, 그간 우리들이 직접 결정할 필요가 없었던 일을 결정할 수밖에 없게 되었다.				인퀴지터 마스터
@@ -10621,25 +10621,25 @@ QUEST_LV_0200_20161005_010624	As a Revelator, I cannot simply walk away.	계시�
 QUEST_LV_0200_20161005_010625	Goodbye.	잘 있으라고 한다				
 QUEST_LV_0200_20161005_010626	Vincentas' Squan In Peril(2)	위기의 빈센타스 부대(2)				
 QUEST_LV_0200_20161005_010627	Don't worry.	걱정하지 말라고 한다				
-QUEST_LV_0200_20161005_010628	Assassin Evoniphon(1)	암살자 에보니폰(1)				
-QUEST_LV_0200_20161005_010629	Evoniphon set up traps in the armory.{nl}Find Evoniphon at Supplies Camp.	병기고에는 에보니폰의 함정이 있었습니다{nl}보급지에서 에보니폰을 찾아보세요				
+QUEST_LV_0200_20161005_010628	Assassin Ebonypawn(1)	암살자 에보니폰(1)				
+QUEST_LV_0200_20161005_010629	Ebonypawn set up traps in the armory.{nl}Find Ebonypawn at Supplies Camp.	병기고에는 에보니폰의 함정이 있었습니다{nl}보급지에서 에보니폰을 찾아보세요				
 QUEST_LV_0200_20161005_010630	Obtained a piece of obstacle.	장애물의 파편을 획득했습니다				
-QUEST_LV_0200_20161005_010631	Assassin Evoniphon(2)	암살자 에보니폰(2)				
-QUEST_LV_0200_20161005_010632	At Supplies Camp, there are traps set by Evoniphon.{nl}Throw a piece of obstacle to deactivate traps.	보급지에는 에보니폰이 설치한 트랩이 깔려있습니다{nl}위험하니 장애물의 파편을 던져서 제거하세요				
-QUEST_LV_0200_20161005_010633	Evoniphon's traps have been destroyed.{nl}Now find Evoniphon in food storage.	에보니폰이 설치한 트랩을 파괴했습니다{nl}이제 식량창고에서 에보니폰을 찾아보세요				
-QUEST_LV_0200_20161005_010634	Assassin Evoniphon(3)	암살자 에보니폰(3)				
-QUEST_LV_0200_20161005_010635	Assassin Evoniphon(4)	암살자 에보니폰(4)				
+QUEST_LV_0200_20161005_010631	Assassin Ebonypawn(2)	암살자 에보니폰(2)				
+QUEST_LV_0200_20161005_010632	At Supplies Camp, there are traps set by Ebonypawn.{nl}Throw a piece of obstacle to deactivate traps.	보급지에는 에보니폰이 설치한 트랩이 깔려있습니다{nl}위험하니 장애물의 파편을 던져서 제거하세요				
+QUEST_LV_0200_20161005_010633	Ebonypawn's traps have been destroyed.{nl}Now find Ebonypawn in food storage.	에보니폰이 설치한 트랩을 파괴했습니다{nl}이제 식량창고에서 에보니폰을 찾아보세요				
+QUEST_LV_0200_20161005_010634	Assassin Ebonypawn(3)	암살자 에보니폰(3)				
+QUEST_LV_0200_20161005_010635	Assassin Ebonypawn(4)	암살자 에보니폰(4)				
 QUEST_LV_0200_20161005_010636	On the road to closed town, you can see the keepsakes of the fallen comrades of Vincentas.{nl}Collect them and deliver them to him.	폐도 연결로에 빈센타스 부대원들의 유품이 보입니다{nl}유품을 모아 빈센타스에게 전해주세요				
-QUEST_LV_0200_20161005_010637	Assassin Evoniphon(5)	암살자 에보니폰(5)				
-QUEST_LV_0200_20161005_010638	Go to the Barrack and find Evoniphon.	병영으로 가서 에보니폰을 수색하세요				
-QUEST_LV_0200_20161005_010639	Assassin Evoniphon(6)	암살자 에보니폰(6)				
-QUEST_LV_0200_20161005_010640	 Find the traces of Assassin Evoniphon in the repair shop.	정비구역에서 암살자 에보니폰의 흔적을 찾아보세요				
+QUEST_LV_0200_20161005_010637	Assassin Ebonypawn(5)	암살자 에보니폰(5)				
+QUEST_LV_0200_20161005_010638	Go to the Barrack and find Ebonypawn.	병영으로 가서 에보니폰을 수색하세요				
+QUEST_LV_0200_20161005_010639	Assassin Ebonypawn(6)	암살자 에보니폰(6)				
+QUEST_LV_0200_20161005_010640	 Find the traces of Assassin Ebonypawn in the repair shop.	정비구역에서 암살자 에보니폰의 흔적을 찾아보세요				
 QUEST_LV_0200_20161005_010641	What is the story behind the royal family?	왕실의 사연에 대해 물어본다				
-QUEST_LV_0200_20161005_010642	Assassin Evoniphon(7)	암살자 에보니폰(7)				
+QUEST_LV_0200_20161005_010642	Assassin Ebonypawn(7)	암살자 에보니폰(7)				
 QUEST_LV_0200_20161005_010643	The assassin shall fall.	에보니폰을 처치하러 가겠다고 한다				
 QUEST_LV_0200_20161005_010644	I need some time to prepare myself.	마음의 준비를 할 시간이 필요하다고 한다				
-QUEST_LV_0200_20161005_010645	Now get to the inner training ground and defeat Evoniphon.	이제 에보니폰을 처치하러 내부 훈련장으로 가세요				
-QUEST_LV_0200_20161005_010646	The End of Evoniphon	암살자 에보니폰의 최후				
+QUEST_LV_0200_20161005_010645	Now get to the inner training ground and defeat Ebonypawn.	이제 에보니폰을 처치하러 내부 훈련장으로 가세요				
+QUEST_LV_0200_20161005_010646	The End of Ebonypawn	암살자 에보니폰의 최후				
 QUEST_LV_0200_20161005_010647	The Sign of the Assassin	암살자의 증표				
 QUEST_LV_0200_20161005_010648	Great Miko Barrier[Miko Advancement]	무녀의 대결계[무녀 전직]				
 QUEST_LV_0200_20161005_010649	I will check up on those barriers.	결계를 확인하고 오겠다고 한다				
@@ -10648,36 +10648,36 @@ QUEST_LV_0200_20161005_010651	Vincetas' Squad In Peril	위기의 빈센타스 �
 QUEST_LV_0200_20161005_010652	Talk to Vincentas	빈센타스와 대화				
 QUEST_LV_0200_20161005_010653	You see an injured royal soldier. Ask him what happened.	부상당한 왕국군이 보입니다. 무슨 일인지 이야기해보세요.				
 QUEST_LV_0200_20161005_010654	Retrieve Vincetas' Squad Keepsakes	빈센타스 부대의 물품 회수				
-QUEST_LV_0200_20161005_010655	Vincentas' men have been fallen at the hands of Assassin Evoniphon. Retrieve the lost items of the fallen soldiers that were left behind while retreating.	빈센타스 부대는 암살자 에보니폰에게 당했다고 합니다. 에보니폰에게서 도망치며 잃어버린 물품 중에 도움이 될만한 물건이 있다고 하니 빈센타스 부대의 물품을 회수해오세요.				
+QUEST_LV_0200_20161005_010655	Vincentas' men have been fallen at the hands of Assassin Ebonypawn. Retrieve the lost items of the fallen soldiers that were left behind while retreating.	빈센타스 부대는 암살자 에보니폰에게 당했다고 합니다. 에보니폰에게서 도망치며 잃어버린 물품 중에 도움이 될만한 물건이 있다고 하니 빈센타스 부대의 물품을 회수해오세요.				
 QUEST_LV_0200_20161005_010656	Retrieve all the lost items. Report back to Vincentas.	빈센타스 부대의 물품을 전부 찾았습니다. 빈센타스에게 돌아가세요.				
-QUEST_LV_0200_20161005_010657	Search for Evoniphon in the Armory	병기고에서 에보니폰 수색				
-QUEST_LV_0200_20161005_010658	You are fully prepared. Now, seek Evoniphon.	만반의 준비를 갖췄습니다. 이제 에보니폰을 추적해보세요.				
-QUEST_LV_0200_20161005_010659	Destroy Evoniphon's Traps	에보니폰의 함정 파괴				
-QUEST_LV_0200_20161005_010660	There are traps set up by Evoniphon. Destroy them.	병기고에는 에보니폰이 설치한 함정이 있었습니다. 에보니폰이 설치한 함정을 파괴하세요.				
-QUEST_LV_0200_20161005_010661	Destroy Evoniphon's Traps	에보니폰이 설치한 함정 파괴				
-QUEST_LV_0200_20161005_010662	Search the Supplies Camp for Evoniphon	보급지에서 에보니폰 수색				
-QUEST_LV_0200_20161005_010663	Search Evoniphon in the Supplies Camp 	보급지에서 에보니폰을 수색하세요.				
+QUEST_LV_0200_20161005_010657	Search for Ebonypawn in the Armory	병기고에서 에보니폰 수색				
+QUEST_LV_0200_20161005_010658	You are fully prepared. Now, seek Ebonypawn.	만반의 준비를 갖췄습니다. 이제 에보니폰을 추적해보세요.				
+QUEST_LV_0200_20161005_010659	Destroy Ebonypawn's Traps	에보니폰의 함정 파괴				
+QUEST_LV_0200_20161005_010660	There are traps set up by Ebonypawn. Destroy them.	병기고에는 에보니폰이 설치한 함정이 있었습니다. 에보니폰이 설치한 함정을 파괴하세요.				
+QUEST_LV_0200_20161005_010661	Destroy Ebonypawn's Traps	에보니폰이 설치한 함정 파괴				
+QUEST_LV_0200_20161005_010662	Search the Supplies Camp for Ebonypawn	보급지에서 에보니폰 수색				
+QUEST_LV_0200_20161005_010663	Search Ebonypawn in the Supplies Camp 	보급지에서 에보니폰을 수색하세요.				
 QUEST_LV_0200_20161005_010664	Remove Obstacle	장애물 제거				
 QUEST_LV_0200_20161005_010665	The broken furniture is blocking your way to the supplies camp. Use the military bombs to remove the obstacle.	보급지로 가는 길은 무너진 가구로 막혀 있습니다. 군용 폭탄으로 장애물을 제거하세요.				
 QUEST_LV_0200_20161005_010666	Remove the traps by throwing a piece of obstacle.	장애물의 파편을 던져서 트랩 제거				
-QUEST_LV_0200_20161005_010667	The supplies camp is infested with the traps set by Evoniphon. Throw pieces of obstacle at it to disable them.	보급지에는 에보니폰이 설치한 트랩이 잔뜩 깔려있습니다. 위험하니 장애물 파편을 던져서 제거하세요.				
-QUEST_LV_0200_20161005_010668	Search for Evoniphon in the Food Storage	식량창고에서 에보니폰 수색				
-QUEST_LV_0200_20161005_010669	Find Evoniphon in the Food Storage.	식량창고에서 에보니폰을 수색하세요.				
+QUEST_LV_0200_20161005_010667	The supplies camp is infested with the traps set by Ebonypawn. Throw pieces of obstacle at it to disable them.	보급지에는 에보니폰이 설치한 트랩이 잔뜩 깔려있습니다. 위험하니 장애물 파편을 던져서 제거하세요.				
+QUEST_LV_0200_20161005_010668	Search for Ebonypawn in the Food Storage	식량창고에서 에보니폰 수색				
+QUEST_LV_0200_20161005_010669	Find Ebonypawn in the Food Storage.	식량창고에서 에보니폰을 수색하세요.				
 QUEST_LV_0200_20161005_010670	Defeat all the monsters and destroy the obstacle.	몬스터를 모두 처치한 뒤 장애물 파괴				
 QUEST_LV_0200_20161005_010671	Retrieve the keepsakes of Vincentas' Squad	빈센타스 부대의 유품 회수				
-QUEST_LV_0200_20161005_010672	The keepsakes of Vincentas' Squad soldiers who have fallen at the hands of Evoniphon	폐도 연결로에 에보니폰에게 당한 빈센타스 부대원들의 유품이 보입니다. 유품을 모아 빈센타스에게 전해주세요.				
-QUEST_LV_0200_20161005_010673	Find Evoniphon in the Barrack	병영에서 에보니폰 수색				
-QUEST_LV_0200_20161005_010674	Find Evoniphon in the Barrack.	병영에서 에보니폰을 수색해보세요.				
-QUEST_LV_0200_20161005_010675	Find the traces of Evoniphon in the repair shop	정비구역에서 에보니폰의 흔적 수색				
-QUEST_LV_0200_20161005_010676	Evoniphon is running out of places to hide. Find the traces of him in the repair shop.	점점 에보니폰이 숨어있을 곳이 적어지고 있습니다. 정비구역에 가서 에보니폰의 흔적을 찾아보세요.				
-QUEST_LV_0200_20161005_010677	You've found some traces of Assassin Evoniphon. Report back to Vincentas.	암살자 에보니폰의 흔적으로 보이는 것들을 찾았습니다. 빈센타스에게 돌아가보세요.				
+QUEST_LV_0200_20161005_010672	The keepsakes of Vincentas' Squad soldiers who have fallen at the hands of Ebonypawn	폐도 연결로에 에보니폰에게 당한 빈센타스 부대원들의 유품이 보입니다. 유품을 모아 빈센타스에게 전해주세요.				
+QUEST_LV_0200_20161005_010673	Find Ebonypawn in the Barrack	병영에서 에보니폰 수색				
+QUEST_LV_0200_20161005_010674	Find Ebonypawn in the Barrack.	병영에서 에보니폰을 수색해보세요.				
+QUEST_LV_0200_20161005_010675	Find the traces of Ebonypawn in the repair shop	정비구역에서 에보니폰의 흔적 수색				
+QUEST_LV_0200_20161005_010676	Ebonypawn is running out of places to hide. Find the traces of him in the repair shop.	점점 에보니폰이 숨어있을 곳이 적어지고 있습니다. 정비구역에 가서 에보니폰의 흔적을 찾아보세요.				
+QUEST_LV_0200_20161005_010677	You've found some traces of Assassin Ebonypawn. Report back to Vincentas.	암살자 에보니폰의 흔적으로 보이는 것들을 찾았습니다. 빈센타스에게 돌아가보세요.				
 QUEST_LV_0200_20161005_010678	Tell Vincentas about the traces you've found in the repair shop.	빈센타스에게 정비구역에서 발견한 흔적들을 이야기해주세요.				
 QUEST_LV_0200_20161005_010679	Defeat the monsters on the way to the inner trainning ground.	내부 훈련장으로 가는 길에 있는 몬스터 처치				
 QUEST_LV_0200_20161005_010680	Vincentas cannot get into combat due to his wounds. Defeat the monsters on the way to the inner training ground.	빈센타스는 부상을 입어 제대로 전투하기 어렵다고 합니다. 빈센타스가 따라올 수 있도록 내부 훈련장으로 가는 길에 있는 몬스터를 처치하세요.				
-QUEST_LV_0200_20161005_010681	Defeat Assassin Evoniphon	암살자 에보니폰 처치				
-QUEST_LV_0200_20161005_010682	Now, it is time to face Evoniphon. According to Vincentas, the inner training ground is the only place where he could be hiding. Go to the inner training ground.	이제 에보니폰을 상대할 시간입니다. 빈센타스의 말에 따르면 에보니폰이 숨어있을 만한 곳은 내부 훈련장 밖에 없다고 합니다. 내부 훈련장으로 가세요.				
+QUEST_LV_0200_20161005_010681	Defeat Assassin Ebonypawn	암살자 에보니폰 처치				
+QUEST_LV_0200_20161005_010682	Now, it is time to face Ebonypawn. According to Vincentas, the inner training ground is the only place where he could be hiding. Go to the inner training ground.	이제 에보니폰을 상대할 시간입니다. 빈센타스의 말에 따르면 에보니폰이 숨어있을 만한 곳은 내부 훈련장 밖에 없다고 합니다. 내부 훈련장으로 가세요.				
 QUEST_LV_0200_20161005_010683	Report to Vincentas	빈센타스에게 보고				
-QUEST_LV_0200_20161005_010684	You've defeated Evoniphon. Report back to Vincentas.	에보니폰을 처치했습니다. 빈센타스에게 돌아가서 알려주세요.				
+QUEST_LV_0200_20161005_010684	You've defeated Ebonypawn. Report back to Vincentas.	에보니폰을 처치했습니다. 빈센타스에게 돌아가서 알려주세요.				
 QUEST_LV_0200_20161005_010685	Talk to Miko Master	무녀 마스터와 대화				
 QUEST_LV_0200_20161005_010686	Talkt to Miko Master at Passage of the Recluse	은둔자의 통로에 있는 무녀 마스터와 대화하세요.				
 QUEST_LV_0200_20161005_010687	Check the Barrier Set By Miko Master	무녀 마스터가 펼쳐둔 결계 확인				
@@ -10746,8 +10746,8 @@ QUEST_LV_0200_20161214_010749	You have obtained the tools from the Dievdirbys Ma
 QUEST_LV_0200_20161221_010750	What a rare meat delicacy. Must have been hard to obtain it.{nl}Be a good Falconer.{nl}	꽤 귀한 고기로군. 구하기 힘들었겠어.{nl}응사로서 앞으로 잘 부탁한다.	QUEST_LV_0200_20161005_010543	What a rare meat delicacy. Must have been hard to obtain it.{nl}Be a good Falconer.{nl}	꽤 귀한 고기로군. 구하기 힘들었겠어.{nl}응사로서 앞으로 잘 부탁한다.{nl}	응사 마스터
 QUEST_LV_0200_20170313_010751	I realize you are a Revelator, but please understand I cannot cooperate with the demons in any way.	계시자라고 하셔도, 마족의 일에는 협조할 수 없는 점 이해해 주시길 바랍니다.				클레릭 마스터
 QUEST_LV_0200_20170313_010752	Here, take it.{nl}It looks like your faith in the goddesses is very strong.	자, 받으세요.{nl}이런 걸 주문하신 걸 보면 신앙이 깊으신 모양이네요.	QUEST_UNUSED_20151022_001011	Good. Receive it.{nl}I guess your religious belief in the goddesses is strong.	자, 받으세요.{nl}이런 걸 주문하신 걸 보면 여신의 신앙이 돈독하신 모양이시네요.	장비 상인 율라
-QUEST_LV_0200_20170313_010753	The seal of Demon Lord Baiga...{nl}Now that's scary.	마왕 바이가의 문장..{nl}정말 무서워요.				바르테
-QUEST_LV_0200_20170313_010754	{nl}Out of the three demon lords under Giltine, Baiga is the most terrifying.{nl}He's extremely cold and distant, but most of all cruel.	{nl}길티네 수하의 세 마왕 중에 저는, 개인적으로 바이가가 가장 공포스러워요.{nl}차갑고 침착하지만 그 무엇보다 잔인한 느낌?				바르테
+QUEST_LV_0200_20170313_010753	The seal of Demon Lord Vaiga...{nl}Now that's scary.	마왕 바이가의 문장..{nl}정말 무서워요.				바르테
+QUEST_LV_0200_20170313_010754	{nl}Out of the three demon lords under Giltine, Vaiga is the most terrifying.{nl}He's extremely cold and distant, but most of all cruel.	{nl}길티네 수하의 세 마왕 중에 저는, 개인적으로 바이가가 가장 공포스러워요.{nl}차갑고 침착하지만 그 무엇보다 잔인한 느낌?				바르테
 QUEST_LV_0200_20170313_010755	I imagine Dawn Maidens must have the same power of curse as Naktis, seeing as they are so similar in appearance.	나크티스와 똑같이 생긴 황혼의 시녀에게서도 나크티스와 같은 저주의 힘이 있지 않을까요?				사제 다람
 QUEST_LV_0200_20170313_010756	If there was a way to find out, it would be extremely useful for my research on curses.	그걸 알 수 있다면 나크티스의 저주를 연구하는데 큰 도움이 될지도 몰라요.				사제 다람
 QUEST_LV_0200_20170313_010757	Think your companion is the best?{nl}Let's see you prove it, then.	네 컴패니언이 최고라고 생각하는거야?{nl}그렇다면 네 컴페니언이 왜 최고인지 증명해봐.				하카펠 마스터
@@ -11382,6 +11382,6 @@ QUEST_LV_0200_20180517_011385	That was great. You were of great help to this mis
 QUEST_LV_0200_20180517_011386	Savior, you are the one that will take the Goddess' Revelation and save this world from the demons,{nl}and truly make this world complete by fulfilling their will. {nl}The time is nigh.{nl}I will be waiting for you in the cruel place that the tyrant has carved out.	구원자여.{nl}그대만이 신의 뜻을 이어받아 마족에게서 세상을 구하고 세계를 완성할 존재입니다.{nl}이제 머지 않았습니다.{nl}폭군이 벼려낸 참혹한 공간에서 그대를 기다리겠습니다.	QUEST_LV_0100_20151016_009812	In order to be loved... They had decided they needed to disobey God's words and awaken him.{nl}Savior, you are the one that will take God's revelation and save this world from the demons,{nl}and truly make this world complete by completing his will. {nl}The time is nigh.{nl}I will be waiting for you in the cruel place that the tyrant has carved out.	구원자여.{nl}그대만이 신의 뜻을 이어받아 마족에게서 세상을 구하고 세계를 완성할 존재입니다.{nl}이제 머지 않았습니다.{nl}폭군이 벼려낸 참혹간 공간에서 그대를 기다리겠습니다.	대지의 요새의 계시
 QUEST_LV_0200_20180629_011387	Whenever you're lost, just listen closely.{nl}The melody will guide all those who have done good.	길을 잃은 곳에서 맑은 피리 소리를 듣는다면, 귀를 기울이세요.{nl}선행을 베푼 사람에게 그 소리가 길을 보여줄 것입니다.				파이드 파이퍼 마스터
 QUEST_LV_0200_20180629_011388	Pied Pipers can overcome any calamity.{nl}As long as their flute keeps playing.	파이드 파이퍼는 어떤 난관에 부딪치더라도 헤쳐나갈 수 있습니다.{nl}피리의 곡조가 있는 한 말입니다.				파이드 파이퍼 마스터
-QUEST_LV_0200_20180827_011389	Defeat Poata and Retrieve the Legwyn Family Crest
+QUEST_LV_0200_20180827_011389	Defeat Poata and Retrieve the Legwyn Family Crest	포아타를 처치하고 르귄 가문의 장식 찾기	QUEST_LV_0200_20180418_011381	 Retrieve the Legwyn Family Ornament from the Poata	포아타에게서 르귄 가문의 장식 찾기	
 QUEST_LV_0200_20180914_011390	The candle is complete.{nl}Now you only need to place it where the Rabees and Honeybeans live.	향초가 완성됐습니다.{nl}이제 이걸 들고 가 레비와 허니빈들의 서식지에 설치하시면 될 겁니다.	QUEST_LV_0200_20170313_010811	The candle is complete.{nl}You only need to place it where the Rabees and Honeybeans live.	향초가 완성 됐습니다.{nl}이걸 레비와 허니빈들의 서식지에 설치하시면 됩니다.
-QUEST_LV_0200_20180914_011391	Rabees and Honeybeans live at the Dina Bee Farm.{nl}Go there and place the candle near the monsters.
+QUEST_LV_0200_20180914_011391	Rabees and Honeybeans live at the Dina Bee Farm.{nl}Go there and place the candle near the monsters.	레비와 허니빈들의 서식지는 다이나 양봉지입니다. {nl}그곳으로 이동해 그들이 가장 많이 보이는 곳에 지금 제가 드린 향초를 설치하면 되겠죠.	QUEST_LV_0200_20170313_010812	Honeybeans and Rabees live mostly in Dina Bee Farm...{nl}Just place the candle in any area where you see them.	허비빈과 레비의 서식지는 다이나 양봉지..{nl}그곳에서 그들이 가장 많이 보이는 곳에 설치하면 되겠죠.

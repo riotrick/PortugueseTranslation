@@ -19670,64 +19670,120 @@ ITEM_20180827_019669	The challenges faced by Lydia Schaffen and her solutions. R
 ITEM_20180827_019670	Essential Reading for Linkers: Finding The Nexus Point Of All Ego. Not readable.	링커들을 위한 필독서; 모든 자아의 연결점을 찾아라! 내용물은 읽어볼 수 없습니다.				
 ITEM_20180827_019671	A book sought after by the Sage Master. Not readable.	세이지 마스터가 찾고 있는 책. 내용물은 읽어볼 수 없습니다.				
 ITEM_20180827_019672	A research paper on armors used during the rule of King Kadumel. Not readable.	카듀멜 국왕 시대의 갑옷에 관한 연구서. 내용물은 읽어볼 수 없습니다.				
-ITEM_20181005_019673	Moon Rabbit Helmet	달 토끼 헬멧 코스튬		
-ITEM_20181005_019674	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.		
-ITEM_20181005_019675	Green Dumpling Helmet	쑥송편 헬멧 코스튬		
-ITEM_20181005_019676	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.		
-ITEM_20181005_019677	Moon Rabbit Costume	달 토끼 코스튬		
-ITEM_20181005_019678	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.	복슬복슬한 털, 적당히 튀어나온 배, 너무나 귀여운 달 토끼로 변신할 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019679	Royal Envoy Costume (Male)	암행어사 예복(남)		
-ITEM_20181005_019680	Undercover envoys of the royal court were special agents who scoured the Kingdom looking for outlaws and troublemakers.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 특별한 행사가 있을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019681	Royal Envoy Costume (Female)	암행어사 예복(여)		
-ITEM_20181005_019682	Court Scholar Costume (Male)	장원급제 별감복(남)		
-ITEM_20181005_019683	Becoming a royal scholar was no easy task: only the Kingdom's brightest minds were allowed to serve in the court.{nl}Can be exchanged for medals at the Exchange Shop.	장권급제 후 입궁할 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019684	Court Scholar Costume (Female)	장원급제 별감복(여)		
-ITEM_20181005_019685	Black Ceremonial Robes (Male)	어사 흑단령(남)		
-ITEM_20181005_019686	These robes were worn by undercover royal envoys to carry out top-secret missions.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 비밀 임무를 맡을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019687	Black Ceremonial Robes (Female)	어사 흑단령(여)		
-ITEM_20181005_019688	Horse Medal	마패		
-ITEM_20181005_019689	This medal was used by undercover envoys to reveal their identity to higher officials and request aid for their missions. Now, it has been reimagined as a hair accessory.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사의 증표인 마패를 본뜬 헤어 액세서리입니다. 암행어사가 된 기분을 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019690	Satgat Hat	삿갓		
-ITEM_20181005_019691	This style of hat was used to avoid the harsh sunlight on long trips to other regions.{nl}Can be exchanged for medals at the Exchange Shop.	여행을 떠날 때 머리에 쏟아지는 따가운 햇빛을 가릴 수 있는 기능성 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019692	Black Gat Hat	흑립		
-ITEM_20181005_019693	Those of the noble classes commonly wore this style of hat when walking or riding outside in the sun.{nl}Can be exchanged for medals at the Exchange Shop.	일정 계급 이상의 신분을 가진 사람이 바깥출입을 할 때 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019694	Wooden Pane Shield	세살문 실드		
-ITEM_20181005_019695	Horse Medal Shield	마패 실드		
-ITEM_20181005_019696	Moon Rabbit Cannon	달 토끼 캐논		
-ITEM_20181005_019697	Cannon [Appearance]	캐논[외형 변경 전용]		
-ITEM_20181005_019698	Moon Rabbit Staff	달 토끼 스태프		
-ITEM_20181005_019699	Dumpling Rod	이색 송편 로드		
-ITEM_20181005_019700	Brush Stroke Spear	일필휘지 스피어		
-ITEM_20181005_019701	One-handed Spear [Appearance]	한손창[외형 변경 전용]		
-ITEM_20181005_019702	Scimitar of Glory	일기당천 언월도		
-ITEM_20181005_019703	Two-handed Spear [Appearance]	양손창[외형 변경 전용]		
-ITEM_20181005_019704	Wooden Stick Mace	윷가락 메이스		
-ITEM_20181005_019705	Apricot Blossom Crossbow	홍매화 크로스보우		
-ITEM_20181005_019706	Crossbow [Appearance]	쇠뇌[외형 변경 전용]		
-ITEM_20181005_019707	Roof Tile Dagger	기와지붕 대거		
-ITEM_20181005_019708	Dagger [Appearance]	단검[외형 변경 전용]		
-ITEM_20181005_019709	Moon Rabbit Kite	달 토끼 방패연		
-ITEM_20181005_019710	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Exchange Shop.	귀여운 달 토끼가 그려진 방패연입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019711	Moon Rabbit Balloon	둥실둥실 달 토끼		
-ITEM_20181005_019712	It's the Moon Rabbit! Look at it float!{nl}Can be exchanged for medals at the Exchange Shop.	둥실둥실 귀여운 달 토끼 얼굴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019713	Knapsack	괴나리봇짐		
-ITEM_20181005_019714	Back Costume	등 코스튬		
-ITEM_20181005_019715	There's nowhere you can't go with a pair of straw shoes and your trusty knapsack.	짚신 한 짝과 봇짐이 함께라면 어디로든 갈 수 있습니다.		
-ITEM_20181005_019716	Royal Envoy Scrolls	진심이 담긴 상소문		
-ITEM_20181005_019717	A stack of scrolls filled with reports from a royal envoy of the Kingdom.	나라를 생각하는 신하들이 왕에게 진심을 담은 글 뭉치입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019718	Top Secret Royal Scrolls	사심이 담긴 상소문		
-ITEM_20181005_019719	A stack of scrolls filled with top-secret reports from a royal envoy of the Kingdom.	사심이 듬뿍 담긴 상소문. 어떤 사심일까?		
-ITEM_20181005_019720	Moon Rabbits Pounding Rice	방아 찧는 달 토끼		
-ITEM_20181005_019721	Displays an image of Moon Rabbits pounding rice on the ground every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 달 토끼가 방아 찧는 모습을 볼 수 있는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019722	Royal Envoy Horse Stamp	암행어사 출도야		
-ITEM_20181005_019723	Displays an image of the old horse medals used by undercover royal envoys every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	최신 문물을 활용할 줄 아는 암행어사라면 점프 시 암행어사 마패 이펙트로 자신을 증명합니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019724	Blossoms in the Wind	흩날리는 벚꽃		
-ITEM_20181005_019725	Be surrounded by delicate cherry blossoms flowing in the wind.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 로맨틱한 분위기를 만들 수 있도록 착용자의 주변에 벚꽃이 흩날리는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019726	Goddess' Blessed Cube x20 +2 Box	축복받은 여신의 큐브x20 +2 상자		
-ITEM_20181005_019727	Use to obtain two Goddess' Blessed Cube x10 +1.	사용 시 축복받은 여신의 큐브 x10 + 1 아이템을 2개 획득할 수 있습니다.		
-ITEM_20181005_019728	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes (will be deleted at the end of the event period).	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 4일 일괄 삭제됩니다.)	ITEM_20161005_012107	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.
-ITEM_20181005_019729	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.	폭죽을 터트려 즐거운 기운을 느껴보세요.{nl}사용 시 60분 동안 파티원 전체의 이동속도 +2, 경험치 50% 증가의 효과를 줍니다.		
-ITEM_20181005_019730	Full Moon Fragment	보름달 조각		
-ITEM_20181005_019731	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.	보름달 이벤트 아이템입니다. NPC에게 전달해 이벤트에 참여하실 수 있습니다.{nl} 10월 4일 점검 시, 일괄 삭제됩니다.		
-ITEM_20181005_019732	Title - Waiting for a Full Moon	칭호 - 달아 달아 밝은 달아		
-ITEM_20181005_019733	Title box awarded for the Out Comes the Full Moon event.	보름달 키우기 대작전에서 선물하는 칭호 상자 입니다.		
+ITEM_20181005_019673	Moon Rabbit Helmet	달 토끼 헬멧 코스튬				
+ITEM_20181005_019674	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.				
+ITEM_20181005_019675	Green Dumpling Helmet	쑥송편 헬멧 코스튬				
+ITEM_20181005_019676	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.				
+ITEM_20181005_019677	Moon Rabbit Costume	달 토끼 코스튬				
+ITEM_20181005_019678	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.	복슬복슬한 털, 적당히 튀어나온 배, 너무나 귀여운 달 토끼로 변신할 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019679	Royal Envoy Costume (Male)	암행어사 예복(남)				
+ITEM_20181005_019680	Undercover envoys of the royal court were special agents who scoured the Kingdom looking for outlaws and troublemakers.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 특별한 행사가 있을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019681	Royal Envoy Costume (Female)	암행어사 예복(여)				
+ITEM_20181005_019682	Court Scholar Costume (Male)	장원급제 별감복(남)				
+ITEM_20181005_019683	Becoming a royal scholar was no easy task: only the Kingdom's brightest minds were allowed to serve in the court.{nl}Can be exchanged for medals at the Exchange Shop.	장권급제 후 입궁할 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019684	Court Scholar Costume (Female)	장원급제 별감복(여)				
+ITEM_20181005_019685	Black Ceremonial Robes (Male)	어사 흑단령(남)				
+ITEM_20181005_019686	These robes were worn by undercover royal envoys to carry out top-secret missions.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 비밀 임무를 맡을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019687	Black Ceremonial Robes (Female)	어사 흑단령(여)				
+ITEM_20181005_019688	Horse Medal	마패				
+ITEM_20181005_019689	This medal was used by undercover envoys to reveal their identity to higher officials and request aid for their missions. Now, it has been reimagined as a hair accessory.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사의 증표인 마패를 본뜬 헤어 액세서리입니다. 암행어사가 된 기분을 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019690	Satgat Hat	삿갓				
+ITEM_20181005_019691	This style of hat was used to avoid the harsh sunlight on long trips to other regions.{nl}Can be exchanged for medals at the Exchange Shop.	여행을 떠날 때 머리에 쏟아지는 따가운 햇빛을 가릴 수 있는 기능성 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019692	Black Gat Hat	흑립				
+ITEM_20181005_019693	Those of the noble classes commonly wore this style of hat when walking or riding outside in the sun.{nl}Can be exchanged for medals at the Exchange Shop.	일정 계급 이상의 신분을 가진 사람이 바깥출입을 할 때 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019694	Wooden Pane Shield	세살문 실드				
+ITEM_20181005_019695	Horse Medal Shield	마패 실드				
+ITEM_20181005_019696	Moon Rabbit Cannon	달 토끼 캐논				
+ITEM_20181005_019697	Cannon [Appearance]	캐논[외형 변경 전용]				
+ITEM_20181005_019698	Moon Rabbit Staff	달 토끼 스태프				
+ITEM_20181005_019699	Dumpling Rod	이색 송편 로드				
+ITEM_20181005_019700	Brush Stroke Spear	일필휘지 스피어				
+ITEM_20181005_019701	One-handed Spear [Appearance]	한손창[외형 변경 전용]				
+ITEM_20181005_019702	Scimitar of Glory	일기당천 언월도				
+ITEM_20181005_019703	Two-handed Spear [Appearance]	양손창[외형 변경 전용]				
+ITEM_20181005_019704	Wooden Stick Mace	윷가락 메이스				
+ITEM_20181005_019705	Apricot Blossom Crossbow	홍매화 크로스보우				
+ITEM_20181005_019706	Crossbow [Appearance]	쇠뇌[외형 변경 전용]				
+ITEM_20181005_019707	Roof Tile Dagger	기와지붕 대거				
+ITEM_20181005_019708	Dagger [Appearance]	단검[외형 변경 전용]				
+ITEM_20181005_019709	Moon Rabbit Kite	달 토끼 방패연				
+ITEM_20181005_019710	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Exchange Shop.	귀여운 달 토끼가 그려진 방패연입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019711	Moon Rabbit Balloon	둥실둥실 달 토끼				
+ITEM_20181005_019712	It's the Moon Rabbit! Look at it float!{nl}Can be exchanged for medals at the Exchange Shop.	둥실둥실 귀여운 달 토끼 얼굴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019713	Knapsack	괴나리봇짐				
+ITEM_20181005_019714	Back Costume	등 코스튬				
+ITEM_20181005_019715	There's nowhere you can't go with a pair of straw shoes and your trusty knapsack.	짚신 한 짝과 봇짐이 함께라면 어디로든 갈 수 있습니다.				
+ITEM_20181005_019716	Royal Envoy Scrolls	진심이 담긴 상소문				
+ITEM_20181005_019717	A stack of scrolls filled with reports from a royal envoy of the Kingdom.	나라를 생각하는 신하들이 왕에게 진심을 담은 글 뭉치입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181005_019718	Top Secret Royal Scrolls	사심이 담긴 상소문				
+ITEM_20181005_019719	A stack of scrolls filled with top-secret reports from a royal envoy of the Kingdom.	사심이 듬뿍 담긴 상소문. 어떤 사심일까?				
+ITEM_20181005_019720	Moon Rabbits Pounding Rice	방아 찧는 달 토끼				
+ITEM_20181005_019721	Displays an image of Moon Rabbits pounding rice on the ground every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 달 토끼가 방아 찧는 모습을 볼 수 있는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181005_019722	Royal Envoy Horse Stamp	암행어사 출도야				
+ITEM_20181005_019723	Displays an image of the old horse medals used by undercover royal envoys every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	최신 문물을 활용할 줄 아는 암행어사라면 점프 시 암행어사 마패 이펙트로 자신을 증명합니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181005_019724	Blossoms in the Wind	흩날리는 벚꽃				
+ITEM_20181005_019725	Be surrounded by delicate cherry blossoms flowing in the wind.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 로맨틱한 분위기를 만들 수 있도록 착용자의 주변에 벚꽃이 흩날리는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181005_019726	Goddess' Blessed Cube x20 +2 Box	축복받은 여신의 큐브x20 +2 상자				
+ITEM_20181005_019727	Use to obtain two Goddess' Blessed Cube x10 +1.	사용 시 축복받은 여신의 큐브 x10 + 1 아이템을 2개 획득할 수 있습니다.				
+ITEM_20181005_019728	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes (will be deleted at the end of the event period).	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 4일 일괄 삭제됩니다.)	ITEM_20161005_012107	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 20일 일괄 삭제됩니다.)	
+ITEM_20181005_019729	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.	폭죽을 터트려 즐거운 기운을 느껴보세요.{nl}사용 시 60분 동안 파티원 전체의 이동속도 +2, 경험치 50% 증가의 효과를 줍니다.				
+ITEM_20181005_019730	Full Moon Fragment	보름달 조각				
+ITEM_20181005_019731	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.	보름달 이벤트 아이템입니다. NPC에게 전달해 이벤트에 참여하실 수 있습니다.{nl} 10월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181005_019732	Title - Waiting for a Full Moon	칭호 - 달아 달아 밝은 달아				
+ITEM_20181005_019733	Title box awarded for the Out Comes the Full Moon event.	보름달 키우기 대작전에서 선물하는 칭호 상자 입니다.				
+ITEM_20181022_019734	White Wolf Costume (Male)	화이트 울프 코스튬(남)
+ITEM_20181022_019735	Wear this costume on a night of full moon to create a spooky ambiance. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	보름달이 뜨는 밤에 이 코스튬을 착용하면, 공포스러운 분위기를 만들 수 있습니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019736	White Wolf Costume (Female)	화이트 울프 코스튬(여)
+ITEM_20181022_019737	Black Cat Costume (Male)	블랙 캣 코스튬(남)
+ITEM_20181022_019738	Become a mysterious black cat on Halloween and wander into the night. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 때 이 코스튬을 착용한다면, 멋과 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019739	Black Cat Costume (Female)	블랙 캣 코스튬(여)
+ITEM_20181022_019740	Become a mysterious black cat on Halloween and wander into the night. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 때 이 코스튬을 착용한다면, 아름다움과 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019741	Spider Web Costume (Male)	스파이더 웹 코스튬(남)
+ITEM_20181022_019742	This costume is made of real spider webs processed through a special method. It's both cute and spooky, perfect for Halloween.{nl}Can be exchanged for medals at the Exchange Shop.	거미줄을 특수한 가공법으로 가공하여 만든 코스튬입니다. 귀여움과 약간의 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019743	Spider Web Costume (Female)	스파이더 웹 코스튬(여)
+ITEM_20181022_019744	Jack-O-Lantern Costume (Male)	잭오랜턴 코스튬(남)
+ITEM_20181022_019745	It's no Halloween without the traditional Jack-O-Lantern, complete with creepy yellow eyes.	할로윈 잭오랜턴 코스튬입니다. 노랗게 빛나는 눈을 보면 으스스한 기분이 듭니다.
+ITEM_20181022_019746	Jack-O-Lantern Costume (Female)	잭오랜턴 코스튬(여)
+ITEM_20181022_019747	[PP] Red Vampire Costume (Male)	[PC방] 붉은 뱀파이어 코스튬(남)
+ITEM_20181022_019748	A spooky vampire costume. Use to change your appearance.	붉은 뱀파이어 코스튬입니다. 착용하면 외형이 변경 됩니다.
+ITEM_20181022_019749	[PP] Red Vampire Costume (Female)	[PC방] 붉은 뱀파이어 코스튬(여)
+ITEM_20181022_019750	Golden Champion Costume (90 Days)	골든 챔피언 코스튬(90일)
+ITEM_20181022_019751	A costume granted to guilds who succeeded in seizing a Spot. Use to change your appearance.{nl}The costume will be deleted at the end of the next GTW season.	콜로니를 점령한 길드에게 지급되는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}다음 시즌이 종료되면 삭제됩니다.
+ITEM_20181022_019752	Black Champion Costume	블랙 챔피언 코스튬
+ITEM_20181022_019753	A costume granted to guilds who succeeded in seizing a Spot. Use to change your appearance.	콜로니를 점령한 길드에게 지급되는 코스튬입니다. 착용하면 외형이 변경됩니다.
+ITEM_20181022_019754	Black Champion Costume (1 Day)	블랙 챔피언 코스튬(1일)
+ITEM_20181022_019755	Wolf Mask	울프 마스크
+ITEM_20181022_019756	Awooooo! I'm a wolf!{nl}Can be exchanged for medals at the Exchange Shop.	아우우우~! 무서운 늑대 가면입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019757	Black Cat Ears	검은 고양이 귀
+ITEM_20181022_019758	Cute kitty ears for Halloween.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 고양이의 귀 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019759	Pumpkin Hair Accessory	호박 장식
+ITEM_20181022_019760	A fun hair accessory made to look like a neat little Jack-O-Lantern.	잭오랜턴을 귀엽게 형상화한 호박 머리 장식입니다.
+ITEM_20181022_019761	Purple Ribbon Witch Hat	보라 리본 마녀 모자
+ITEM_20181022_019762	The iconic hat of Halloween witches. This one comes with a purple ribbon.{nl}Can be exchanged for medals at the Exchange Shop.	멋쟁이 마녀와 마술사의 상징인 마녀 모자입니다. 보라색 리본이 달려있습니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019763	Red Ribbon Witch Hat	빨간 리본 마녀 모자
+ITEM_20181022_019764	The iconic hat of Halloween witches. This one comes with a red ribbon.{nl}Can be exchanged for medals at the Exchange Shop.	멋쟁이 마녀와 마술사의 상징인 마녀 모자입니다. 빨간색 리본이 달려있습니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019765	Jack-O-Lantern Two-handed Mace	잭오랜턴 투 핸드 메이스
+ITEM_20181022_019766	This item can only be used to change the appearance of another.{nl}Includes visual effects.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 이펙트가 존재합니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019767	Pumpkin Rapier	펌프킨 레이피어
+ITEM_20181022_019768	Triple Jack-O-Lantern Sword	트리플 잭오랜턴 소드
+ITEM_20181022_019769	Chainsaw Two-handed Sword	공포의 전기톱 투 핸드 소드
+ITEM_20181022_019770	This item can only be used to change the appearance of another.{nl}Includes visual and sound effects.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 애니와 사운드가 존재합니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019771	Jack-O-Lantern Mace	잭오랜턴 메이스
+ITEM_20181022_019772	Broomstick Staff	마녀의 빗자루 스태프
+ITEM_20181022_019773	Bat Bow	박쥐 보우
+ITEM_20181022_019774	Jack-O-Lantern Spear	잭오랜턴 스피어
+ITEM_20181022_019775	Jack-O-Lantern Pike	잭오랜턴 파이크
+ITEM_20181022_019776	Pumpkin Dagger	펌프킨 대거
+ITEM_20181022_019777	Cat Pistol	고양이 피스톨
+ITEM_20181022_019778	This item can only be used to change the appearance of another.{nl}Includes sound effects.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 사운드가 존재합니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019779	Red Syringe Musket	빨간 물약 주사기 머스킷
+ITEM_20181022_019780	Jack-O-Lantern Balloon	잭오랜턴 풍선
+ITEM_20181022_019781	Trick or treat! It's Haloween!{nl}Can be exchanged for Medals at the Exchange Shop.	트릭 오어 트릿! 할로윈의 대명사인 잭오랜턴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019782	Spooky Ghost Balloon	무서운 유령 풍선
+ITEM_20181022_019783	Be careful, this balloon may be haunted by a real ghost.{nl}Can be exchanged for Medals at the Exchange Shop.	으스스한 유령 풍선입니다. 단, 희박한 확률로 진짜 유령이 쫒아 온다는 소문이 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019784	Meow Cat Balloon	냐옹냐옹 고양이 풍선
+ITEM_20181022_019785	Carry around this cute — and slightly creepy — kitty cat balloon.{nl}Can be exchanged for Medals at the Exchange Shop.	냐아옹~귀엽지만 조금 무서운 고양이 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20181022_019786	Spooky Jack-O-Lantern	무서운 잭오랜턴
+ITEM_20181022_019787	Jump to display a spooky Jack-O-Lantern effect.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 무서운 잭오랜턴의 이펙트를 만들어냅니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.
+ITEM_20181022_019788	Creepy Ghost Party	으스스한 유령 파티
+ITEM_20181022_019789	Equip to display spooky ghost designs under your feet.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 으스스한 유령들이 착용자의 발 밑에서 등장하는 이펙트를 만들어냅니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.

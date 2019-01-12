@@ -263,12 +263,12 @@ UI_20150317_000262	Consumo de Moedas: 0
 UI_20150317_000263	Introdução
 UI_20150317_000264	{@st43}Inventário{/}
 UI_20150317_000265	{@st59}Fechar{/}
-UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Parte de Cima, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}
-UI_20150317_000267	{@st59}Enfeite de cabelo 1{/}
-UI_20150317_000268	{@st59}Enfeite de cabelo 2{/}
+UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}
+UI_20150317_000267	{@st59}Acessório 1{/}
+UI_20150317_000268	{@st59}Acessório 2{/}
 UI_20150317_000269	{@st59}Colar{/}
 UI_20150317_000270	{@st59}Traje{/}
-UI_20150317_000271	{@st59}Parte de Cima{/}
+UI_20150317_000271	{@st59}Topo{/}
 UI_20150317_000272	{@st59}Luvas{/}
 UI_20150317_000273	{@st59}Calças{/}
 UI_20150317_000274	{@st59}Sapatos{/}
@@ -287,7 +287,7 @@ UI_20150317_000286	{@st42}Executar
 UI_20150317_000287	{@st42}Item Visado{/}
 UI_20150317_000288	{@st59}Anel 1{/}
 UI_20150317_000289	{@st43}Construir Item{/}
-UI_20150317_000290	{@st42b}Mostrar itens craftáveis{/}
+UI_20150317_000290	{@st42b}Mostrar itens construíveis{/}
 UI_20150317_000291	{@st59}Fechar{/}
 UI_20150317_000292	{@st43}{s22}Dividir Item
 UI_20150317_000293	{@st59}Digite a quantidade{/}
@@ -727,7 +727,7 @@ UI_20150317_000726	{@st59}Informações do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Diário de Aventura (F4){/}
-UI_20150317_000730	{@st59}Quests (F5){/}
+UI_20150317_000730	{@st59}Missões (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
@@ -1120,7 +1120,7 @@ UI_20150317_001119	Moldura de Item Personalizado
 UI_20150317_001120	Verde
 UI_20150317_001121	Densidade
 UI_20150317_001122	Conforme HP
-UI_20150317_001123	{@st59}Acessórios de Cabelo{/}
+UI_20150317_001123	{@st59}Acessórios{/}
 UI_20150317_001124	{@st59}Acessórios Auxiliares{/}
 UI_20150317_001125	{@St42}Texto{/}
 UI_20150317_001126	Nome de conteúdo básico
@@ -1565,7 +1565,7 @@ UI_20150714_001563	{@st41b}Remover Mesa de Refeição
 UI_20150714_001564	{@st42}Minha Habilidade de Invocação
 UI_20150714_001565	{@st42}Atributo
 UI_20150714_001566	{@st42}Local Atual: %s{/}
-UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Parte de Cima, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
+UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
 UI_20150714_001568	{@st43}Abrir %s Loja {/}
 UI_20150714_001569	{@st41b}Lapidação{/}
 UI_20150714_001570	{@st66}Selecionar Tudo
@@ -1867,7 +1867,7 @@ UI_20151224_001865	Procurando participantes do evento da guilda.
 UI_20151224_001866	{@st41b}Upgrade & Rank
 UI_20151224_001867	{@st41b}Atributos da Guilda
 UI_20151224_001868	{@st43}Melhorar Guilda{/}
-UI_20151224_001869	Ch / Location
+UI_20151224_001869	Ch / Local
 UI_20151224_001870	Summon
 UI_20151224_001871	To Guild Member
 UI_20151224_001872	Go
@@ -1887,7 +1887,7 @@ UI_20151224_001885	{@st59}Mais Zoom{/}
 UI_20151224_001886	{@st59}Menos Zoom{/}
 UI_20151224_001887	{@st59}Mostrar último ponto teleportado{/}
 UI_20151224_001888	{@st59}Mostrar sua localização atual{/}
-UI_20151224_001889	{@st59}Hair Costume 3{/}
+UI_20151224_001889	{@st59}Acessório 3{/}
 UI_20151224_001890	{@st59}Penteado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
@@ -2054,12 +2054,12 @@ UI_20160224_002052	You can store tradable items, but at the cost of 1 Potential.
 UI_20160224_002053	Receber Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Nome (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Fechar{/}
-UI_20160224_002056	Challenge
-UI_20160224_002057	Please choose to proceed
-UI_20160224_002058	{@st63_yellow}Abandoned :{/}
-UI_20160224_002059	Receive a reward and leave.
-UI_20160224_002060	{@st63_yellow}Challenge :{/}
-UI_20160224_002061	Moving to the next floor
+UI_20160224_002056	Seguir
+UI_20160224_002057	Escolha para uma opção:
+UI_20160224_002058	{@st63_yellow}Abandonar:{/}
+UI_20160224_002059	Receber recompensa e sair
+UI_20160224_002060	{@st63_yellow}Seguir:{/}
+UI_20160224_002061	Continuar subindo
 UI_20160224_002062	{@st43}Coletor de Relíquias{/}
 UI_20160224_002063	{@st59}Fechar{/}
 UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
@@ -2288,7 +2288,7 @@ UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Carta de Monstro{/}
 UI_20160811_002287	Transcender Item
 UI_20160811_002288	Transcendência
 UI_20160811_002289	{@st59b}Transcender Item{nl}{@st59s}- Outra maneira de aprimorar o desempenho do item além da bigorna{nl}- Itens que podem transcender : Armas, armaduras e acessórios{nl}- Taxa de Sucessão de Transcendência = Ingredientes Usados / Máximo de Ingredientes Requeridos{nl}- Aumenta o estágio de Transcendência em 1 caso tenha sucesso (Maximo de 10 estágios){nl}- Diminui o estágio de transcendência em 1 caso falhe (Sem perda de potencial){nl}- Itens transcendidos não podem ser negociados{/}
-UI_20160811_002290	{@st42}Etapa %s{/}
+UI_20160811_002290	{@st42}Estágio %s{/}
 UI_20160811_002291	Extrair Blessed Gem
 UI_20160811_002292	{@st59b}Extrair Blessed Gem{nl}{@st59s}- Extrai Blessed Gem de itens transcendidos{nl}- Requerimento de extração : Hammer of Dismantlement{nl}- Você vai receber algumas das Blessed Gems utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}
 UI_20160811_002293	Extraction Results
@@ -2449,9 +2449,9 @@ UI_20161108_002447	{@st41}Open Compensation Cube
 UI_20161108_002448	{@st59}Fechar{/}
 UI_20161108_002449	{@st66b}Poderá obter algo misterioso{nl}quando abrir.{/}
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}
-UI_20161121_002451	Nome/Location
+UI_20161121_002451	Nome/Local
 UI_20161121_002452	Nível para Entrar
-UI_20161121_002453	N° de Entradas
+UI_20161121_002453	Entradas
 UI_20161121_002454	Entradas na Dungeon
 UI_20161121_002455	%s/%s
 UI_20161121_002456	Principais Itens dropáveis
@@ -2549,7 +2549,7 @@ UI_20170313_002547	{@st59}Fechar janela do item.{/}
 UI_20170313_002548	{@st41b}%s {nl}Você obteve um item!
 UI_20170313_002549	{@st59}Reexpandir o armazém da guilda.{/}
 UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.
-UI_20170313_002551	{@st66}Somente Equipados
+UI_20170313_002551	{@st66}Somente Usados
 UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Exploração do Mapa Completa !!
 UI_20170313_002554	{@st41b}Coleção{/}
@@ -2602,7 +2602,7 @@ UI_20170330_002600	{s18}Itens com data para usar
 UI_20170330_002601	Item (s) perto da data de validade. Fechar?
 UI_20170330_002602	{@st43}{s20}Itens expirados{/}
 UI_20170330_002603	{s17}Excluir todos os itens acima?		
-UI_20170330_002604	Itens dropáveis principais
+UI_20170330_002604	Principais itens para se obter
 UI_20170330_002605	{@st41b}Procurar 2 a 4 jogadores{/}
 UI_20170330_002606	{@st41b}Procurar 2 a 4 jogadores	
 UI_20170330_002607	{@st59}Excluir itens expirados{/}
@@ -2681,9 +2681,9 @@ UI_20170726_002679	Uma entrada diária adicional concedida aos usuários de Toke
 UI_20170726_002680	Nível para entrar	입장 레벨
 UI_20170726_002681	Dificuldade	난이도
 UI_20170726_002682	Ordenar	별
-UI_20170726_002683	{@st66b}Ordenar - menor p/ maior{/}	{@st66b}레벨 오름차순{/}
-UI_20170726_002684	{@st66b}Ordenar - maior p/ menor{/}	{@st66b}레벨 내림차순{/}
-UI_20170726_002685	{@st66b}As entradas diárias são reiniciadas todos os dias as %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
+UI_20170726_002683	{@st66b}Menor p/ maior{/}	{@st66b}레벨 오름차순{/}
+UI_20170726_002684	{@st66b}Maior p/ menor{/}	{@st66b}레벨 내림차순{/}
+UI_20170726_002685	{@st66b}Entradas Diárias reiniciam todos os dias - %s (servidor).{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
 UI_20170726_002686	{@st43}{s22}Ver Localização{/}	{@st43}{s22}던전 위치 보기{/}
 UI_20170726_002687	{@st59}Fechar.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}
 UI_20170726_002688	{@st43}Eventos{/}	{@st43}이벤트 안내{/}
@@ -2697,7 +2697,7 @@ UI_20170726_002695	{@st66b}Mostrar quantidade de Veneno{/}	{@st66b}메인 화면
 UI_20170726_002696	{s20}Veneno	{s20}독의 양
 UI_20170726_002697	{@st42}Veneno no Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
-UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}
+UI_20170726_002699	{@st59}Info de Dungeon (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
 UI_20170726_002701	{@st66b}Mostrar barra de HP e SP{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
@@ -2876,7 +2876,7 @@ UI_20170912_002875	{@st42b}{s20}Continuar Comprando
 UI_20170912_002876	{@st42b}{s20}Fechar
 UI_20170912_002877	{@st66}Fechar
 UI_20170912_002878	{@st59}Trocar Equipamento (Alt+Z){/}
-UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}Cartas de Monstro{/}
+UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}    Cartas{/}
 UI_20170912_002880	{@st59}Abrir janela de Cartas de Monstros{/}
 UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}
 UI_20170912_002882	Cube Name
@@ -2976,7 +2976,7 @@ UI_20171128_002975	Voltando à classe anterior.
 UI_20171128_002976	Nome do Mapa
 UI_20171128_002977	{@st42b}Usar
 UI_20171128_002978	Cosumo de itens para entrar em Raid Dungeon -2
-UI_20180108_002979	{@st59}Traje de Efeito{/}
+UI_20180108_002979	{@st59}Efeito Especial{/}
 UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N° de Trocas disponíveis.{/}{/}
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Tokens de evento não possuem n° de trocas.{nl}{/} {@st66b}Certifique-se de verificar a contagem antes da negociação.{/}{/}
@@ -2995,7 +2995,7 @@ UI_20180208_002994	Reportar.
 UI_20180208_002995	Cancelar.
 UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção para melhorar a performance do item sem usar a bigorna{nl}- Transcendíveis : Arma, Equipamento, Acessório{nl}- Chance de Transcendência = Quantidade de Ingredientes / Máximo Necessário{nl}- Se bem-sucedido, o nível da Transcendência aumentará em 1(Máx. 10){nl}- Se falhar, o nível da Transcendência diminuirá em 1(Nível da Transcendência não pode ficar abaixo de 1){nl}- Itens Transcendentes não podem ser trocados{/}
 UI_20180208_002997	Chance de Sucesso: 100%
-UI_20180208_002998	*Transcendência pode falhar se a taxa de sucesso não for 100%.{nl}Potential 
+UI_20180208_002998	*Transcendência pode falhar se não atingir 100%.{nl}Potencial será reduzido caso falhe.
 UI_20180208_002999	Extrair Blessed Shard
 UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}
 UI_20180208_003001	Blessed Shard Resultado
@@ -3149,7 +3149,7 @@ UI_20180517_003148	{@st59}Guerras Territoriais{/}
 UI_20180517_003149	{@st43}Log de Inscrições
 UI_20180517_003150	Data
 UI_20180517_003151	Status
-UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}
+UI_20180517_003152	{@st66b}Entradas Semanais reiniciam na Segunda - %s (servidor).{/}
 UI_20180517_003153	Equipar Ichor
 UI_20180517_003154	Equipar
 UI_20180517_003155	{@st43b}{s18}Stats Atuais
@@ -3238,8 +3238,8 @@ UI_20180629_003237	{@st59}Cabelos{/}
 UI_20180629_003238	{@st59}Cabelos e Tinturas{/}
 UI_20180629_003239	{@st59}Toys{/}
 UI_20180629_003240	{@st66}{s18}Provar{/}
-UI_20180629_003241	{@st41b}{s17}Traje de Cabelo
-UI_20180629_003242	Você pode ocultar/ mostrar todos os seus trajes de cabelo atualmente equipados.
+UI_20180629_003241	{@st41b}{s17}Acessório
+UI_20180629_003242	Você pode ocultar/ mostrar todos os seus Acessórios atualmente equipados.
 UI_20180629_003243	   TP Atual{/}
 UI_20180629_003244	   TP Restante{/}
 UI_20180629_003245	Agora vestindo
@@ -3267,7 +3267,7 @@ UI_20180629_003266	{@st42}Materiais
 UI_20180629_003267	{@st42}Visual para Trocar
 UI_20180629_003268	{@st42}Manter Potencial
 UI_20180629_003269	{img silver 20 20}Preço
-UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido.{Nl}E não consome Silver.
+UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido,{Nl}porém não consumirá Silver.
 UI_20180629_003271	Por favor registre um núcleo ou uma arma que você deseja manter a aparência.
 UI_20180629_003272	{@st43b}{s20}OK
 UI_20180629_003273	Update message board.
@@ -3479,104 +3479,104 @@ UI_20180827_003478	{#002d93}%s Silver{/}{/} de {#8e0000}[%s%s]{/}{/} {#8e0000}x[
 UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}	{#8e0000}[%s%s]{/}
 UI_20180827_003480	1 dia, 23 horas		
 UI_20180827_003481	Não-Trocável
-UI_20180827_003482	{@st42b}{s16}Preview{/}
-UI_20181017_003483	{@st43}Teste os itens temáticos	{@st43}테마 상품 입어보기				
-UI_20181017_003484	Insira o equipamento para o qual você deseja alterar a aparência.	외형을 변경할 장비를 올려주세요.				
-UI_20181017_003485	{@st68}{s16}Lista{/}	{@st68}{s16}목록{/}				
-UI_20181017_003486	{@st41b}Apagar	{@st41b}삭제	ETC_20150317_001649	Delete	삭제	
-UI_20181017_003487	{@st59}Equipamento{/}	{@st59}장비{/}				
-UI_20181017_003488	{@st66b}Aparência{/}	{@st66b}외형{/}				
-UI_20181017_003489	{@st59}Aparência{/}	{@st59}외형{/}				
-UI_20181017_003490	{@st59}Tintura{/}	{@st59}염색{/}				
-UI_20181017_003491	{@st59}Ver Todos{/}	{@st59}모두 보기{/}				
-UI_20181017_003492	{@st59}Consumíveis{/}	{@st59}소비{/}				
-UI_20181017_003493	{@st59}Receitas{/}	{@st59}제작서{/}				
-UI_20181017_003494	{@st59}Cartas{/}	{@st59}카드{/}				
-UI_20181017_003495	{@st59}Materiais{/}	{@st59}재료{/}				
-UI_20181017_003496	{@st59}Gemas{/}	{@st59}젬{/}				
-UI_20181017_003497	{@st59}Premium{/}	{@st59}프리미엄{/}				
-UI_20181017_003498	{@st59}Opção de filtro ON/OFF{/}	{@st59}아이템 필터 옵션 켜기/끄기{/}				
-UI_20181017_003499	{@st41b}Stage %s	{@st41b}%s단계				
-UI_20181017_003500	{@st43}Opções de Inventário{/}	{@st43}인벤토리 옵션{/}				
-UI_20181017_003501	{@st43b}{s18}Raridade do Equipamento{/}	{@st43b}{s18}장비 등급{/}				
-UI_20181017_003502	{@st43b}{s18}Tipo do Equipamento{/}	{@st43b}{s18}장비 타입{/}				
-UI_20181017_003503	{@st43b}{s18}Grupo de Cartas{/}	{@st43b}{s18}카드 그룹{/}				
-UI_20181017_003504	{@st43b}{s18}Tipo de Material{/}	{@st43b}{s18}재료 종류{/}				
-UI_20181017_003505	{@st43b}{s18}Grupo de Gemas{/}	{@st43b}{s18}젬 그룹{/}				
-UI_20181017_003506	{@st66b}Todos Grades{/}	{@st66b}모든 등급{/}				
-UI_20181017_003507	{@st66b}Normal{/}	{@st66b}일반{/}				
-UI_20181017_003508	{@st66b}Magic{/}	{@st66b}매직{/}				
-UI_20181017_003509	{@st66b}Rare{/}	{@st66b}레어{/}				
-UI_20181017_003510	{@st66b}Unique{/}	{@st66b}유니크{/}				
-UI_20181017_003511	{@st66b}Legend{/}	{@st66b}레전드{/}				
-UI_20181017_003512	{@st66b}Mostrar só itens Aprimorados/Transcendidos{/}	{@st66b}강화, 초월된 장비만 보기{/}				
-UI_20181017_003513	{@st66b}Mostrar apenas itens Não-Identificados{/}	{@st66b}미감정 장비만 보기{/}				
-UI_20181017_003514	{@st66b}Todas as Cartas{/}	{@st66b}모든 카드{/}				
-UI_20181017_003515	{@st66b}Cartas Vermelhas{/}	{@st66b}레드 카드{/}				
-UI_20181017_003516	{@st66b}Cartas Azuis{/}	{@st66b}블루 카드{/}				
-UI_20181017_003517	{@st66b}Cartas Verdes{/}	{@st66b}그린 카드{/}				
-UI_20181017_003518	{@st66b}Cartas Roxas{/}	{@st66b}퍼플 카드{/}				
-UI_20181017_003519	{@st66b}Cartas Lendárias{/}	{@st66b}레전드 카드{/}				
-UI_20181017_003520	{@st66b}Outras Cartas{/}	{@st66b}기타 카드{/}				
-UI_20181017_003521	{@st66b}Todos os Tipos{/}	{@st66b}모든 종류{/}				
-UI_20181017_003522	{@st66b}Quest{/}	{@st66b}퀘스트{/}				
-UI_20181017_003523	{@st66b}Outros{/}	{@st66b}기타{/}				
-UI_20181017_003524	{@st66b}Coleção{/}	{@st66b}컬렉션{/}				
-UI_20181017_003525	{@st66b}Para Equipamento{/}	{@st66b}장비 성장{/}				
-UI_20181017_003526	{@st66b}Minérios{/}	{@st66b}광물{/}				
-UI_20181017_003527	{@st66b}Todas as Gemas{/}	{@st66b}모든 젬{/}				
-UI_20181017_003528	{@st66b}Gemas Vermelhas{/}	{@st66b}레드 젬{/}				
-UI_20181017_003529	{@st66b}Gemas Azuis{/}	{@st66b}블루 젬{/}				
-UI_20181017_003530	{@st66b}Gemas Amarelas{/}	{@st66b}옐로우 젬{/}				
-UI_20181017_003531	{@st66b}Gemas Verdes{/}	{@st66b}그린 젬{/}				
-UI_20181017_003532	{@st66b}Gemas Brancas{/}	{@st66b}화이트 젬{/}				
-UI_20181017_003533	{@st66b}Gemas de Monstro{/}	{@st66b}몬스터 젬{/}				
-UI_20181017_003534	Resetar	리셋				
-UI_20181017_003535	{@st43}Retornar	{@st43}뒤로가기				
-UI_20181017_003536	{@st43}Recomçar	{@st43}다시하기				
-UI_20181017_003537	{@st59}Fechar{/}	{@st59}검색 옵션 창을 닫습니다{/}				
-UI_20181017_003538	Salve suas opções de pesquisa de categoria atual. {Nl} As opções não especificadas não serão salvas.	현재 카테고리 검색 옵션을 저장합니다.{nl}값을 입력하지 않은 설정들은 저장되지 않습니다.				
-UI_20181017_003539	Salvar Nome	저장 이름				
-UI_20181017_003540	{@st66d}Salvar: Opções	{@st66d}옵션 저장				
-UI_20181017_003541	{@st41d}Salvar	{@st41d}저장				
-UI_20181017_003542	Importar opções de categoria.	카테고리 옵션을 불러옵니다.				
-UI_20181017_003543	{@st66d}Opções de Importação	{@st66d}옵션 불러오기				
-UI_20181017_003544	Limite de Troca	거래 한도				
-UI_20181017_003545	Enchant Jewels	인챈트 쥬얼				
-UI_20181017_003546	Enchant Stats	인챈트 옵션 부여				
-UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개				
-UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.				
-UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
-UI_20181017_003550	{@st59}Tackle Box (Alt + F){/}	{@st59}낚시 살림통 (Alt + F){/}				
-UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}	{@st59}스킬과 특성 (F3){/}				
-UI_20181017_003552	Used Items	사용 아이템				
-UI_20181017_003553	Título       %s	칭호       %s	UI_20150401_001453	Title: %s	칭호   %s	
-UI_20181017_003554	Recompensa       %s	보상       %s	UI_20150401_001454	Reward: %s	보상   %s	
-UI_20181017_003555	{@sti7}{s26}Encontre sua Classe	{@sti7}{s26}클래스 선택 가이드				
-UI_20181017_003556	{@st43b}Começar	{@st43b}시작				
-UI_20181017_003557	{@st43}{s15}1°	{@st43}		
-UI_20181017_003558	{@st43}{s15}2°	{@st43}			
-UI_20181017_003559	{@st43}{s15}3°	{@st43}				
-UI_20181017_003560	Level Range	레벨 범위				
-UI_20181017_003561	Normal	노멀				
-UI_20181017_003562	Search Item	아이템 검색				
-UI_20181017_003563	Show only unidentified items	미감정 아이템만 보기				
-UI_20181017_003564	Hide unidentified items	미감정 아이템 제외해서 보기				
-UI_20181017_003565	Advanced Settings	세부 설정				
-UI_20181017_003566	Value	수치 범위				
-UI_20181017_003567	{@st66}{s16}Add Stat	{@st66}{s16}옵션 추가				
-UI_20181017_003568	Stat Group	옵션 그룹				
-UI_20181017_003569	{@st66}{s16}Save	{@st66}{s16}저장				
-UI_20181017_003570	Save search settings.	검색 설정을 저장합니다.				
-UI_20181017_003571	{@st66}{s16}Import	{@st66}{s16}불러오기				
-UI_20181017_003572	Import search settings.	검색 설정을 불러옵니다.				
-UI_20181017_003573	Reset search settings.	검색 설정을 초기화합니다.				
-UI_20181017_003574	Item Level	아이템 레벨				
-UI_20181017_003575	Roast Level	로스팅 레벨				
-UI_20181017_003576	Delete Stat	옵션 삭제				
-UI_20181017_003577	Settings Save Name	설정 저장 이름				
-UI_20181017_003578	Delete Settings	설정 삭제				
-UI_20181017_003579	Rank de Troca	거래 등급 안내				
-UI_20181017_003580	Character Lv %s	캐릭터 레벨 %s				
-UI_20181017_003581	Time com %s+ idade	팀 생성 %s일 이상				
-UI_20181017_003582	%s Revelações Obtidas	계시 %s개 획득				
+UI_20180827_003482	{@st42b}{s16}Prévia{/}
+UI_20181017_003483	{@st43}Testar itens temáticos
+UI_20181017_003484	Insira o equipamento para alterar a aparência.
+UI_20181017_003485	{@st68}{s16}Lista{/}
+UI_20181017_003486	{@st41b}Excluir
+UI_20181017_003487	{@st59}Equipamento{/}
+UI_20181017_003488	{@st66b}Aparência{/}
+UI_20181017_003489	{@st59}Aparência{/}
+UI_20181017_003490	{@st59}Tintura{/}
+UI_20181017_003491	{@st59}Ver Todos{/}
+UI_20181017_003492	{@st59}Consumíveis{/}
+UI_20181017_003493	{@st59}Receitas{/}
+UI_20181017_003494	{@st59}Cartas{/}
+UI_20181017_003495	{@st59}Materiais{/}
+UI_20181017_003496	{@st59}Gemas{/}
+UI_20181017_003497	{@st59}Premium{/}
+UI_20181017_003498	{@st59}Opção de filtro ON/OFF{/}
+UI_20181017_003499	{@st41b}Estágio %s
+UI_20181017_003500	{@st43}Opções de Inventário{/}
+UI_20181017_003501	{@st43b}{s18}Raridade do Item{/}
+UI_20181017_003502	{@st43b}{s18}Tipo do Item{/}
+UI_20181017_003503	{@st43b}{s18}Grupo de Cartas{/}
+UI_20181017_003504	{@st43b}{s18}Tipo de Material{/}
+UI_20181017_003505	{@st43b}{s18}Grupo de Gemas{/}
+UI_20181017_003506	{@st66b}Todas Raridades{/}
+UI_20181017_003507	{@st66b}Normal{/}
+UI_20181017_003508	{@st66b}Mágico{/}
+UI_20181017_003509	{@st66b}Raro{/}
+UI_20181017_003510	{@st66b}Único{/}
+UI_20181017_003511	{@st66b}Lendário{/}
+UI_20181017_003512	{@st66b}Somente Aprimorados/Transcendidos{/}
+UI_20181017_003513	{@st66b}Somente Não-Identificados{/}
+UI_20181017_003514	{@st66b}Todas as Cartas{/}
+UI_20181017_003515	{@st66b}Cartas Vermelhas{/}
+UI_20181017_003516	{@st66b}Cartas Azuis{/}
+UI_20181017_003517	{@st66b}Cartas Verdes{/}
+UI_20181017_003518	{@st66b}Cartas Roxas{/}
+UI_20181017_003519	{@st66b}Cartas Lendárias{/}
+UI_20181017_003520	{@st66b}Outras Cartas{/}
+UI_20181017_003521	{@st66b}Todos os Tipos{/}
+UI_20181017_003522	{@st66b}Missão{/}
+UI_20181017_003523	{@st66b}Outros{/}
+UI_20181017_003524	{@st66b}Coleção{/}
+UI_20181017_003525	{@st66b}Para Equipamento{/}
+UI_20181017_003526	{@st66b}Minérios{/}
+UI_20181017_003527	{@st66b}Todas as Gemas{/}
+UI_20181017_003528	{@st66b}Gemas Vermelhas{/}
+UI_20181017_003529	{@st66b}Gemas Azuis{/}
+UI_20181017_003530	{@st66b}Gemas Amarelas{/}
+UI_20181017_003531	{@st66b}Gemas Verdes{/}
+UI_20181017_003532	{@st66b}Gemas Brancas{/}
+UI_20181017_003533	{@st66b}Gemas de Monstro{/}
+UI_20181017_003534	Reiniciar
+UI_20181017_003535	{@st43}Retornar
+UI_20181017_003536	{@st43}Recomeçar
+UI_20181017_003537	{@st59}Fechar Opções{/}
+UI_20181017_003538	Salve suas opções de pesquisa de categoria atual.{nl}As opções não especificadas não serão salvas.		
+UI_20181017_003539	Salvar Nome
+UI_20181017_003540	{@st66d}Salvar: Opções
+UI_20181017_003541	{@st41d}Salvar
+UI_20181017_003542	Importar opções de categoria.
+UI_20181017_003543	{@st66d}Opções de Importação
+UI_20181017_003544	Limite de Troca
+UI_20181017_003545	Enchant Jewels
+UI_20181017_003546	Enchant Stats
+UI_20181017_003547	{@st41b}{s18}Enchant Jewels Atuais: %s
+UI_20181017_003548	{@st66}{s18}{b}Consome %s Enchant Jewel(s).
+UI_20181017_003549	{@st59}Definir Classe Principal{/}
+UI_20181017_003550	{@st59}Caixa de Pesca (Alt+F){/}
+UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}
+UI_20181017_003552	Itens Usados
+UI_20181017_003553	Título       %s
+UI_20181017_003554	Recompensa       %s
+UI_20181017_003555	{@sti7}{s26}Encontre sua Classe
+UI_20181017_003556	{@st43b}Começar
+UI_20181017_003557	{@st43}{s15}1°
+UI_20181017_003558	{@st43}{s15}2°
+UI_20181017_003559	{@st43}{s15}3°
+UI_20181017_003560	Faixa de Nv.
+UI_20181017_003561	Normal
+UI_20181017_003562	Procurar Item
+UI_20181017_003563	Somente Não Identificados
+UI_20181017_003564	Esconder Não Identificados
+UI_20181017_003565	Opções Avançadas
+UI_20181017_003566	Valor
+UI_20181017_003567	{@st66}{s16}Adicionar Atributo
+UI_20181017_003568	Grupo				
+UI_20181017_003569	{@st66}{s16}Salvar
+UI_20181017_003570	Salvar opções de busca.
+UI_20181017_003571	{@st66}{s16}Importar
+UI_20181017_003572	Importar opções de busca.
+UI_20181017_003573	Reiniciar opções de busca
+UI_20181017_003574	Nv. Item
+UI_20181017_003575	Nv. Pureza
+UI_20181017_003576	Remover Atributo
+UI_20181017_003577	Nome Config. Salva
+UI_20181017_003578	Remover Config.
+UI_20181017_003579	Nv Troca
+UI_20181017_003580	Nv Personagem %s
+UI_20181017_003581	TimeTeam %s+ days old	팀 생성 %s일 이상			
+UI_20181017_003582	%s Revelações Obtidas

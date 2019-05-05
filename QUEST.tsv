@@ -1967,7 +1967,7 @@ QUEST_20150428_001970	Muitos mágicos vieram destruir a barreira, mas não conse
 QUEST_20150428_001971	A todos aventureiros do reino, a Mage Tower oferece ouro àqueles que {nl}trouxerem de volta todos os fragmentos do espírito de Hauberk.
 QUEST_20150428_001972	A Ordem para Derrotar os Demônios
 QUEST_20150428_001973	E assim eu ordeno, em nome de Vakarine! {nl}Depois de Medzio Diena, eles não podem mais ser perdoados. {nl}Eles estão tentando expandir seus poderes penetrando na rachadura que foi criada na barreira.
-QUEST_20150428_001974	Todas Kupoles aqui derrotarão os Demon Lords Boolut, Nuaele e Baltrus, antes de mais nada. {nl}Os inimigos ficarão em pânico sem seus comandantes e serão facilmente derrotados.
+QUEST_20150428_001974	Todas Kupoles aqui derrotarão os Demon Lords Blut, Nuaele e Baltrus, antes de mais nada. {nl}Os inimigos ficarão em pânico sem seus comandantes e serão facilmente derrotados.
 QUEST_20150428_001975	Kupoles incapazes de atacar devem se concentrar em bloquear a rachadura. {nl}Não podemos permitir que mais demônios cheguem até os Lordes Demônio.
 QUEST_20150428_001976	Como devo viver daqui em diante? {nl}Deveria ter me mudado para Klaipeda.
 QUEST_20150428_001977	Já que você os colocou em seu inventário, pode lê-los a qualquer momento.
@@ -2534,7 +2534,7 @@ QUEST_20151001_002541	Não conte para eles sobre mim por algum tempo.{nl}Humanos
 QUEST_20151001_002542	O guardião do Royal Mausoleum onde a próxima revelação aguarda está bem longe daqui.{nl}Abrirei um portal para você como um atalho.{nl}Em nome de Saule, a Deusa do sol, rezarei pela sua segurança.
 QUEST_20151001_002543	Falando em vida eterna... veja Tesla. {nl}Você imaginaria que não se envelhece com vida eterna, concorda?
 QUEST_20151001_002544	(Há palavras pouco legíveis aqui.) {nl}...Euros não podia mais prender a respiração, então acabou inalando os esporos e morreu. {nl}Os Mushworts caçam pessoas com o método mais cruel que já vi. {nl}Eles circulam nossos locais de encontro e chacoalham os cogumelos que liberam esporos.{nl}
-QUEST_20151001_002545	Mesmo quando as Deusas não estão por aqui, os Oráculos ainda podem entregar a mensagem delas às pessoas. {nl}Certamente, isso é prova de que as Deusas ainda existem.
+QUEST_20151001_002545	Mesmo quando as Deusas não estão por aqui,{nl}os Oracles ainda podem entregar a mensagem delas às pessoas.{nl}Certamente, isso é prova de que as Deusas ainda existem.
 QUEST_20151001_002546	Medzio Diena não foi a vontade da natureza.{nl}Afinal de contas, a natureza é governada pelas Deusas, e elas jamais fariam mal a todos nós.
 QUEST_20151001_002547	Ofereço essa Estátua da Deusa, na qual coloquei todo meu carinho e alma, à Deusa da grande honra e luz.
 QUEST_20151001_002548	Entre meus discípulos, dois deles me seguiram até minha velhice e também serão meus sucessores depois da minha morte. {nl}
@@ -6260,7 +6260,7 @@ QUEST_20171103_006280	Ranking e pontos do Diário da Aventura estão sendo atual
 QUEST_20171103_006281	Enquanto o Diário da Aventura é atualizado, os pontos exibidos não são os reais.{nl}Deseja ver o seu Diário da Aventura?
 QUEST_20171113_006284	Você obtém Candies ao enfrentar monstros e outros jogadores.{nl}Deseja entrar?
 QUEST_20171113_006285	Você pode entrar novamente no máximo 2 vezes por hora.
-QUEST_20171120_006287	Por favor, selecione o nível do Boss.
+QUEST_20171120_006287	Por favor, selecione o nível do Chefe.
 QUEST_20171120_006289	O nível do Boss selecionada é muito alto, ou inválido.
 QUEST_20171128_006290	Historic Site Ruins (Lv Recomendado : 120){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
 QUEST_20171128_006291	Demon Prison Guild (Lv Recomendado : 180){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
@@ -6804,8 +6804,8 @@ QUEST_20171128_006828	Suas práticas seguem largamente desconhecidas, tanto pelo
 QUEST_20171128_006829	No processo de captura e tortura destes demônios de alto escalão, os Zealots cometeram um alto número de assassinatos não intencionais.{nl}Em alguns casos, os demônios foram mortos durante o processo de captura. Não cientes das circunstâncias, um pequeno grupo da população demonstrava apoio aos, aparentemente, assassinatos calculados.
 QUEST_20171128_006830	Mesmo com este pouco suporte obtido, os Zealots continuavam vistos como algo negativo, o que só reforçava seu distanciamento da população em geral.{nl}Era desconsiderado o fato de suas ações servirem a nobre causa de obter contato com a Deusa Jurate.
 QUEST_20171128_006831	Diferente dos Loremasters de Jurate, os Zealots estavam determinados em resolver o problema através de seus meios radicais.{nl}A ordem acreditava que a falta de comunicação com Jurate era por causa da indústria da pesca e outras intrusões humanas em seu reino.{nl}Isto fez com que os Zealots não só sabotassem pescadores, mas também a Marinha Real, navios piratas e qualquer humano com alguma ligação com os mares.
-QUEST_20171128_006832	Mesmo que os Zealots não estavam completamente errados em suas interpretações dos desejos de Jurate, seus métodos dúbios e a recusa de adotar meios mais moderados fez com que caíssem em desgosto pela população.
-QUEST_20171128_006833	Ciente todos os acontecidos, o Reino forçou-se a colocar várias restrições legais contra as atividades dos Zealots, o que contribuiu com uma redução à oposição pública da ordem, mesmo com alguma aversão ainda restante.
+QUEST_20171128_006832	Mesmo que os Zealots não estivessem completamente errados em suas interpretações dos desejos de Jurate, seus métodos dúbios e a recusa de adotar meios mais moderados fez com que caíssem em desgosto pela população.
+QUEST_20171128_006833	Ciente de todos os acontecidos, o Reino forçou-se a colocar várias restrições legais contra as atividades dos Zealots, o que contribuiu com uma redução à oposição pública da ordem, mesmo com alguma aversão ainda restante.
 QUEST_20171128_006834	Apesar de sua devoção indiscutível, até hoje Zealots não conseguiram estabelecer-se como uma liderança religiosa entre outros Clerics devido sua abordagem singular e extrema da fé.{nl}Porém, por causa dessa característica, a ordem conseguiu manter suas atividades no Reino através das eras.
 QUEST_20171128_006835	Escrito pelo aprendiz de Inquistor, Thomas Iconostasis. Ano 1021 do Reino.
 QUEST_20171128_006836	Zealots: Uma História
@@ -7053,7 +7053,7 @@ QUEST_20171128_007078	Gyotaku é uma técnica milenar de fazer cópia do peixe p
 QUEST_20171128_007079	Uau! Você pescou um peixe ainda maior que o da última vez!
 QUEST_20171128_007080	Incrível! Este é o maior que vi esta semana!{nl}No momento, este peixe está em Primeiro Lugar.
 QUEST_20171128_007081	Este peixe é grande, mas alguém já pegou um maior.{nl}Mesmo assim, é um pescado e tanto.
-QUEST_20171128_007082	Este peixe é menhor que os outros já trouxeram.{nl}Boa sorte na próxima!
+QUEST_20171128_007082	Este peixe é menor que os outros já trouxeram.{nl}Boa sorte na próxima!
 QUEST_20171128_007083	Você precisará de um Peixe Prateado para fazer uma cópia de papel.
 QUEST_20171128_007084	Este peixe é menor do que o que você já trouxe antes.{nl}Mas não fique desapontado! Você pescará algo maior na próxima.
 QUEST_20171128_007085	First Refugee
@@ -9534,7 +9534,7 @@ QUEST_20180517_009652	Retornando ao mapa anterior.{nl} Por favor, verifique o te
 QUEST_20180517_009653	Todo o servidor pode receber o aumento de Chance de Drop uma vez por dia.
 QUEST_20180517_009654	Crystal Mine (PvP)
 QUEST_20180517_009655	Entrada permitida apenas durante os seguintes horários:{nl}10:00 - 10:15{nl}14:00 - 14:15{nl}18:00 - 18:15{nl}22:00 - 22:15
-QUEST_20180517_009656	A Crystal Mine está agora aberta. Gostaria de entrar?{nl}- Note que você receberá um time e campo aleatório, e poderá lutar contra o campo oposto (PvP).
+QUEST_20180517_009656	A Crystal Mine está agora aberta. Gostaria de entrar?{nl}- Note que você receberá um time e campo aleatório,{nl}e poderá lutar contra o campo oposto (PvP).
 QUEST_20180517_009657	Nenhum pedido de participação é aceito após 10 minutos.
 QUEST_20180517_009658	Você não pode participar com este personagem.
 QUEST_20180517_009659	Um monstro Chefe apareceu!
@@ -10436,9 +10436,9 @@ QUEST_20190104_010555	 por presentes. Há alguns com preço especial:{nl}15 de J
 QUEST_20190104_010556	[Teste Interno] Teleporte Boruta/Área GTW
 QUEST_20190104_010557	Disponibilizamos teleportes para a Raid Boruda e{nl}Áreas GTW como apoio à testes internos.{nl}Use 
 QUEST_20190104_010558	 para retornar.
-QUEST_20190104_010559	Ajudante do Aniversário 3 Anos
-QUEST_20190104_010560	É somente um por dia!{nl}Se perder alguma recompensa,{nl}volte para a recompensa de final de semana em dobro!{nl}
-QUEST_20190104_010561	, traga 30! Vou te dar uma recompensa bem legal em troca.
+QUEST_20190104_010559	{@st41}{#FF6700}Ajudante do Aniversário de 3 Anos{/}{/}
+QUEST_20190104_010560	Somente um prêmio é entregue por dia!{nl}Se perder algum, volte para a recompensa de final de semana em dobro!{nl}Traga 30 
+QUEST_20190104_010561	 para mim!{nl}Vou te dar uma recompensa bem legal em troca.
 QUEST_20190104_010562	Scouts são mestres em reconhecimento.
 QUEST_20190104_010563	Só que, Archon me tirou da Mage Tower.{nl}Por causa disso, a Magic Stone ativou uma magia defensiva,{nl}conectando os nossos espíritos.
 QUEST_20190104_010564	Estou presa aqui por centenas de anos...{nl}Afinal não consigo fazer nada com meu corpo astral.
@@ -10573,8 +10573,8 @@ QUEST_20190216_010692	Selecione um item para transcenter até o Estágio 5.
 QUEST_20190216_010693	Selecione um item para refinar até +11.
 QUEST_20190223_010694	O evento de Treinador de Monstros está de volta!{nl}Capture e treine seus monstros favoritos para derrotar os Chefes!{nl}
 QUEST_20190223_010695	Use a 'Armadilha Especial' para capturar até 3 monstros.{nl}{#003399}Dica!{/}{nl}Capture monstros em mapas comuns, Hunting Grounds e Modos Desafio.{nl}Você só não pode capturar monstros Elite ou Chefe.{nl}Quanto menor o HP, mais fácil de capturar! Só cuidado para não derrotá-los.
-QUEST_20190223_010696	Para poder {#003399}entrar na missão do evento{/},{nl}você precisa  
-UEST_20190223_010697	, que são entregues 12 todos os dias, por time.{nl}Você pode entrar na missão quantas vezes quiser.{nl}
+QUEST_20190223_010696	Para poder {#003399}entrar na missão do evento{/},{nl}você precisa de 
+QUEST_20190223_010697	, que são entregues 12 todos os dias, por time.{nl}Você pode entrar na missão quantas vezes quiser.{nl}
 QUEST_20190223_010698	Selecione um monstro para liberar.{nl}{#003399}Dica!{/}{nl}Você só pode liberar um monstro por vez,{nl}e isso consome Energia de Monstro x30.{nl}Quando capturar um novo, ele terá o mesmo nível daquele que você liberou.
 QUEST_20190223_010699	{@st41}{#FF6700}Ajudante dos Porquinhos Dourados{/}{/}
 QUEST_20190223_010700	Encontre a sua sorte em 2019 com os Porquinhos Dourados!
@@ -10637,3 +10637,49 @@ QUEST_20190223_010756	Você pode entrar durante os seguintes horários:{nl}21:10
 QUEST_20190223_010757	A entrada é permitida no horário programado. Os horários são:{nl}
 QUEST_20190313_010758	Classes válidas são:{nl}Base Swordman: Hackapell, Murmillo{nl}Base Wizard: Necromancer, Psychokino, Cryomancer{nl}Base Cleric: Druid, Monk, Plague Doctor{nl}Base Scout: todas, menos Thaumaturge
 QUEST_20190313_010759	Personagens da base Scout recebem {#0054FF}Skill Reset Potion (14 Dias) x1{/} e{nl}{#0054FF}Attribute Reset Potion (14 dias) x1{/} adicionais.
+QUEST_20190322_010760	Balde de Piramboias da Joha
+QUEST_20190322_010761	Por favor, escolha uma opção.
+QUEST_20190322_010762	E aí!{nl}Veio para mais uma rodada de pescaria?{nl}Ah, e eu tenho algo especial para você hoje.{nl}
+QUEST_20190322_010763	Olha só, são Piramboias!{nl}Eu mesmo que pesquei!
+QUEST_20190322_010764	Não está muito convencido, não?{nl}Ah, qual é! Experimenta usar uma vez só.{nl}
+QUEST_20190322_010765	Todo mundo anda muito interessado em pescar,{nl}os meus negócios estão indo muito bem"{nl}Haha, estou feliz de poder experimentar isso aqui.{nl}
+QUEST_20190322_010766	O que eu quero dizer é que...{nl}Você pode usar estas Piramboias como isca agora!{nl}
+QUEST_20190322_010767	Incrível, não acha?{nl}É, eu sei!{nl}
+QUEST_20190322_010768	Digo, elas não são de graça, é óbvio.{nl}Mas estou vendendo por um bom preço!{nl}
+QUEST_20190322_010769	Além disso, os efeitos dessa isca são bem especiais.{nl}Como que eu sei?... Segredo!{nl}De qualquer forma, vai lá, experimenta usar!{nl}
+QUEST_20190322_010770	Você pode pegar as Piramboias nesse balde aqui.
+QUEST_20190322_010771	Olá, como vai!{nl}Meu nome é Joha e eu administro a pesca aqui em Klaipeda.{nl}Eu também vendo todos os tipos de itens para pescaria.
+QUEST_20190322_010772	Se deseja experimentar,{nl}você tem que usar minha isca especial durante o evento.{nl}Só pegar algumas no balde, logo ali!
+QUEST_20190412_010773	Pajauta
+QUEST_20190412_010774	Pode continuar trabalhando comigo?{nl}Estarei aqui esperando por você.
+QUEST_20190412_010775	Não tenho muita certeza sobre você ainda.{nl}Vou pensar sobre isso se você estiver disposto a me ajudar.
+QUEST_20190412_010776	Não acredito em pessoas como você,{nl}que dizem que sonharam com as Revelações.{nl}Se houver mesmo Reveladores em algum lugar,{nl}eu sei que seria uma deles.{nl}Por que, então, eu não tive estes sonhos?
+QUEST_20190412_010777	{nl}Acho que só a Deusa Laima pode responder isso...
+QUEST_20190412_010778	Eu costumava pensar que orar para a Deusa resolveria tudo...
+QUEST_20190412_010779	Sabia que haveriam monstros aqui!{nl}Pode ir adiante e se livrar deles.{nl}Enquanto isso vou colocar a marca neste local.{nl}Nos encontramos de novo dentro de um minuto.
+QUEST_20190412_010780	Esta cidade parece muito mais segura que a Capital...
+QUEST_20190412_010781	Pensei que eles haviam sido eliminados de uma vez por todas...{nl}...Mas parece que tem ainda mais demônios agora.{nl}Precisamos lidar com essa situação agora mesmo!
+QUEST_20190412_010782	Ah, chegou bem na hora.{nl}Vou verificar o Central Square, você lida com estes demônios aqui.
+QUEST_20190412_010783	Vou avançar e lidar com os demais demônios.{nl}Conto com você para me dar cobertura com estes aqui!
+QUEST_20190412_010784	Aquilo ali é Sujeira Magnética.
+QUEST_20190412_010785	Você se concentra em coletar esse material.{nl}Eu dou um jeito no resto.
+QUEST_20190412_010786	Por que parece que os monstros ficam entrando no nosso caminho,{nl}sempre que você está por perto...
+QUEST_20190412_010787	Pode lidar com eles sem ajuda?{nl}Eu vou marcar o local enquanto isso.
+QUEST_20190412_010788	Veja as pessoas aqui.{nl}Estão assustadas, mas elas continuam levando as suas vidas.{nl}Seria por causa da enorme Estátua da Deusa?
+QUEST_20190412_010789	Mesmo assim,{nl}é muito legal finalmente ver outras pessoas,{nl}depois de tanto tempo.
+QUEST_20190412_010790	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/}.
+QUEST_20190416_010791	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/} e somente dentro do {#FF0000}Velcoffer's Nest{/}.
+QUEST_20190419_010792	Então você poderia conseguir 10 Pedaços de Estrela Cintilantes?{nl}Ah, claro! Isso é importante, então vou repetir.
+QUEST_20190419_010793	{#003399}Dica!{/}Você encontra Pedaços de Estrela Cintilantes em{nl}- Raids Lendárias
+QUEST_20190419_010794	: x5{nl}- Raids Únicas: x5{nl}- Estágio 5+ do Modo Desafio: x2{nl}- Missões de Saalus Convent: x1{nl}- Dungeons Instanciadas: x1
+QUEST_20190419_010795	{#FF0000}Dica!{/}{nl} 
+QUEST_20190419_010796	Pedaço de Estrela Cintilante
+QUEST_20190419_010797	cai por volta de 5 minutos após você terminar o conteúdo!
+QUEST_20190419_010798	Certo, jovem. Estarei esperando pelos itens!
+QUEST_20190419_010799	Eu poderia usar ainda mais Pedaços de Estrela Cintilantes.{nl}Sabe, todos estão vindo aqui atrás de itens melhores.
+QUEST_20190419_010800	Estive trabalhando em um tipo especial de armamento,{nl}mas estou com problemas em manter o estoque desses pedaços.{nl}Poderia obter alguns Pedaços de Estrela Cintilantes para mim?
+QUEST_20190419_010801	Ei, você já junto dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
+QUEST_20190419_010802	Parece que você ainda não achou Pedaços de Estrela Cintilantes suficientes.{nl}Ainda vai juntar mais alguns?{nl}Caso tenha esquecido, eu explico de novo.
+QUEST_20190419_010803	Vê se não esquece agora!
+QUEST_20190426_010804	Amantes de Tulipas de Klaipeda
+QUEST_20190426_010805	É a minha vez de receber uma Tulipa?{nl}Que ótimo! E o que você quer em troca?
